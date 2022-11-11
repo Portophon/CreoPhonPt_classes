@@ -1,0 +1,63 @@
+Language,SourceWord,TargetWord,SourceWordSyl,TargetWordSyl,TargetOrthography,Translation,SourceWord Length,TargetWord Length,SourceWordSyl Length,TargetWordSyl Length,Word difference,Word bigger,Syl difference,Syl bigger,check white spaces,,,,
+Timor Pidgin,oˈlotu,,oˈlotu,,eles,they,5,0,1,1,5,Source,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,kaˈt̠ʃoru,kɐˈʃoʀu,ka.ˈt̠ʃo.ru,kɐ.ˈʃo.ʀu,cachorro,dog,6,6,3,3,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,d̠ʒa,ʒa,d̠ʒa,ʒa,já,already,2,2,1,1,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈd̠ʒenti,ˈʒẽtɨ,ˈd̠ʒen.ti,ˈʒẽ.tɨ,gente,person,5,5,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,d̠ʒunˈtadu,ʒũˈtadu,d̠ʒun.ˈta.du,ʒũ.ˈta.du,juntado,together,7,7,3,3,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈdad̠ʒi,ˈdaʎɨ,ˈda.d̠ʒi,ˈda.ʎɨ,dá-lhe,strike,4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈt̠ʃua,ˈʃuvɐ,ˈt̠ʃu.a,ˈʃu.vɐ,chuva,rain,3,4,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈt̠ʃeru,ˈʃɐjɾu,ˈt̠ʃe.ru,ˈʃɐj.ɾu,cheiro,smell,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,nˈt̠ʃidu,ẽˈʃidu,n.ˈt̠ʃi.du,ẽ.ˈʃi.du,enchido,full,5,6,3,3,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,teŋ,teɾ,teŋ,teɾ,ter,"be, have",3,3,1,1,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈuŋwa,ˈu.mɐ,ˈuŋ.wa,u.ma,uma,"a, one",4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈsuzu,ˈsuʒu,ˈsu.zu,ˈsu.ʒu,sujo,dirty,4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,kaˈreta,kɐˈʀetɐ,ka.ˈre.ta,kɐ.ˈʀe.tɐ,carreta,"car, carriage",6,6,3,3,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈferu,ˈfɛʀu,ˈfe.ru,ˈfɛ.ʀu,ferro,iron,4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,baˈriga,bɐˈʀigɐ,ba.ˈri.ga,bɐ.ˈʀi.gɐ,barriga,belly,6,6,3,3,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈɔ:tu,ˈotɾu,ˈɔ:.tu,ˈo.tɾu,outro,other,4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈεbra,ˈεɾvɐ,ˈε.bra,ˈεɾ.vɐ,erva,grass,4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈbaka,ˈvakɐ,ˈba.ka,ˈva.kɐ,vaca,bovine,4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈɔbu,ˈovu,ˈɔ.bu,ˈo.vu,ovo,egg,3,3,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈnobu,ˈnovu,ˈno.bu,ˈno.vu,novo,new,4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,muˈjεr,muˈʎεɾ,mu.ˈjεr,mu.ˈʎεɾ,mulher,"woman, wife",5,5,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈɔju,ˈoʎu,ˈɔ.ju,ˈo.ʎu,olho,eye,3,3,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈaju,ˈaʎu,ˈa.ju,ˈa.ʎu,alho,garlic,3,3,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,eu,ew,eu,ew,eu,I,2,2,1,1,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈnuŋka,ˈnũkɐ,ˈnuŋ.ka,ˈnũ.kɐ,nunca,no,5,5,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,bai,vaj,bai,vaj,vai,go,3,3,1,1,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈpodi,pudeɾ,ˈpo.di,pu.deɾ,poder,can,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈfogu,ˈfogu,ˈfo.gu,ˈfo.gu,fogo,fire,4,4,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,boŋ,ˈbõ,boŋ,ˈbõ,bom,good,3,3,1,1,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈpesi,ˈpejʃɨ,ˈpe.si,ˈpej.ʃɨ,peixe,fish,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ɔzi,ˈoʒɨ,ɔ.zi,ˈo.ʒɨ,hoje,today,3,3,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,miˈza,miˈʒaɾ,mi.ˈza,mi.ˈʒaɾ,mijar,urinate,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈkezu,ˈkɐjʒu,ˈke.zu,ˈkɐj.ʒu,queijo,cheese,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈkransa,kɾiˈɐ̃sɐ,ˈkran.sa,kɾi.ˈɐ̃.sɐ,criança,child,6,7,2,3,-1,Target,-1,Target,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈobi,oˈviɾ,ˈo.bi,o.ˈviɾ,ouvir,hear,3,4,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,aˈzeti,ɐˈzɐjtɨ,a.ˈze.ti,ɐ.ˈzɐj.tɨ,azeite,oil,5,6,3,3,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈpetu,ˈpejtu,ˈpe.tu,ˈpej.tu,peito,breast,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈbesu,ˈbɐjʒu,ˈbe.su,ˈbɐj.ʒu,beiço,lip,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈleti,ˈlɐjtɨ,ˈle.ti,ˈlɐj.tɨ,leite,milk,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈɔja,ɔˈʎaɾ,ˈɔ.ja,ɔ.ˈʎaɾ,olhar,"look, see",3,4,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,bos,ˈvɔʃ,bos,ˈvɔʃ,você,thou,3,3,1,1,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,eli,ˈelɨ,e.li,ˈe.lɨ,ele,he,3,3,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,nos,ˈnɔʃ,nos,ˈnɔʃ,nós,we,3,3,1,1,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈpusaˈbafu,puˈʃaɾˈbafu,ˈpu.saˈba.fu,pu.ˈʃaɾ.ˈba.fu,puxa bafo,breathe,8,9,3,4,-1,Target,-1,Target,#VALUE!,#VALUE!,#VALUE!,#VALUE!,5
+Timor Pidgin,ˈfaze,fɐˈzeɾ,ˈfa.ze,fɐˈ.zeɾ,fazer,do,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈprende,pɾẽˈdeɾ,ˈpren.de,pɾẽ.ˈdeɾ,prender,"learn, teach",6,7,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈbuska,buʃˈkaɾ,ˈbus.ka,buʃ.ˈkaɾ,buscar,seek,5,6,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈbota,buˈtaɾ,ˈbo.ta,bu.ˈtaɾ,botar,put,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,korpu,ˈkoɾpu,kor.pu,ˈkoɾ.pu,body,body,5,5,2,2,0,Equal,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈkume,kuˈmeɾ,ˈku.me,ku.ˈmeɾ,comer,eat,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈsega,ʃɨˈɡaɾ,ˈse.ga,ʃɨ.ˈɡaɾ,chegar,arrive,4,5,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,alguˈdaŋ,aɫguˈdɐ̃w̃,al.gu.ˈdaŋ,aɫ.gu.ˈdɐ̃w̃,algodão,cotton,7,9,3,3,-2,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈsande,ɐsẽˈdeɾ,ˈsan.de,ɐ.sẽ.ˈdeɾ,acender,ignite,5,7,2,3,-2,Target,-1,Target,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈmara,ɐmɐˈʀaɾ,ˈma.ra,ɐ.mɐ.ˈʀaɾ,amarrar,tie,4,6,2,3,-2,Target,-1,Target,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ˈpaga,ɐpɐˈgaɾ,ˈpa.ga,ɐ.pɐ.ˈgaɾ,apagar,extinguish,4,6,2,3,-2,Target,-1,Target,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,sai,sɐˈiɾ,sa.i,sɐ.ˈiɾ,sair,leave,3,4,2,2,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,ri,ˈʀiɾ,ri,ˈʀiɾ,rir,laugh,2,3,1,1,-1,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,korˈsaŋ,kuɾɐˈsɐ̃w̃,kor.ˈsaŋ,ku.ɾɐ.ˈsɐ̃w̃,coração,heart,6,9,2,3,-3,Target,-1,Target,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,numˈpodi,ˈnɐ̃w̃ˈpɔdɨ,num.ˈpo.di,ˈnɐ̃w̃.ˈpɔ.dɨ,não pode,cannot,7,9,3,3,-2,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,4
+Timor Pidgin,beŋ,ˈvɐ̃j̃,beŋ,ˈvɐ̃j̃,vem,come,3,5,1,1,-2,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,la,lɐˈvaɾ,la,lɐ.ˈvaɾ,lavar,wash,2,5,1,2,-3,Target,-1,Target,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Timor Pidgin,nunˈte,ˈnɐ̃w̃ˈtãj̃,nun.ˈte,ˈnɐ̃w̃.ˈtãj̃,não tem,not have,5,10,2,2,-5,Target,0,Equal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,4
