@@ -1,0 +1,98 @@
+Language,SourceWord,TargetWord,SourceWordSyl,TargetWordSyl,SourceSyllable,TargetSyllable,PositionSource,PositionTarget,Process,TargetOrthography,Translation,Reference,Notes,SourceWordlength,,,,SourceWordlength,TargetWordlength,,,,,,,,SourceWordSly length,TargetWordSly length,Word diff,Word bigger,Sly diff,SylNumbigger,Encontra espaço branco
+Patua Macau,teŋ,teɾ,teŋ,teɾ,teŋ,teɾ,1,1,,ter,"be, have",Baxter1990[7-21],,3,teŋ,teŋ,teŋ,3,3,ter,teɾ,teɾ,teɾ,teɾ,teɾ,teɾ,1,1,0,Equal,0,Equal,#VALUE!
+Patua Macau,bɔŋ,ˈbõ,bɔŋ,ˈbõ,bɔŋ,ˈbõ,1,1,,bom,good,Baxter1990[7-21],,3,bɔŋ,bɔŋ,bɔŋ,3,3,bom,ˈbõ,ˈbõ,bõ,bõ,bõ,bõ,1,1,0,Equal,0,Equal,#VALUE!
+Patua Macau,ˈuŋa,ˈumɐ,ˈu.ŋa,ˈu.mɐ,ˈu,ˈu,1,1,assimilation,uma,"a, one",Baxter1990[7-21],,4,uŋa,uŋa,uŋa,3,3,uma,ˈumɐ,ˈumɐ,umɐ,umɐ,umɐ,umɐ,2,2,0,Equal,0,Equal,#VALUE!
+Patua Macau,algoˈdaŋ,aɫɡuˈdɐ̃w̃,al.go.ˈdaŋ,aɫ.ɡu.ˈdɐ̃w̃,ŋa,mɐ,2,2,,uma,"a, one",Baxter1990[7-21],,8,algodaŋ,algodaŋ,algodaŋ,7,7,algodão,aɫɡuˈdɐ̃w̃,aɫɡuˈdɐ̃w̃,aɫɡudɐ̃w̃,aɫɡudaw,aɫɡudaw,aɫɡudaw,3,3,0,Equal,0,Equal,#VALUE!
+Patua Macau,kɔraˈsaŋ,kuɾɐˈsɐ̃w̃,kɔ.ra.ˈsaŋ,ku.ɾɐ.ˈsɐ̃w̃,al,aɫ,1,1,,algodão,cotton,Baxter1990[7-21],,8,kɔrasaŋ,kɔrasaŋ,kɔrasaŋ,7,7,coração,kuɾɐˈsɐ̃w̃,kuɾɐˈsɐ̃w̃,kuɾɐsɐ̃w̃,kuɾɐsaw,kuɾɐsaw,kuɾɐsaw,3,3,0,Equal,0,Equal,#VALUE!
+Patua Macau,ˈt̠ʃua,ˈʃuvɐ,ˈt̠ʃ.ua,ˈʃu.vɐ,go,ɡu,2,2,,algodão,cotton,Baxter1990[7-21],,6,t̠ʃua,t̠ʃua,ʃua,3,5,chuva,ˈʃuvɐ,ˈʃuvɐ,ʃuvɐ,ʃuvɐ,ʃuvɐ,ʃuvɐ,2,2,-2,Target,0,Equal,#VALUE!
+Patua Macau,kat̠ʃˈoro,kɐˈʃoʀu,ka.t̠ʃˈo.ro,kɐ.ˈʃo.ʀu,ˈdaŋ,ˈdɐ̃w̃,3,3,,algodão,cotton,Baxter1990[7-21],,9,kat̠ʃoro,kat̠ʃoro,kaʃoro,6,8,cachorro,kɐˈʃoʀu,kɐˈʃoʀu,kɐʃoʀu,kɐʃoʀu,kɐʃoʀu,kɐʃoʀu,3,3,-2,Target,0,Equal,#VALUE!
+Patua Macau,ˈt̠ʃero,ˈʃɐjru,ˈt̠ʃe.ro,ˈʃɐj.ru,kɔ,ku,1,1,,coração,heart,Baxter1990[7-21],,7,t̠ʃero,t̠ʃero,ʃero,4,6,cheiro,ˈʃɐjru,ˈʃɐjru,ʃɐjru,ʃɐjru,ʃɐjru,ʃɐjru,2,2,-2,Target,0,Equal,#VALUE!
+Patua Macau,eˈt̠ʃido,ẽˈʃidu,e.ˈt̠ʃi.do,ẽ.ˈʃi.du,ra,.ɾɐ,2,2,,coração,heart,Baxter1990[7-21],,8,et̠ʃido,et̠ʃido,eʃido,5,7,enchido,ẽˈʃidu,ẽˈʃidu,ẽʃidu,ẽʃidu,ẽʃidu,ẽʃidu,3,3,-2,Target,0,Equal,#VALUE!
+Patua Macau,d̠ʒa,ʒa,d̠ʒa,ʒa,ˈsaŋ,ˈsɐ̃w̃,3,3,,coração,heart,Baxter1990[7-21],,4,d̠ʒa,ʒa,ʒa,2,2,já,ʒa,ʒa,ʒa,ʒa,ʒa,ʒa,1,1,0,Equal,0,Equal,#VALUE!
+Patua Macau,ˈd̠ʒente,ˈʒẽtɨ,ˈd̠ʒen.te,ˈʒẽ.tɨ,ˈt̠ʃ,ˈʃu,1,1,,chuva,rain,Baxter1990[7-21],,8,d̠ʒente,ʒente,ʒente,5,5,gente,ˈʒẽtɨ,ˈʒẽtɨ,ʒẽtɨ,ʒẽtɨ,ʒẽtɨ,ʒẽtɨ,2,2,0,Equal,0,Equal,#VALUE!
+Patua Macau,d̠ʒunˈtado,ʒũˈtadu,d̠ʒun.ˈta.do,ʒũ.ˈta.du,ua,vɐ,2,2,,chuva,rain,Baxter1990[7-21],,10,d̠ʒuntado,ʒuntado,ʒuntado,7,7,juntado,ʒũˈtadu,ʒũˈtadu,ʒũtadu,ʒũtadu,ʒũtadu,ʒũtadu,3,3,0,Equal,0,Equal,#VALUE!
+Patua Macau,ˈpese,ˈpejʃɨ,ˈpe.se,ˈpej.ʃɨ,ka,kɐ,1,1,,cachorro,dog,Baxter1990[7-21],,5,pese,pese,pese,4,5,peixe,ˈpejʃɨ,ˈpejʃɨ,pejʃɨ,pejʃɨ,pejʃɨ,pejʃɨ,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈɔze,ˈoʒ,ˈɔ.ze,ˈo.ʒ,t̠ʃˈo,ˈʃo,2,2,,cachorro,dog,Baxter1990[7-21],,4,ɔze,ɔze,ɔze,3,4,hoje,ˈoʒ,ˈoʒ,oʒ,oʒ,oʒ,oʒ,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,miˈza,miˈʒar,mi.ˈza,mi.ˈʒar,ro,ʀu,3,3,,cachorro,dog,Baxter1990[7-21],,5,miza,miza,miza,4,5,mijar,miˈʒar,miˈʒar,miʒar,miʒar,miʒar,miʒar,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈked̠ʒo,ˈkɐjʒu,ˈke.d̠ʒo,ˈkɐj.ʒu,ˈt̠ʃe,ˈʃɐj,1,1,,cheiro,smell,Baxter1990[7-21],,7,ked̠ʒo,keʒo,keʒo,4,6,queijo,ˈkɐjʒu,ˈkɐjʒu,kɐjʒu,kɐjʒu,kɐjʒu,kɐjʒu,2,2,-2,Target,0,Equal,#VALUE!
+Patua Macau,ˈsuzu,ˈsuʒu,ˈsu.zu,ˈsu.ʒu,ro,ru,2,2,,cheiro,smell,Baxter1990[7-21],,5,suzu,suzu,suzu,4,4,sujo,ˈsuʒu,ˈsuʒu,suʒu,suʒu,suʒu,suʒu,2,2,0,Equal,0,Equal,#VALUE!
+Patua Macau,kaˈreta,kɐˈʀetɐ,ka.ˈre.ta,kɐ.ˈʀe.tɐ,e,ẽ,1,1,,enchido,full,Baxter1990[7-21],,7,kareta,kareta,kareta,6,7,carreta,kɐˈʀetɐ,kɐˈʀetɐ,kɐʀetɐ,kɐʀetɐ,kɐʀetɐ,kɐʀetɐ,3,3,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈfero,ˈfɛʀu,ˈfe.ro,ˈfɛ.ʀu,ˈt̠ʃi,ˈʃi,2,2,,enchido,full,Baxter1990[7-21],,5,fero,fero,fero,4,5,ferro,ˈfɛʀu,ˈfɛʀu,fɛʀu,fɛʀu,fɛʀu,fɛʀu,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,baˈriga,bɐˈʀigɐ,ba.ˈri.ga,bɐ.ˈʀi.gɐ,do,du,3,3,,enchido,full,Baxter1990[7-21],,7,bariga,bariga,bariga,6,7,barriga,bɐˈʀigɐ,bɐˈʀigɐ,bɐʀigɐ,bɐʀigɐ,bɐʀigɐ,bɐʀigɐ,3,3,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈtro,ˈotɾu,ˈtro,ˈo.tɾu,d̠ʒa,ʒa,1,1,,já,already,Baxter1990[7-21],,4,tro,tro,tro,3,5,outro,ˈotɾu,ˈotɾu,otɾu,otɾu,otɾu,otɾu,1,2,-2,Target,-1,Target,#VALUE!
+Patua Macau,ˈkjansa,kɾiˈɐ̃sɐ,ˈkjan.sa,kɾi.ˈɐ̃.sɐ,ˈd̠ʒen,ˈʒẽ,1,1,,gente,person,Baxter1990[7-21],,7,kjansa,kjansa,kjansa,6,7,criança,kɾiˈɐ̃sɐ,kɾiˈɐ̃sɐ,kɾiɐ̃sɐ,kɾiɐ̃sɐ,kɾiɐ̃sɐ,kɾiɐ̃sɐ,2,3,-1,Target,-1,Target,#VALUE!
+Patua Macau,ˈvaka,ˈvakɐ,ˈva.ka,ˈva.kɐ,te,tɨ,2,2,,gente,person,Baxter1990[7-21],,5,vaka,vaka,vaka,4,4,vaca,ˈvakɐ,ˈvakɐ,vakɐ,vakɐ,vakɐ,vakɐ,2,2,0,Equal,0,Equal,#VALUE!
+Patua Macau,uvˈi,oˈvir,u.vˈi,o.ˈvir,d̠ʒun,ʒũ,1,1,,juntado,together,Baxter1990[7-21],,4,uvi,uvi,uvi,3,5,ouvir,oˈvir,oˈvir,ovir,ovir,ovir,ovir,2,2,-2,Target,0,Equal,#VALUE!
+Patua Macau,ˈɔvu,ˈovu,ˈɔ.vu,ˈo.vu,ˈta,ˈta,2,2,,juntado,together,Baxter1990[7-21],,4,ɔvu,ɔvu,ɔvu,3,3,ovo,ˈovu,ˈovu,ovu,ovu,ovu,ovu,2,2,0,Equal,0,Equal,#VALUE!
+Patua Macau,ˈnɔvo,ˈnovu,ˈnɔ.vo,ˈno.vu,do,du,3,3,,juntado,together,Baxter1990[7-21],,5,nɔvo,nɔvo,nɔvo,4,4,novo,ˈnovu,ˈnovu,novu,novu,novu,novu,2,2,0,Equal,0,Equal,#VALUE!
+Patua Macau,aˈzete,ɐˈzɐjtɨ,a.ˈze.te,ɐ.ˈzɐj.tɨ,ˈpe,ˈpej,1,1,,peixe,fish,Baxter1990[7-21],,6,azete,azete,azete,5,6,azeite,ɐˈzɐjtɨ,ɐˈzɐjtɨ,ɐzɐjtɨ,ɐzɐjtɨ,ɐzɐjtɨ,ɐzɐjtɨ,3,3,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈbeso,ˈbɐjsu,ˈbe.so,ˈbɐj.su,se,ʃɨ,2,2,,peixe,fish,Baxter1990[7-21],,5,beso,beso,beso,4,5,beiço,ˈbɐjsu,ˈbɐjsu,bɐjsu,bɐjsu,bɐjsu,bɐjsu,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈpeto,ˈpejtu,ˈpe.to,ˈpej.tu,ˈɔ,ˈo,1,1,,hoje,today,Baxter1990[7-21],,5,peto,peto,peto,4,5,peito,ˈpejtu,ˈpejtu,pejtu,pejtu,pejtu,pejtu,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈlεte,ˈlɐjtɨ,ˈlε.te,ˈlɐj.tɨ,ze,ʒ,2,2,,hoje,today,Baxter1990[7-21],,5,lεte,lεte,lεte,4,5,leite,ˈlɐjtɨ,ˈlɐjtɨ,lɐjtɨ,lɐjtɨ,lɐjtɨ,lɐjtɨ,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,muˈler,muˈʎɛr,mu.ˈler,mu.ˈʎɛr,mi,mi,1,1,,mijar,urinate,Baxter1990[7-21],,6,muler,muler,muler,5,6,mulher,muˈʎɛr,muˈʎɛr,muʎɛr,muʎɛr,muʎɛr,muʎɛr,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈɔlu,ˈoʎu,ˈɔ.lu,ˈo.ʎu,ˈza,ˈʒar,2,2,,mijar,urinate,Baxter1990[7-21],,4,ɔlu,ɔlu,ɔlu,3,4,olho,ˈoʎu,ˈoʎu,oʎu,oʎu,oʎu,oʎu,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,ˈdali,ˈdaʎɨ,ˈda.li,ˈda.ʎɨ,ˈke,ˈkɐj,1,1,,queijo,cheese,Baxter1990[7-21],,5,dali,dali,dali,4,5,dálhe,ˈdaʎɨ,ˈdaʎɨ,daʎɨ,daʎɨ,daʎɨ,daʎɨ,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,oˈla,ɔˈʎar,oˈla,ɔ.ˈʎar,d̠ʒo,ʒu,2,2,,queijo,cheese,Baxter1990[7-21],,4,ola,ola,ola,3,5,olhar,ɔˈʎar,ɔˈʎar,ɔʎar,ɔʎar,ɔʎar,ɔʎar,1,2,-2,Target,-1,Target,#VALUE!
+Patua Macau,ˈalo,ˈa.ʎu,ˈalo,ˈa.ʎu,ˈsu,ˈsu,1,1,,sujo,dirty,Baxter1990[7-21],,4,alo,alo,alo,3,4,alho,ˈa.ʎu,ˈa.ʎu,a.ʎu,a.ʎu,a.ʎu,a.ʎu,1,1,-1,Target,0,Equal,#VALUE!
+Patua Macau,jo,ˈew,jo,ˈew,zu,ʒu,2,2,,sujo,dirty,Baxter1990[7-21],,2,jo,jo,jo,2,2,eu,ˈew,ˈew,ew,ew,ew,ew,1,1,0,Equal,0,Equal,#VALUE!
+Patua Macau,vɔs,vɔˈse,vɔs,vɔ.ˈse,ka,kɐ,1,1,,carreta,"car, carriage",Baxter1990[7-21],,3,vɔs,vɔs,vɔs,3,4,você,vɔˈse,vɔˈse,vɔse,vɔse,vɔse,vɔse,1,2,-1,Target,-1,Target,#VALUE!
+Patua Macau,ˈele,ˈelɨ,ˈele,ˈe.lɨ,ˈre,ˈʀe,2,2,,carreta,"car, carriage",Baxter1990[7-21],,4,ele,ele,ele,3,3,ele,ˈelɨ,ˈelɨ,elɨ,elɨ,elɨ,elɨ,1,2,0,Equal,-1,Target,#VALUE!
+Patua Macau,nos,ˈnɔʃ,nos,ˈnɔʃ,ta,tɐ,3,3,,carreta,"car, carriage",Baxter1990[7-21],,3,nos,nos,nos,3,3,nós,ˈnɔʃ,ˈnɔʃ,nɔʃ,nɔʃ,nɔʃ,nɔʃ,1,1,0,Equal,0,Equal,#VALUE!
+Patua Macau,vos,ˈvɔʃ,vos,ˈvɔʃ,ˈfe,ˈfɛ,1,1,,ferro,iron,Baxter1990[7-21],,3,vos,vos,vos,3,3,vós,ˈvɔʃ,ˈvɔʃ,vɔʃ,vɔʃ,vɔʃ,vɔʃ,1,1,0,Equal,0,Equal,#VALUE!
+Patua Macau,iˈlotro,ˈelɨʃ,i.ˈlo.tro,ˈe.lɨʃ,ro,ʀu,2,2,,ferro,iron,Baxter1990[7-21],,7,ilotro,ilotro,ilotro,6,4,eles,ˈelɨʃ,ˈelɨʃ,elɨʃ,elɨʃ,elɨʃ,elɨʃ,3,2,2,Source,1,Source,#VALUE!
+Patua Macau,nunca,ˈnũkɐ,nun.ca,ˈnũ.kɐ,ba,bɐ,1,1,,barriga,belly,Baxter1990[7-21],,5,nunca,nunca,nunca,5,5,nunca,ˈnũkɐ,ˈnũkɐ,nũkɐ,nũkɐ,nũkɐ,nũkɐ,2,2,0,Equal,0,Equal,#VALUE!
+Patua Macau,numtêm,ˈnɐ̃w̃ˈtɐj̃,num.têm,ˈnɐ̃w̃.ˈtɐj̃,ˈri,ˈʀi,2,2,,barriga,belly,Baxter1990[7-21],,6,numtêm,numtêm,numtêm,6,6,nãotem,ˈnɐ̃w̃ˈtɐj̃,ˈnɐ̃w̃ˈtɐj̃,nɐ̃w̃tɐj̃,nawtɐj̃,nawtaj,nawtaj,2,2,0,Equal,0,Equal,#VALUE!
+Patua Macau,nompôdi,ˈnɐ̃w̃ˈpodɨ,nom.pô.di,ˈnɐ̃w̃.ˈpo.dɨ,ga,gɐ,3,3,,barriga,belly,Baxter1990[7-21],,7,nompôdi,nompôdi,nompôdi,7,7,nãopode,ˈnɐ̃w̃ˈpodɨ,ˈnɐ̃w̃ˈpodɨ,nɐ̃w̃podɨ,nawpodɨ,nawpodɨ,nawpodɨ,3,3,0,Equal,0,Equal,#VALUE!
+Patua Macau,puˈsabaˈfado,ˈpuʃɐˈbafu,pu.ˈsa.ba.ˈfa.do,ˈpu.ʃɐ.ˈba.fu,ˈtro,ˈo(w),1,1,metatheis,outro,other,Baxter1990[7-21],,12,pusabafado,pusabafado,pusabafado,10,8,puxabafo,ˈpuʃɐˈbafu,ˈpuʃɐˈbafu,puʃɐbafu,puʃɐbafu,puʃɐbafu,puʃɐbafu,5,4,2,Source,1,Source,#VALUE!
+Patua Macau,vɛ̃,ˈvɐ̃j̃,vɛ̃,ˈvɐ̃j̃,-,tru,-,2,,outro,other,Baxter1990[7-21],,3,vɛ̃,vɛ̃,vɛ̃,3,3,vem,ˈvɐ̃j̃,ˈvɐ̃j̃,vɐ̃j̃,vɐ̃j̃,vɐ̃j̃,vaj,1,1,0,Equal,0,Equal,#VALUE!
+Patua Macau,vai,vaj,vai,vaj,ˈkjan,kɾi,1,1,,criança,child,Baxter1990[7-21],,3,vai,vai,vai,3,3,vai,vaj,vaj,vaj,vaj,vaj,vaj,1,1,0,Equal,0,Equal,#VALUE!
+Patua Macau,faˈze,fɐˈzeɾ,fa.ˈze,fɐ.ˈzeɾ,-,ˈɐ̃,-,2,,criança,child,Baxter1990[7-21],,5,faze,faze,faze,4,5,fazer,fɐˈzeɾ,fɐˈzeɾ,fɐzeɾ,fɐzeɾ,fɐzeɾ,fɐzeɾ,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,poˈde,puˈder,po.ˈde,pu.ˈder,sa,sɐ,2,3,,criança,child,Baxter1990[7-21],,5,pode,pode,pode,4,5,poder,puˈder,puˈder,puder,puder,puder,puder,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,sanˈde,ɐsẽˈder,san.ˈde,ɐ.sẽ.ˈder,ˈva,ˈva,1,1,,vaca,bovine,Baxter1990[7-21],,6,sande,sande,sande,5,7,acender,ɐsẽˈder,ɐsẽˈder,ɐsẽder,ɐsẽder,ɐsẽder,ɐsẽder,2,3,-2,Target,-1,Target,#VALUE!
+Patua Macau,maˈra,ɐmɐˈʀar,ma.ˈra,ɐ.mɐ.ˈʀar,ka,kɐ,2,2,,vaca,bovine,Baxter1990[7-21],,5,mara,mara,mara,4,7,amarrar,ɐmɐˈʀar,ɐmɐˈʀar,ɐmɐʀar,ɐmɐʀar,ɐmɐʀar,ɐmɐʀar,2,3,-3,Target,-1,Target,#VALUE!
+Patua Macau,paˈga,ɐpɐˈɡar,pa.ˈga,ɐ.pɐ.ˈɡar,u,o(w),1,1,,ouvir,hear,Baxter1990[7-21],,5,paga,paga,paga,4,6,apagar,ɐpɐˈɡar,ɐpɐˈɡar,ɐpɐɡar,ɐpɐɡar,ɐpɐɡar,ɐpɐɡar,2,3,-2,Target,-1,Target,#VALUE!
+Patua Macau,aprenˈde,ɐprẽˈder,a.pren.ˈde,ɐ.prẽ.ˈder,vˈi,ˈvir,2,2,,ouvir,hear,Baxter1990[7-21],,8,aprende,aprende,aprende,7,8,aprender,ɐprẽˈder,ɐprẽˈder,ɐprẽder,ɐprẽder,ɐprẽder,ɐprẽder,3,3,-1,Target,0,Equal,#VALUE!
+Patua Macau,boˈta,buˈtar,bo.ˈta,bu.ˈtar,ˈɔ,ˈo,1,1,,ovo,egg,Baxter1990[7-21],,5,bota,bota,bota,4,5,botar,buˈtar,buˈtar,butar,butar,butar,butar,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,sai,sɐˈiɾ,sai,sɐ.ˈiɾ,vu,vu,2,2,,ovo,egg,Baxter1990[7-21],,3,sai,sai,sai,3,4,sair,sɐˈiɾ,sɐˈiɾ,sɐiɾ,sɐiɾ,sɐiɾ,sɐiɾ,1,2,-1,Target,-1,Target,#VALUE!
+Patua Macau,ri,ˈʀir,ri,ˈʀir,ˈnɔ,ˈno,1,1,,novo,new,Baxter1990[7-21],,2,ri,ri,ri,2,3,rir,ˈʀir,ˈʀir,ʀir,ʀir,ʀir,ʀir,1,1,-1,Target,0,Equal,#VALUE!
+Patua Macau,koˈme,kuˈmeɾ,ko.ˈme,ku.ˈmeɾ,vo,vu,2,2,,novo,new,Baxter1990[7-21],,5,kome,kome,kome,4,5,comer,kuˈmeɾ,kuˈmeɾ,kumeɾ,kumeɾ,kumeɾ,kumeɾ,2,2,-1,Target,0,Equal,#VALUE!
+Patua Macau,t̠ʃeˈga,ʃɨˈɡaɾ,t̠ʃe.ˈga,ʃɨ.ˈɡaɾ,a,ɐ,1,1,,azeite,oil,Baxter1990[7-21],,7,t̠ʃega,t̠ʃega,ʃega,4,6,chegar,ʃɨˈɡaɾ,ʃɨˈɡaɾ,ʃɨɡaɾ,ʃɨɡaɾ,ʃɨɡaɾ,ʃɨɡaɾ,2,2,-2,Target,0,Equal,#VALUE!
+Patua Macau,,,,,ˈze,ˈzɐj,2,2,,azeite,oil,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,te,tɨ,3,3,,azeite,oil,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,ˈbe,ˈbɐj,1,1,,beiço,lip,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,so,su,2,2,,beiço,lip,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,ˈpe,ˈpej,1,1,,peito,breast,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,to,tu,2,2,,peito,breast,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,ˈlε,ˈlɐj,1,1,,leite,milk,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,te,tɨ,2,2,,leite,milk,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,mu,mu,1,1,,mulher,"woman, wife",Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,ˈler,ˈʎɛr,2,2,,mulher,"woman, wife",Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,ˈɔ,ˈo,1,1,,olho,eye,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,lu,ʎu,2,2,,olho,eye,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,ˈda,ˈda,1,1,,dá-lhe,strike,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,li,ˈda-ʎɨ,2,2,,dá-lhe,strike,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,olhar,"look, see",Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,alho,garlic,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,eu,I,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,você,thou,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,ele,he,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,nós,we,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,vós,you,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,eles,they,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,nunca,no,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,não tem,not have,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,não pode,cannot,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,puxa bafo,breathe,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,vem,come,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,vai,go,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,fazer,do,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,poder,can,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,acender,ignite,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,amarrar,tie,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,apagar,extinguish,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,aprender,"learn, teach",Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,botar,put,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,sair,leave,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,rir,laugh,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,comer,eat,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
+Patua Macau,,,,,,,,,,chegar,arrive,Baxter1990[7-21],,,,,,,,,,,,,,,,,,,,,
