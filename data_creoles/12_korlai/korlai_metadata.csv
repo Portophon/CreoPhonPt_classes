@@ -1,13 +1,10 @@
-﻿Language ;Korlai Creole;Desai2019
-Area;Northern India (tiny village of Korlai near Chaul in the Konkan, Maharashtra);Desai2019
-Lexifier;Portuguese;Desai2019
-FirstMajorSettlement;1520;Desai2019
-EndOfInfluence;1740;Desai2019
-ContactConditions;fort creolo;Desai2019
-LanguageContact;"Português and Marathi
-Língua de konkan 
-Christianity 
-";Desai2019
-NumberOfLanguages ;4;Desai2019
-Bilingualism;yes;Desai2019
-Notes;;
+﻿Language,KorlaiCreole,Desai2019
+Area,NorthernIndia,Desai2019
+Lexifier,Portuguese,Desai2019
+FirstMajorSettlement,1520,Desai2019
+EndOfInfluence,1740,Desai2019
+ContactConditions,fortcreolo,Desai2019
+LanguageContact,"Portuguese Marathi Konkani",Desai2019
+NumberOfLanguages,3,Desai2019
+Bilingualism,yes,Desai2019
+Notes,,
