@@ -1,0 +1,380 @@
+Language,SourceWord,TargetWord,SourceWordSyllable,TargetWordSyylable,TargetOrthography,Translation,SourceWword Length,TargetWord Length,SourceWordSyl Length, TargetWordSyl Length,Word difference,word bigger,Syl difference ,Syl bigger
+Fa d’Ambo,ˈaju,ˈaʎu,ˈaju,ˈa.ʎu,alho,garlic,3,3,1,2,0,Equal,-1,Target
+Fa d’Ambo,aˈloso,ɐˈʀoʃ,a.ˈlo.so,ɐ.ˈʀoʃ,arroz,rice,5,4,3,2,1,Source,1,Source
+Fa d’Ambo,ˈawa,ˈagwɐ,ˈa.wa,ˈa.gwɐ,água,water,3,4,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈawaˈdẽt̠ʃi,ˈagwaɾˈdẽtɨ,ˈa.wa.ˈdẽ.t̠ʃi,ˈa.gwaɾ.ˈdẽ.tɨ,aguardente,brandy,8,10,4,4,-2,Target,0,Equal
+Fa d’Ambo,baˈnana,bɐˈnɐnɐ,ba.ˈna.na,bɐ.ˈnɐ.nɐ,banana,banana,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,gɔ:ˈdula,ɡuɾˈduɾɐ,gɔ:.ˈdu.la,ɡuɾ.ˈdu.ɾɐ,gordura,fat,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,faˈĩa,fɐˈɾiɲɐ,fa.ˈĩ.a,fɐ.ˈɾi.ɲɐ,farinha,flour,5,6,3,3,-1,Target,0,Equal
+Fa d’Ambo,feˈzɐ̃,fɐjˈʒɐ̃w̃,fe.ˈzɐ̃,fɐj.ˈʒɐ̃w̃,feijão,bean,5,7,2,2,-2,Target,0,Equal
+Fa d’Ambo,xa:daˈlɐ̃,kaɫdejˈɾadɐ,xa:.da.ˈlɐ̃,kaɫ.dɐj.ˈɾa.dɐ,caldeirada,fish stew,8,10,3,4,-2,Target,-1,Target
+Fa d’Ambo,xaˈna,ˈkɐnɐ,xa.ˈna,ˈkɐ.nɐ,cana,sugarcane,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈxa:ni,ˈkaɾnɨ,ˈxa:.ni,ˈkaɾ.nɨ,carne,meat,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈlete,ˈlɐjtɨ,ˈle.te,ˈlɐj.tɨ,leite,milk,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,mɐ̃ˈmɐ̃,mɐˈmɐ̃w̃,mɐ̃.ˈmɐ̃,mɐ.ˈmɐ̃w̃,mamão,papaya,6,6,2,2,0,Equal,0,Equal
+Fa d’Ambo,mɐ̃ˈd̠ʒoxa,mɐ̃diˈɔkɐ,mɐ̃.ˈd̠ʒo.xa,mɐ̃.di.ˈɔ.kɐ,mandioca,manjoka,7,8,3,4,-1,Target,-1,Target
+Fa d’Ambo,ˈmɛlɛ,ˈmɛɫ,ˈmɛ.lɛ,ˈmɛɫ,mel,honey,4,3,2,1,1,Source,1,Source
+Fa d’Ambo,ˈmoj,ˈmoʎu,ˈmoj,ˈmo.ʎu,molho,bunch,3,4,1,2,-1,Target,-1,Target
+Fa d’Ambo,ˈna:d̠ʒi,ɐbɐkɐˈʃi,ˈna:.d̠ʒi,ɐ.bɐ.kɐ.ˈʃi,abacaxi,pineapple,5,7,2,4,-2,Target,-2,Target
+Fa d’Ambo,ˈɔvu,ˈovu,ˈɔ.vu,ˈo.vu,ovo,egg,3,3,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈpɐ̃,ˈpɐ̃w̃,ˈpɐ̃,ˈpɐ̃w̃,pão,bread,3,4,1,1,-1,Target,0,Equal
+Fa d’Ambo,ˈsalu,ˈsaɫ,ˈsa.lu,ˈsaɫ,sal,salt,4,3,2,1,1,Source,1,Source
+Fa d’Ambo,ˈsukulu,ɐˈsukaɾ,ˈsu.ku.lu,ɐ.ˈsu.kaɾ,açúcar,sugar,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈtiligu,ˈtɾigu,ˈti.li.gu,ˈtɾi.gu,trigo,wheat,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,ˈzete,ɐˈzɐjtɨ,ˈze.te,ɐ.ˈzɐj.tɨ,azeite,olive oil,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈaza,ˈazɐ,ˈa.za,ˈa.zɐ,asa,wing,3,3,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈxama,ɨʃˈkɐmɐ,ˈxa.ma,ɨʃ.ˈkɐ.mɐ,escama de peixe,fish scale,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈxõ,ˈkoɾnu,ˈxõ,ˈkoɾ.nu,corno,horn,2,5,1,2,-3,Target,-1,Target
+Fa d’Ambo,ˈlabu,ˈʀabu,ˈla.bu,ˈʀa.bu,rabo,tail,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈawad̠ʒiˈbɔxa,ˈagwɐ.dɨ.ˈbokɐ,ˈa.wa.d̠ʒi.ˈbɔ.xa,ˈa.gwɐ.dɨˈbo.kɐ,água de boca,saliva,9,12,5,4,-3,Target,1,Source
+Fa d’Ambo,ˈbɛga,bɐˈʀigɐ,ˈbɛ.ga,bɐ.ˈʀi.gɐ,barriga,belly,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,biˈgɔd̠ʒi,biˈgɔdi,biˈ.gɔ.d̠ʒi,bi.ˈgɔ.di,bigode,mustache,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈba:su,ˈbɾasu,ˈba:.su,ˈbɾa.su,braço,arm,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈboxa,ˈbokɐ,ˈbo.xa,ˈbo.kɐ,boca,mouth,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈdẽnt̠ʃi,ˈdẽtɨ,ˈdẽn.t̠ʃi,ˈdẽ.tɨ,dente,tooth,6,5,2,2,1,Source,0,Equal
+Fa d’Ambo,ˈfugudu,ˈfiɡɐdu,ˈfu.gu.du,ˈfi.ɡɐ.du,fígado,liver,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,xaˈbɛlu,kɐˈbelu,xa.ˈbɛ.lu,kɐ.ˈbe.lu,cabelo,hair,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,xaˈbɛsa,kɐˈbesɐ,xa.ˈbɛ.sa,kɐ.ˈbe.sɐ,cabeça,head,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,xo:ˈxoso,pɨʃˈkosu,xo:.ˈxo.so,pɨʃ.ˈko.su,pescoço,neck,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ku:ˈsɐ̃,kuɾɐˈsɐ̃w̃,ku:.ˈsɐ̃,ku.ɾɐ.ˈsɐ̃w̃,coração,heart,6,8,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈlũŋga,ˈlĩɡuɐ,ˈlũŋ.ga,ˈlĩ.ɡwɐ,língua,tongue,6,5,2,2,1,Source,0,Equal
+Fa d’Ambo,ˈmama,ˈmɐmɐ,ˈma.ma,ˈmɐ.mɐ,mama,bosom,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,oˈmɐ̃,ˈmɐ̃w̃,o.ˈmɐ̃,ˈmɐ̃w̃,mão,mão,4,4,2,1,0,Equal,1,Source
+Fa d’Ambo,ɔˈpɛ,ˈpɛ,ɔ.ˈpɛ,ˈpɛ,pé,"foot, leg",3,2,2,1,1,Source,1,Source
+Fa d’Ambo,ɔˈlɛa,ɔˈɾɐʎa,ɔ.ˈlɛ.a,ɔ.ˈɾɐ.ʎa,orelha,ear,4,5,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈɔsɔ,ˈosu,ˈɔ.sɔ,ˈo.su,osso,bone,3,3,2,2,0,Equal,0,Equal
+Fa d’Ambo,oˈzojo,ʒuˈɐʎu,o.ˈzo.jo,ʒu.ˈɐ.ʎu,joelho,knee,5,5,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈpɛli,ˈpɛlɨ,ˈpɛ.li,ˈpɛ.lɨ,pele,skin,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈpulusu,ˈpuɫsu,ˈpu.lu.su,ˈpuɫ.su,pulso,Pulse,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,puluˈmõ,puɫˈmɐ̃w̃,pu.lu.ˈmõ,puɫ.ˈmɐ̃w̃,pulmão,lung,6,7,3,2,-1,Target,1,Source
+Fa d’Ambo,ˈliʃi,nɐˈɾiʃ,ˈli.ʃi,nɐ.ˈɾiʃ,nariz,nose,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈsɐ̃gi,ˈsɐ̃ɡɨ,ˈsɐ̃.gi,ˈsɐ̃.ɡɨ,sangue,blood,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈuɲa,ˈuɲa,ˈu.ɲa,ˈu.ɲa,unha,nail,3,3,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈbisu,ˈbiʃu,ˈbi.su,ˈbi.ʃu,bicho,animal,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈbwe,ˈboj,ˈbwe,ˈboj,boi,bull,3,3,1,1,0,Equal,0,Equal
+Fa d’Ambo,ˈxaba,ˈkabɾɐ,ˈxa.ba,ˈka.bɾɐ,cabra,goat,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,xaˈso,kɐˈʃoʀu,xa.ˈso,kɐ.ˈʃo.ʀu,cachorro,dog,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈxobolo,ˈkɔbɾɐ,ˈxo.bo.lo,ˈkɔ.bɾɐ,cobra,snake,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,maˈxaku,mɐˈkaku,ma.ˈxa.ku,mɐ.ˈka.ku,macaco,monkey,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,moˈsɛ:gu,muɾˈsegu,mo.ˈsɛ:.gu,muɾ.ˈse.gu,morcego,bat,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ŋgɐ̃ˈɲĩa,gɐˈliɲɐ,ŋgɐ̃.ˈɲĩ.a,gɐ.ˈli.ɲɐ,galinha,hen,8,6,3,3,2,Source,0,Equal
+Fa d’Ambo,ˈŋga:sa,ˈgaɾsɐ,ˈŋga:.sa,ˈgaɾ.sɐ,garça,heron,6,5,2,2,1,Source,0,Equal
+Fa d’Ambo,liˈmaja,ɐniˈmaɫ,li.ˈma.ja,ɐ.ni.ˈmaɫ,animal,animal,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈpo:xo,ˈpoɾku,ˈpo:.xo,ˈpoɾ.ku,porco,pig,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,toˈt̠ʃi:ga,tɐɾtɐˈɾugɐ,to.ˈt̠ʃi:.ga,tɐɾ.tɐ.ˈɾu.gɐ,tartaruga,turtle,7,9,3,4,-2,Target,-1,Target
+Fa d’Ambo,bõˈdaʒi,bõˈdadɨ,bõ.ˈda.ʒi,bõ.ˈda.dɨ,bondade,goodness,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈgɛla,ˈgɛʀɐ,ˈgɛ.la,ˈgɛ.ʀɐ,guerra,war,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈxalma,ˈkaɫmɐ,ˈxal.ma,ˈkaɫ.mɐ,calma,calm,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ma:ˈdadi,maɫˈdadɨ,ma:.ˈda.di,maɫ.ˈda.dɨ,maldade,evil,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ma:d̠ʒiˈsɐ̃,maɫdiˈsɐ̃w̃,ma:.d̠ʒi.ˈsɐ̃,maɫ.di.ˈsɐ̃w̃,maldição,curse,8,9,3,3,-1,Target,0,Equal
+Fa d’Ambo,govoˈjɐ̃,vɨɾˈgoɲɐ,go.vo.ˈjɐ̃,vɨɾ.ˈgo.ɲɐ,vergonha,shame,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈbɐ̃:ŋku,ˈbɾɐ̃ku,ˈbɐ̃:ŋ.ku,ˈbɾɐ̃.ku,branco,white,7,6,2,2,1,Source,0,Equal
+Fa d’Ambo,ˈkɔl,ˈkoɾ,ˈkɔl,ˈkoɾ,cor,color,3,3,1,1,0,Equal,0,Equal
+Fa d’Ambo,dɔˈladu,dowˈɾadu,dɔ.ˈla.du,dow.ˈɾa.du,dourado,yellow,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈpɛ:tu,ˈpɾetu,ˈpɛ:.tu,ˈpɾe.tu,preto,black,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈlɔza,ˈʀɔzɐ,ˈlɔ.za,ˈʀɔ.zɐ,rosa,pink,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈve:d̠ʒi,ˈveɾdɨ,ˈve:.d̠ʒi,ˈveɾ.dɨ,verde,green,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,vɛˈmɛju,vɨɾˈmɐʎu,vɛ.ˈmɛ.ju,vɨɾ.ˈmɐ.ʎu,vermelho,red,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈzulu,ɐˈzuɫ,ˈzu.lu,ɐ.ˈzuɫ,azul,blue,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈaŋxa,kɐɾɐ̃ˈgɐjʒu,ˈaŋ.xa,kɐ.ɾɐ̃.ˈgɐj.ʒu,caranguejo,crab,4,10,2,4,-6,Target,-2,Target
+Fa d’Ambo,baˈkuda,bɐʀɐˈkudɐ,ba.ˈku.da,bɐ.ʀɐ.ˈku.dɐ,barracuda,barracuda fish,6,8,3,4,-2,Target,-1,Target
+Fa d’Ambo,ˈguʎɐ̃,ɐˈguʎɐ,ˈgu.ʎɐ̃,ɐ.ˈgu.ʎɐ,agulha,garfish,5,5,2,3,0,Equal,-1,Target
+Fa d’Ambo,ˈi:ka,ˈiʃku,ˈi:.ka,ˈiʃ.ku,isco,bait,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈpiʃi,ˈpɐjʃɨ,ˈpi.ʃi,ˈpɐj.ʃɨ,peixe,fish,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,voaˈdol,vuɐˈdoɾ,vo.a.ˈdol,vu.ɐ.ˈdoɾ,voador,flying fish,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,biˈʃiga,bɨˈʃigɐ,bi.ˈʃi.ga,bɨ.ˈʃi.gɐ,bexiga (varíola),variola,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈdol,ˈdoɾ,ˈdol,ˈdoɾ,dor,pain,3,3,1,1,0,Equal,0,Equal
+Fa d’Ambo,ˈfibili,ˈfɛbɾɨ,ˈfi.bi.li,ˈfɛ.bɾɨ,febre,fever,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,ˈfi:da,fɨˈɾidɐ,ˈfi:.da,fɨ.ˈɾi.dɐ,ferida,wound,5,6,2,3,-1,Target,-1,Target
+Fa d’Ambo,ˈlɛpa,ˈlɛpɾɐ,ˈlɛ.pa,ˈlɛ.pɾɐ,lepra,leprosy,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,liˈmɛd̠ʒi,ʀɨˈmɛdiw,li.ˈmɛ.d̠ʒi,ʀɨ.ˈmɛ.diw,remédio,medicine,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈtɔʃi,ˈtɔsɨ,ˈtɔ.ʃi,ˈtɔ.sɨ,tosse,cough,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,baˈle,vɐˈʀeɾ,ba.ˈle,vɐ.ˈʀeɾ,varrer,sweep,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,baˈna,ɐbɐˈnaɾ,ba.ˈna,ɐ.bɐ.ˈnaɾ,abanar,shake,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,bɐ̃dɔˈna,ɐbɐ̃duˈnaɾ,bɐ̃.dɔ.ˈna,ɐ.bɐ̃.du.ˈnaɾ,abandonar,leave,7,9,3,4,-2,Target,-1,Target
+Fa d’Ambo,deˈse,dɨʃˈseɾ,de.ˈse,dɨʃ.ˈseɾ,descer,lower in,4,6,2,2,-2,Target,0,Equal
+Fa d’Ambo,baˈte,bɐˈteɾ,ba.ˈte,bɐ.ˈteɾ,bater,hit,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈbe,ˈveɾ,ˈbe,ˈveɾ,ver,see,2,3,1,1,-1,Target,0,Equal
+Fa d’Ambo,beˈbe,bɨˈbeɾ,be.ˈbe,bɨ.ˈbeɾ,beber,drink,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,bɛ̃ˈza,bɐjˈʒaɾ,bɛ̃.ˈza,bɐj.ˈʒaɾ,beijar,kiss,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈbi,ˈviɾ,ˈbi,ˈviɾ,vir,come,2,3,1,1,-1,Target,0,Equal
+Fa d’Ambo,biˈli,ɐˈbɾiɾ,bi.ˈli,ɐ.ˈbɾiɾ,abrir,open,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,biˈʃi,vɨʃˈtiɾ,bi.ˈʃi,vɨʃ.ˈtiɾ,vestir,get dressed,4,6,2,2,-2,Target,0,Equal
+Fa d’Ambo,boˈja,bojˈaɾ,bo.ˈja,boj.ˈaɾ,boiar,float,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,xuˈa,ʒuˈgaɾ,xu.ˈa,ʒu.ˈgaɾ,jogar,search,3,5,2,2,-2,Target,0,Equal
+Fa d’Ambo,boxiˈa,ɐ̃j̃bɾuˈʎaɾ,bo.xi.ˈa,ɐ̃j̃.bɾu.ˈʎaɾ,embrulhar,wrap up,5,9,3,3,-4,Target,0,Equal
+Fa d’Ambo,ˈda,ˈdaɾ,ˈda,ˈdaɾ,dar,give,2,3,1,1,-1,Target,0,Equal
+Fa d’Ambo,dɐ̃ˈsaɾ,dɐ̃ˈsaɾ,dɐ̃.ˈsa,dɐ̃.ˈsaɾ,dançar,to dance,6,6,2,2,0,Equal,0,Equal
+Fa d’Ambo,de:ˈte,dɨʀɨˈteɾ,de:.ˈte,dɨ.ʀɨ.ˈteɾ,derreter,to melt,5,7,2,3,-2,Target,-1,Target
+Fa d’Ambo,d̠ʒjuˈni,duɾˈmiɾ,d̠ʒju.ˈni,duɾ.ˈmiɾ,dormir,to sleep,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,faˈla,fɐˈlaɾ,fa.ˈla,fɐ.ˈlaɾ,falar,say,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,faˈmĩʃila,mẽˈtiɾ,fa.ˈmĩ.ʃi.la,mẽ.ˈtiɾ,mentir,to lie,9,5,4,2,4,Source,2,Source
+Fa d’Ambo,fa:ˈta,falˈtaɾ,fa:.ˈta,faɫ.ˈtaɾ,faltar,be absent,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,minˈza,miˈʒaɾ,min.ˈza,mi.ˈʒaɾ,mijar,urinate,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,fɛ̃ˈdɛ,fɨˈdeɾ,fɛ̃.ˈdɛ,fɨ.ˈdeɾ,feder,stink,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,fɛ:ˈga,ɨʃfɾɨˈgaɾ,fɛ:.ˈga,ɨʃ.fɾɨ.ˈgaɾ,esfregar,rub,5,8,2,3,-3,Target,-1,Target
+Fa d’Ambo,fu:ˈga,fɔɫˈgaɾ,fu:.ˈga,fɔɫ.ˈgaɾ,folgar,play,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,fũˈmɐ̃,dɨfuˈmaɾ,fũ.ˈmɐ̃,dɨ.fu.ˈmaɾ,defumar,smoke,6,7,2,3,-1,Target,-1,Target
+Fa d’Ambo,gusˈta,guʃˈtaɾ,gus.ˈta,guʃ.ˈtaɾ,gostar,like,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,xaˈba,ɐkɐˈbaɾ,xa.ˈba,ɐ.kɐ.ˈbaɾ,acabar,finish,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,xaˈma,ɨʃkɐˈmaɾ,xa.ˈma,ɨʃ.kɐ.ˈmaɾ,escamar,scale fish,4,7,2,3,-3,Target,-1,Target
+Fa d’Ambo,xɐ̃nˈta,kɐ̃ˈtaɾ,xɐ̃n.ˈta,kɐ̃.ˈtaɾ,cantar,sing,6,6,2,2,0,Equal,0,Equal
+Fa d’Ambo,xaˈza,kɐˈzaɾ,xa.ˈza,kɐ.ˈzaɾ,casar,marry,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,xabɛˈla,kɨˈbɾaɾ,xa.bɛ.ˈla,kɨ.ˈbɾaɾ,quebrar,split,6,6,3,2,0,Equal,1,Source
+Fa d’Ambo,xeˈle,ˈkɾeɾ,xe.ˈle,ˈkɾeɾ,crer,believe,4,4,2,1,0,Equal,1,Source
+Fa d’Ambo,kaˈma,kɐjˈmaɾ,ka.ˈma,kɐj.ˈmaɾ,queimar,burn,4,6,2,2,-2,Target,0,Equal
+Fa d’Ambo,xɛ̃jˈta,ɨʃkẽˈtaɾ,xɛ̃j.ˈta,ɨʃ.kẽ.ˈtaɾ,esquentar,warm up,6,8,2,3,-2,Target,-1,Target
+Fa d’Ambo,keˈse,ɨʃkɛˈseɾ,ke.ˈse,ɨʃ.kɛ.ˈseɾ,esquecer,to forget,4,7,2,3,-3,Target,-1,Target
+Fa d’Ambo,kaˈe,kɐˈiɾ,ka.ˈe,kɐ.ˈiɾ,cair,fall,3,4,2,2,-1,Target,0,Equal
+Fa d’Ambo,ga:ˈga,kɐʀɨˈgaɾ,ga:.ˈga,kɐ.ʀɨ.ˈgaɾ,carregar,load,5,7,2,3,-2,Target,-1,Target
+Fa d’Ambo,xe:ˈse,kɾɨʃˈseɾ,xe:.ˈse,kɾɨʃ.ˈseɾ,crescer,grow,5,7,2,2,-2,Target,0,Equal
+Fa d’Ambo,kiˈli,kuˈʎeɾ,ki.ˈli,ku.ˈʎeɾ,colher,harvest,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,kuˈʎa,ɨʃkuˈʎeɾ,ku.ˈʎa,ɨʃ.ku.ˈʎeɾ,escolher,choose,4,7,2,3,-3,Target,-1,Target
+Fa d’Ambo,xonˈde,ɨʃkõˈdeɾ,xon.ˈde,ɨʃ.kõ.ˈdeɾ,esconder,hide,5,8,2,3,-3,Target,-1,Target
+Fa d’Ambo,tɔˈpa,tuˈpaɾ,tɔˈpa,tu.ˈpaɾ,topar (encontrar),to find,4,5,1,2,-1,Target,-1,Target
+Fa d’Ambo,xoˈle,kuʀeɾ,xo.ˈle,ku.ˈʀeɾ,correr,To run,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ku:ˈta,kuɾˈtaɾ,ku:.ˈta,kuɾ.ˈtaɾ,cortar,cut,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,kuˈsa,kuˈsaɾ,ku.ˈsa,ku.ˈsaɾ,coçar,scratch,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,xoˈze,kuˈzeɾ,xo.ˈze,ku.ˈzeɾ,coser,sew,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,kubiˈli,kuˈbɾiɾ,ku.bi.ˈli,ku.ˈbɾiɾ,cobrir,cover,6,6,3,2,0,Equal,1,Source
+Fa d’Ambo,kuˈda,kujˈdaɾ,ku.ˈda,kuj.ˈdaɾ,cuidar,care,4,6,2,2,-2,Target,0,Equal
+Fa d’Ambo,ku:ˈpa,kuɫˈpaɾ,ku:.ˈpa,kuɫ.ˈpaɾ,culpar,to blame,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,kuˈmi,kuˈmeɾ,ku.ˈmi,ku.ˈmeɾ,comer,to eat,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,kuˈla,kuˈɾaɾ,ku.ˈla,ku.ˈɾaɾ,curar,heal,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,laˈba,lɐˈvaɾ,la.ˈba,lɐ.ˈvaɾ,lavar,wash,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,luˈza,lɐ̃ˈsaɾ,lu.ˈza,lɐ̃.ˈsaɾ,lançar,to throw up,4,6,2,2,-2,Target,0,Equal
+Fa d’Ambo,lɐ̃ˈta,lɨvɐ̃ˈtaɾ,lɐ̃.ˈta,lɨ.vɐ̃.ˈtaɾ,levantar,get up,5,8,2,3,-3,Target,-1,Target
+Fa d’Ambo,biliˈa,bɾiˈʎaɾ,bi.li.ˈa,bɾi.ˈʎaɾ,brilhar,shine,5,6,3,2,-1,Target,1,Source
+Fa d’Ambo,maˈla,ɐmɐˈʀaɾ,ma.ˈla,ɐ.mɐ.ˈʀaɾ,amarrar,tie,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈmɛ̃du,tɾɨˈmẽdu,ˈmɛ̃.du,tɾɨ.ˈmẽ.du,tremendo,to fear,5,8,2,3,-3,Target,-1,Target
+Fa d’Ambo,nɛsɛsiˈta,nɨsɨsiˈtaɾ,nɛ.sɛ.si.ˈta,nɨ.sɨ.si.ˈtaɾ,necessitar,to want,8,9,4,4,-1,Target,0,Equal
+Fa d’Ambo,mũˈgwa,mĩˈgwaɾ,mũ.ˈgwa,mĩ.ˈgwaɾ,minguar,wane,6,6,2,2,0,Equal,0,Equal
+Fa d’Ambo,mũˈda,muɾˈdeɾ,mũ.ˈda,muɾ.ˈdeɾ,morder,to bite,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,ŋgɐ̃ˈna,gɐˈɲaɾ,ŋgɐ̃.ˈna,gɐ.ˈɲaɾ,ganhar,to earn,6,5,2,2,1,Source,0,Equal
+Fa d’Ambo,paˈga,ɐpɐˈgaɾ,pa.ˈga,ɐ.pɐ.ˈgaɾ,apagar,delete,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,paˈpa,pɐˈpaɾ,pa.ˈpa,pɐ.ˈpaɾ,papar,chew,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,pinˈd̠ʒi,pɨˈdiɾ,pin.ˈd̠ʒi,pɨ.ˈdiɾ,pedir,ask,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,piˈza,piˈzaɾ,pi.ˈza,pi.ˈzaɾ,pisar (empurrar),to push,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,pɛ:ˈgwa,pɾɨˈgaɾ,pɛ:.ˈgwa,pɾɨ.ˈgaɾ,pregar,pin,6,6,2,2,0,Equal,0,Equal
+Fa d’Ambo,pẽˈde,pɨɾˈdeɾ,pẽ.ˈde,pɨɾ.ˈdeɾ,perder,to lose,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,pu:ˈga,puɾˈgaɾ,pu:.ˈga,puɾ.ˈgaɾ,purgar,purge,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,xaˈla,ʀɐˈlaɾ,xa.ˈla,ʀɐ.ˈlaɾ,ralar,grate,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,laŋˈxa,ɐʀɐ̃ˈkaɾ,laŋ.ˈxa,ɐ.ʀɐ̃.ˈkaɾ,arrancar,pluck out,5,7,2,3,-2,Target,-1,Target
+Fa d’Ambo,liˈgi,ɛɾˈgeɾ,li.ˈgi,ɛɾ.ˈgeɾ,erguer,raise,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,lõxuˈa,ʀõˈkaɾ,lõ.xu.ˈa,ʀõ.ˈkaɾ,roncar,snore,5,6,3,2,-1,Target,1,Source
+Fa d’Ambo,sɛˈa,puˈʃaɾ,sɛ.ˈa,pu.ˈʃaɾ,puxar,pull,3,5,2,2,-2,Target,0,Equal
+Fa d’Ambo,sa:ˈga,salˈgaɾ,sa:.ˈga,saɫ.ˈgaɾ,salgar,salt,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,sa:ˈva,saɫˈvaɾ,sa:.ˈva,saɫ.ˈvaɾ,salvar,save,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,saˈma,ʃɐˈmaɾ,sa.ˈma,ʃɐ.ˈmaɾ,chamar,call,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,suguˈla,sɨɡuˈɾaɾ,su.gu.ˈla,sɨ.ɡu.ˈɾaɾ,segurar,hold,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,sẽˈde,ɐsẽˈdeɾ,sẽ.ˈde,ɐ.sẽ.ˈdeɾ,acender,light up,5,7,2,3,-2,Target,-1,Target
+Fa d’Ambo,sɛˈla,ʃɐjˈɾaɾ,sɛ.ˈla,ʃɐj.ˈɾaɾ,cheirar,smell,4,6,2,2,-2,Target,0,Equal
+Fa d’Ambo,ʃiˈga,ʃɨˈɡaɾ,ʃi.ˈga,ʃɨ.ˈɡaɾ,chegar,arrive,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ʃke:ˈve,ɨʃkɾɨˈveɾ,ʃ.ke:.ˈve,ɨʃ.kɾɨ.ˈveɾ,escrever,write,6,8,3,3,-2,Target,0,Equal
+Fa d’Ambo,ʃiˈmja,sɨmiˈaɾ,ʃi.ˈmja,sɨ.mi.ˈaɾ,semear,plant,5,6,2,3,-1,Target,-1,Target
+Fa d’Ambo,suˈla,ʃuˈɾaɾ,su.ˈla,ʃu.ˈɾaɾ,chorar,cry,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,sɔ̃mbɛˈla,ɐsõˈbɾaɾ,sɔ̃m.bɛ.ˈla,ɐ.sõ.ˈbɾaɾ,assombrar,haunt,8,8,3,3,0,Equal,0,Equal
+Fa d’Ambo,subiˈli,suˈbiɾ,su.bi.ˈli,su.ˈbiɾ,subir,move up,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,sɔˈxa,sɨˈkaɾ,sɔ.ˈxa,sɨ.ˈkaɾ,secar,wipe,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,suˈpa,ʃuˈpaɾ,su.ˈpa,ʃu.ˈpaɾ,chupar,suck,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,suˈa,suˈaɾ,su.ˈa,su.ˈaɾ,suar,sweat,3,4,2,2,-1,Target,0,Equal
+Fa d’Ambo,sẽˈta,sẽˈtaɾ,sẽ.ˈta,sẽ.ˈtaɾ,sentar,sit,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈte,teɾ,ˈte,teɾ,ter,have,2,3,1,1,-1,Target,0,Equal
+Fa d’Ambo,tẽˈde,ẽtẽˈdeɾ,tẽ.ˈde,ẽ.tẽ.ˈdeɾ,entender,to listen,5,8,2,3,-3,Target,-1,Target
+Fa d’Ambo,t̠ʃiˈla,tiˈɾaɾ,t̠ʃi.ˈla,ti.ˈɾaɾ,tirar,remove,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ta:baˈʎa,tɾɐbɐˈʎaɾ,ta:.ba.ˈʎa,tɾɐ.bɐ.ˈʎaɾ,trabalhar,to work,7,8,3,3,-1,Target,0,Equal
+Fa d’Ambo,ntɔˈla,tuˈʀaɾ,ntɔ.ˈla,tu.ˈʀaɾ,torrar,toast,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,zuˈda,ɐʒuˈdaɾ,zu.ˈda,ɐ.ʒu.ˈdaɾ,ajudar,help,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,d̠ʒiˈfũtu,dɨˈfũtu,d̠ʒi.ˈfũ.tu,dɨ.ˈfũ.tu,defunto,deceased,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈminu,mɨˈninu,ˈmi.nu,mɨ.ˈni.nu,menino,child,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈmjɛle,muˈʎɛɾ,ˈmjɛ.le,mu.ˈʎɛɾ,mulher,woman,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈŋge,aɫˈgɐ̃j̃,ˈŋge,aɫ.ˈgɐ̃j̃,alguém,someone,3,6,1,2,-3,Target,-1,Target
+Fa d’Ambo,ɔˈmɛ,ɔˈmɛ̃,ɔ.ˈmɛ,ɔ.ˈmɛ̃,homem,man,3,4,2,2,-1,Target,0,Equal
+Fa d’Ambo,d̠ʒiˈvid̠ʒil,viˈziɲu,d̠ʒi.ˈvi.d̠ʒil,vi.ˈzi.ɲu,vizinho,neighbor,7,6,3,3,1,Source,0,Equal
+Fa d’Ambo,ˈfɛla,ˈfejɾɐ,ˈfɛ.la,ˈfɐj.ɾɐ,feira,market,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈge:za,iˈgrɐʒɐ,ˈge:.za,i.ˈgrɐ.ʒɐ,igreja,church,5,6,2,3,-1,Target,-1,Target
+Fa d’Ambo,xaˈd̠ʒia,kɐˈdɐjɐ,xa.ˈd̠ʒi.a,kɐ.ˈdɐj.ɐ,cadeia,prison,5,6,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈxai,ˈkazɐ,ˈxai,ˈka.zɐ,casa,house,3,4,1,2,-1,Target,-1,Target
+Fa d’Ambo,fɐ̃ˈtɛ:za,fuɾtɐˈlezɐ,fɐ̃.ˈtɛ:.za,fuɾ.tɐ.ˈle.zɐ,fortaleza,wall,8,9,3,4,-1,Target,-1,Target
+Fa d’Ambo,ˈpa:sa,ˈpɾasɐ,ˈpa:.sa,ˈpɾa.sɐ,praça,square,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈtol,ˈtoʀɨ,ˈtol,ˈto.ʀɨ,torre,tower,3,4,1,2,-1,Target,-1,Target
+Fa d’Ambo,ˈfɛlu,ˈfɛʀu,ˈfɛ.lu,ˈfɛ.ʀu,ferro,iron,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈpa:ta,ˈpɾatɐ,ˈpa:.ta,ˈpɾa.tɐ,prata,silver,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈsũba,ˈʃũbu,ˈsũ.ba,ˈʃũ.bu,chumbo,lead,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,aˈlɛa,ɐˈɾɐjɐ,a.ˈlɛ.a,ɐ.ˈɾɐj.ɐ,areia,sand,4,5,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈbalu,ˈbaʀu,ˈba.lu,ˈba.ʀu,barro,clay,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈfiu,ˈfɾiu,ˈfi.u,ˈfɾi.u,frio,cold,3,4,2,2,-1,Target,0,Equal
+Fa d’Ambo,iˈʎa,ˈiʎɐ,i.ˈʎa,ˈi.ʎɐ,ilha,island,3,3,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈkɛĩt̠ʃi,ˈkẽtɨ,ˈkɛĩ.t̠ʃi,ˈkẽ.tɨ,quente,heat,6,5,2,2,1,Source,0,Equal
+Fa d’Ambo,xa:ˈbɐ̃,kɐɾˈvɐ̃w̃,xa:.ˈbɐ̃,kɐɾ.ˈvɐ̃w̃,carvão,coal,6,7,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈnovi,ˈnuvɐ̃j̃,ˈno.vi,ˈnu.vɐ̃j̃,nuvem,cloud,4,6,2,2,-2,Target,0,Equal
+Fa d’Ambo,ˈnwa,ˈluɐ,ˈnwa,ˈlu.ɐ,lua,moon,3,3,1,2,0,Equal,-1,Target
+Fa d’Ambo,ˈnia,ˈlɐɲɐ,ˈni.a,ˈlɐ.ɲɐ,lenha,wood,3,4,2,2,-1,Target,0,Equal
+Fa d’Ambo,luˈbɛla,ʀiˈbɐjɾu,lu.ˈbɛ.la,ʀi.ˈbɐj.ɾu,ribeiro,river,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,ɔˈsɛ,ˈsɛw,ɔ.ˈsɛ,ˈsɛw,céu,sky,3,3,2,1,0,Equal,1,Source
+Fa d’Ambo,ˈpiku,ˈpiku,ˈpi.ku,ˈpi.ku,pico,peak,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈsɔlɔ,ˈsɔl,ˈsɔ.lɔ,ˈsɔl,sol,sun,4,3,2,1,1,Source,1,Source
+Fa d’Ambo,ˈtɛ:la,ɨʃˈtɾelɐ,ˈtɛ:.la,ɨʃ.ˈtɾe.lɐ,estrela,star,5,7,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈʃuva,ˈʃuvɐ,ˈʃu.va,ˈʃu.vɐ,chuva,rain,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈtɛla,ˈtɛʀɐ,ˈtɛ.la,ˈtɛ.ʀɐ,terra,earth,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,toloˈvada,tɾuvuˈada,to.lo.ˈva.da,tɾu.vu.ˈa.dɐ,trovoada,thunderstorm,8,8,4,4,0,Equal,0,Equal
+Fa d’Ambo,ɔˈvɛ̃tu,ˈvẽtu,ɔ.ˈvɛ̃.tu,ˈvẽ.tu,vento,wind,6,4,3,2,2,Source,1,Source
+Fa d’Ambo,aˈle,ˈʀɐj,a.ˈle,ˈʀɐj,rei,king,3,3,2,1,0,Equal,1,Source
+Fa d’Ambo,doˈtolo,dowˈtoɾ,do.ˈto.lo,do.ˈtoɾ,doutor,doctor,6,6,3,2,0,Equal,1,Source
+Fa d’Ambo,xɐ̃ˈtelu,kɐɾpĩˈtejɾu,xɐ̃.ˈte.lu,kɐɾ.pĩ.ˈtɐj.ɾu,carpinteiro,carpenter,7,11,3,4,-4,Target,-1,Target
+Fa d’Ambo,mataˈdo,mɐtɐˈdoɾ,ma.ta.ˈdo,mɐ.tɐ.ˈdoɾ,matador,butcher,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,pisxaˈdo,pɨʃkɐˈdoɾ,pis.xa.ˈdo,pɨʃ.kɐ.ˈdoɾ,pescador,fisherman,7,8,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈlɐ̃jɐ̃,ʀɐ̃ˈiɲɐ,ˈlɐ̃j.ɐ̃,ʀɐ.ˈi.ɲɐ,rainha,queen,6,6,2,3,0,Equal,-1,Target
+Fa d’Ambo,sapaˈtelu,sɐpɐˈtɐjɾu,sa.pa.ˈte.lu,sɐ.pɐ.ˈtɐj.ɾu,sapateiro,shoemaker,8,9,4,4,-1,Target,0,Equal
+Fa d’Ambo,sɔ:ˈdad̠ʒi,sɔɫˈdadu,sɔ:.ˈda.d̠ʒi,sɔɫ.ˈda.du,soldado,soldier,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈmɐ̃i,ˈmɐ̃j̃,ˈmɐ̃i,ˈmɐ̃j̃,mãe,mother,4,4,1,1,0,Equal,0,Equal
+Fa d’Ambo,ˈmɛ:du,mɐˈɾidu,ˈmɛ:.du,mɐ.ˈɾi.du,marido,husband,5,6,2,3,-1,Target,-1,Target
+Fa d’Ambo,ˈvjuva,viˈuvɐ,ˈvju.va,vi.ˈu.vɐ,viúva,widow,5,5,2,3,0,Equal,-1,Target
+Fa d’Ambo,ˈeli,ˈelɨ,ˈe.li,ˈe.lɨ,ele,he,3,3,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈku,kõ,ˈku,kõ,com,with,2,2,1,1,0,Equal,0,Equal
+Fa d’Ambo,ˈkoma,ˈkomu,ˈko.ma,ˈko.mu,como,as,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈmɔ̃t̠ʃi,ˈmõtɨ,ˈmɔ̃.t̠ʃi,ˈmõ.tɨ,monte,much,5,4,2,2,1,Source,0,Equal
+Fa d’Ambo,ˈmuĩtu,ˈmuĩtu,ˈmu.ĩ.tu,ˈmu.ĩ.tu,muito,much,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈnada,ˈnadɐ,ˈna.da,ˈna.dɐ,nada,nothing,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈnõ,ˈnɔʃ,ˈnõ,ˈnɔʃ,nós,we,2,3,1,1,-1,Target,0,Equal
+Fa d’Ambo,ˈpɔke,ˈpuɾkɨ,ˈpɔ.ke,ˈpuɾ.kɨ,porque,because,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈsɛ̃pɛlɛ,ˈsẽpɾɨ,ˈsɛ̃.pɛ.lɛ,ˈsẽ.pɾɨ,sempre,always,7,6,3,2,1,Source,1,Source
+Fa d’Ambo,ˈsũ,sɨˈɲoɾ,ˈsũ,sɨ.ˈɲoɾ,senhor,lord,3,5,1,2,-2,Target,-1,Target
+Fa d’Ambo,ˈtudu,ˈtudu,ˈtu.du,ˈtu.du,tudo,everything,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,bebeˈdo,bɨbɨˈdoɾ,be.be.ˈdo,bɨ.bɨ.ˈdoɾ,"bêbado (""bebebdor"")",drunk,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈbobo,ˈbobu,ˈbo.bo,ˈbo.bu,bobo,,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,biˈnitu,buˈnitu,bi.ˈni.tu,bu.ˈni.tu,bonito,handsome,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈde:tu,diˈɾɐjtu,ˈde:.tu,di.ˈɾɐj.tu,direito,straight,5,7,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈdodo,ˈdojdu,ˈdo.do,ˈdoj.du,doido,crazy,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈfeju,ˈfɐju,ˈfe.ju,ˈfɐj.u,feio,ugly,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈfa:ku,ˈfɾaku,ˈfa:.ku,ˈfɾa.ku,fraco,weak,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈfɛsku,ˈfɾeʃku,ˈfɛs.ku,ˈfɾeʃ.ku,fresco,fresh,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈfɔt̠ʃi,ˈfɔɾtɨ,ˈfɔ.t̠ʃi,ˈfɔɾ.tɨ,forte,strong,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈfũdu,ˈfũdu,ˈfũ.du,ˈfũ.du,fundo,bottom,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈgagi,ˈgagu,ˈga.gi,ˈga.gu,gago,stutterer,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈgo:do,ˈɡoɾdu,ˈgo:.do,ˈɡoɾ.du,gordo,fat,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈgwal,iˈgwaɫ,ˈgwal,i.ˈgwaɫ,igual,equal,4,5,1,2,-1,Target,-1,Target
+Fa d’Ambo,ku:ˈpadu,kuɫˈpadu,ku:.ˈpa.du,kuɫ.ˈpa.du,culpado,guilty,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈku:tu,ˈkuɾtu,ˈku:.tu,ˈkuɾ.tu,curto,short,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,kuˈlu,ˈkɾu,ku.ˈlu,ˈkɾu,cru,raw,4,3,2,1,1,Source,1,Source
+Fa d’Ambo,ˈkulu,ɨʃˈkuɾu,ˈku.lu,ɨʃ.ˈku.ɾu,escuro,dark,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈlĩpu,ˈlĩpu,ˈlĩ.pu,ˈlĩ.pu,limpo,clean,5,4,2,2,1,Source,0,Equal
+Fa d’Ambo,ˈmũgulu,ˈmagɾu,ˈmũ.gu.lu,ˈma.gɾu,magro,thin,7,5,3,2,2,Source,1,Source
+Fa d’Ambo,ˈma:su,ˈmɐ̃su,ˈma:.su,ˈmɐ̃.su,manso,meek,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈmɔlɛ,ˈmɔlɨ,ˈmɔ.lɛ,ˈmɔ.lɨ,mole,soft,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈmol,ˈmowɾu,ˈmol,ˈmow.ɾu,mouro,moorish,3,5,1,2,-2,Target,-1,Target
+Fa d’Ambo,ˈmudu,ˈmudu,ˈmu.du,ˈmu.du,mudo,mute,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,niˈmigu,iniˈmigu,ni.ˈmi.gu,i.ni.ˈmi.gu,inimigo,enemy,6,7,3,4,-1,Target,-1,Target
+Fa d’Ambo,ˈpobili,ˈpɔbɾɨ,ˈpo.bi.li,ˈpɔ.bɾɨ,pobre,poor,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,podeˈlozo,pudɨˈɾozu,po.de.ˈlo.zo,pu.dɨ.ˈɾo.zu,poderoso,powerful,8,8,4,4,0,Equal,0,Equal
+Fa d’Ambo,ˈliku,ˈʀiku,ˈli.ku,ˈʀi.ku,rico,rich,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈlizu,ˈʀiʒu,ˈli.zu,ˈʀi.ʒu,rijo,hard,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈsɛgu,ˈsɛɡu,ˈsɛ.gu,ˈsɛ.ɡu,cego,blind,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,soˈxadu,sɨˈkadu,so.ˈxa.du,sɨ.ˈka.du,"""secado"" enxuto",lean,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,suˈpɛtu,ɨʃˈpɛɾtu,su.ˈpɛ.tu,ɨʃ.ˈpɛɾ.tu,esperto,clever,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈvɛ,ˈvɛʎu,ˈvɛ,ˈvɛ.ʎu,velho,old,2,4,1,2,-2,Target,-1,Target
+Fa d’Ambo,ˈzuda,pɨˈsoɐ,ˈzu.da,pɨ.ˈso.ɐ,pessoa,person,4,5,2,3,-1,Target,-1,Target
+Fa d’Ambo,ˈdɛiʃ,ˈdɛʃ,ˈdɛ.iʃ,ˈdɛʃ,dez,ten,4,3,2,1,1,Source,1,Source
+Fa d’Ambo,ˈdosu,ˈdojʃ,ˈdo.su,ˈdojʃ,dois,two,4,4,2,1,0,Equal,1,Source
+Fa d’Ambo,ˈxatulu,ˈkwatɾu,ˈxa.tu.lu,ˈkwa.tɾu,quatro,four,6,6,3,2,0,Equal,1,Source
+Fa d’Ambo,mɛˈtad̠ʒi,mɨˈtadɨ,mɛ.ˈta.d̠ʒi,mɨ.ˈta.dɨ,metade,half,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈnɔvi,ˈnɔvɨ,ˈnɔ.vi,ˈnɔ.vɨ,nove,nine,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,piˈmelu,pɾiˈmɐjɾu,pi.ˈme.lu,pɾi.ˈmɐj.ɾu,primeiro,first,6,8,3,3,-2,Target,0,Equal
+Fa d’Ambo,ˈseiʃ,ˈsejʃ,ˈse.iʃ,ˈsejʃ,seis,six,4,4,2,1,0,Equal,1,Source
+Fa d’Ambo,ˈsɛtɛ,ˈsɛtɨ,ˈsɛ.tɛ,ˈsɛ.tɨ,sete,seven,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈʃĩku,ˈsĩku,ˈʃĩ.ku,ˈsĩ.ku,cinco,five,5,4,2,2,1,Source,0,Equal
+Fa d’Ambo,ˈte:ʃi,ˈtɾeʃ,ˈte:.ʃi,ˈtɾeʃ,três,three,5,4,2,1,1,Source,1,Source
+Fa d’Ambo,ˈũ,ˈũ,ˈũ,ˈũ,um,one,2,2,1,1,0,Equal,0,Equal
+Fa d’Ambo,ˈɔ:tu,ˈojtu,ˈɔ.:tu,ˈoj.tu,oito,eight,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,aˈbi,ɐˈbɾiɫ,a.ˈbi,ɐ.ˈbɾiɫ,março,April,3,5,2,2,-2,Target,0,Equal
+Fa d’Ambo,aˈgoto,ɐˈgoʃtu,a.ˈgo.to,ɐ.ˈgoʃ.tu,junho,August,5,6,3,3,-1,Target,0,Equal
+Fa d’Ambo,aˈmɐ̃ia,amɐˈɲɐ̃,a.ˈmɐ̃.i.a,a.mɐ.ˈɲɐ̃,amanhã,tomorrow,6,6,4,3,0,Equal,1,Source
+Fa d’Ambo,aˈtõte,ɐ̃tiˈɔ̃tɐ̃j̃,a.ˈtõ.te,ɐ̃.ti.ˈɔ̃.tɐ̃j̃,anteontem,the day before yesterday,5,10,3,4,-5,Target,-1,Target
+Fa d’Ambo,diˈʃiẽbulu,dɨˈzẽbɾu,di.ˈʃi.ẽ.bu.lu,dɨ.ˈzẽ.bɾu,dezembro,December,10,8,5,3,2,Source,2,Source
+Fa d’Ambo,ˈd̠ʒja,ˈdiɐ,ˈd̠ʒja,ˈdi.ɐ,dia,day,3,3,1,2,0,Equal,-1,Target
+Fa d’Ambo,d̠ʒiˈmĩgu,duˈmĩgu,d̠ʒi.ˈmĩ.gu,du.ˈmĩ.gu,domingo,sunday,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,febeˈlelu,fɨvɨˈɾejɾu,fe.be.ˈle.lu,fɨ.vɨ.ˈɾej.ɾu,fevereiro,February,8,9,4,4,-1,Target,0,Equal
+Fa d’Ambo,ˈkĩtaˈfɛla,ˈkĩtɐˈfɐjɾɐ,ˈkĩ.ta.ˈfɛ.la,ˈkĩ.tɐ.ˈfɐj.ɾɐ,quinta-feira,thursday,9,10,4,4,-1,Target,0,Equal
+Fa d’Ambo,ˈxwataˈfɛla,ˈkwaɾtaˈfɐjɾɐ,ˈxwa.ta.ˈfɛ.la,ˈkwaɾ.tɐ.ˈfɐj.ɾɐ,quarta-feira,wednesday,9,11,4,4,-2,Target,0,Equal
+Fa d’Ambo,ˈmalusu,ˈmaɾsu,ˈma.lu.su,ˈmaɾ.su,março,March,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,ˈnot̠ʃi,ˈnojtɨ,ˈno.t̠ʃi,ˈnoj.tɨ,noite,night,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈoze,ˈoʒɨ,ˈo.ze,ˈo.ʒɨ,hoje,today,3,3,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈsabudu,ˈsabɐdu,ˈsa.bu.du,ˈsa.bɐ.du,sábado,saturday,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,sũdɐˈfɛlɐ,sɨˈgũdɐˈfejɾɐ,sũ.dɐ.ˈfɛ.lɐ,sɨ.ˈgũ.dɐ.ˈfej.ɾɐ,segunda-feira,Monday,9,12,4,5,-3,Target,-1,Target
+Fa d’Ambo,ˈsistaˈfɛla,ˈsɐjʃtɐˈfɐjɾɐ,ˈsis.ta.ˈfɛ.la,ˈsɐjʃ.tɐ.ˈfɐj.ɾɐ,sexta-feira,Friday,9,11,4,4,-2,Target,0,Equal
+Fa d’Ambo,ˈtad̠ʒi,ˈtaɾdɨ,ˈta.d̠ʒi,ˈtaɾ.dɨ,tarde,afternoon,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈtɛ:saˈfɛla,ˈteɾsɐˈfɐjɾɐ,ˈtɛ:.sa.ˈfɛ.la,ˈteɾ.sɐ.ˈfɐj.ɾɐ,terça-feira,Tuesday,9,10,4,4,-1,Target,0,Equal
+Fa d’Ambo,zeˈnelu,ʒɐˈnejɾu,ze.ˈne.lu,ʒɐ.ˈnej.ɾu,janeiro,January,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈzuju,ˈʒuɲu,ˈzu.ju,ˈʒu.ɲu,junho,June,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈalma,ˈaɫmɐ,ˈal.ma,ˈaɫ.mɐ,alma,soul,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,a:ˈtali,aɫˈtaɾ,a:.ˈta.li,aɫ.ˈtaɾ,altar,Altar,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,ˈdɛzu,ˈdewʃ,ˈdɛ.zu,ˈdewʃ,deus,god,4,4,2,1,0,Equal,1,Source
+Fa d’Ambo,ˈd̠ʒjabu,diˈabu,ˈd̠ʒja.bu,di.ˈa.bu,diabo,devil,5,5,2,3,0,Equal,-1,Target
+Fa d’Ambo,gɔˈlɔlja,ˈglɔɾjɐ,gɔ.ˈlɔ.lja,ˈglɔ.ɾjɐ,glória,glory,7,6,3,2,1,Source,1,Source
+Fa d’Ambo,ˈku:su,ˈkɾuʃ,ˈku:.su,ˈkɾuʃ,cruz,cross,5,4,2,1,1,Source,1,Source
+Fa d’Ambo,miˈlagulu,miˈlagɾɨ,mi.ˈla.gu.lu,mi.ˈla.gɾɨ,milagre,miracle,8,7,4,3,1,Source,1,Source
+Fa d’Ambo,laˈsɐ̃,ɔɾɐˈsɐ̃w̃,la.ˈsɐ̃,ɔ.ɾɐ.ˈsɐ̃w̃,oração,prayer,5,7,2,3,-2,Target,-1,Target
+Fa d’Ambo,ˈsɐ̃tu,ˈsɐ̃tu,ˈsɐ̃.tu,ˈsɐ̃.tu,santo,saint,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈalba,ˈɛɾvɐ,ˈal.ba,ˈɛɾ.vɐ,erva,grass,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈfol,ˈfoʎɐ,ˈfol,ˈfo.ʎɐ,folha,leaf,3,4,1,2,-1,Target,-1,Target
+Fa d’Ambo,ˈfɔ:l,ˈfloɾ,ˈfɔ:l,ˈfloɾ,flor,flower,4,4,1,1,0,Equal,0,Equal
+Fa d’Ambo,ˈxo:su,kɐˈɾosu,ˈxo:.su,kɐ.ˈɾo.su,caroço,lump,5,6,2,3,-1,Target,-1,Target
+Fa d’Ambo,ˈpalma,ˈpaɫmɐ,ˈpal.ma,ˈpaɫ.mɐ,palma,palm,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,pa:ˈmitu,paɫˈmitu,pa:.ˈmi.tu,paɫ.ˈmi.tu,palmito,palm heart,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ʃiˈmɛnt̠ʃi,sɨˈmẽtɨ,ʃi.ˈmɛn.t̠ʃi,sɨ.ˈmẽ.tɨ,semente,seed,7,6,3,3,1,Source,0,Equal
+Fa d’Ambo,ˈspiga,ɨʃˈpigɐ,ˈspi.ga,ɨʃ.ˈpi.gɐ,espiga,cob,5,6,2,3,-1,Target,-1,Target
+Fa d’Ambo,ˈbasu,ɐ̃j̃ˈbajʃu,ˈba.su,ɐ̃j̃.ˈbaj.ʃu,embaixo,under,4,8,2,3,-4,Target,-1,Target
+Fa d’Ambo,ˈdẽtulu,ˈdẽtɾu,ˈdẽ.tu.lu,ˈdẽ.tɾu,dentro,in,7,6,3,2,1,Source,1,Source
+Fa d’Ambo,ˈfɔla,ˈfɔɾɐ,ˈfɔ.la,ˈfɔ.ɾɐ,fora,outside,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈskɛd̠ʒi,ɨʃˈkeɾdu,ˈskɛ.d̠ʒi,ɨʃ.ˈkeɾ.du,esquerdo,left,5,7,2,3,-2,Target,-1,Target
+Fa d’Ambo,baˈli,bɐˈʀiɫ,ba.ˈli,bɐ.ˈʀiɫ,barril,barrel,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,banˈdɛla,bɐ̃ˈdɐjɾɐ,ban.ˈdɛ.la,bɐ̃.ˈdɐj.ɾɐ,bandeira,flag,7,8,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈbɐ̃ŋku,ˈbɾɐ̃ku,ˈbɐ̃ŋ.ku,ˈbɐ̃.ku,banco,bench,6,6,2,2,0,Equal,0,Equal
+Fa d’Ambo,bɔˈsɔl,vɐˈsoɾɐ,bɔ.ˈsɔl,vɐ.ˈso.ɾɐ,vassoura,broom,5,6,2,3,-1,Target,-1,Target
+Fa d’Ambo,bɔnˈtɐ̃,buˈtɐ̃w̃,bɔn.ˈtɐ̃,bu.ˈtɐ̃w̃,botão,button,6,6,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈfaxa,ˈfakɐ,ˈfa.xa,ˈfa.kɐ,faca,knife,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,fiˈnẽt̠ʃi,aɫfiˈnetɨ,fi.ˈnẽ.t̠ʃi,aɫ.fi.ˈne.tɨ,alfinete,pin,7,8,3,4,-1,Target,-1,Target
+Fa d’Ambo,gaˈlafa,gɐˈʀafɐ,ga.ˈla.fa,gɐ.ˈʀa.fɐ,garrafa,bottle,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈgɛfa,ˈgaɾfu,ˈgɛ.fa,ˈgaɾ.fu,garfo,fork,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈxɔ:dɔ,ˈkɔɾdɐ,ˈxɔ:.dɔ,ˈkɔɾ.dɐ,corda,rope,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,xoaˈdol,kuɐˈdoɾ,xo.a.ˈdol,ku.ɐ.ˈdoɾ,coador,strainer,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈlɐ̃sa,ˈlɐ̃sɐ,ˈlɐ̃.sa,ˈlɐ̃.sɐ,lança,lance,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ma:ˈtɛlu,mɐɾˈtɛlu,ma:.ˈtɛ.lu,mɐɾ.ˈtɛ.lu,martelo,hammer,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,maˈʃadu,mɐˈʃadu,ma.ˈʃa.du,mɐ.ˈʃa.du,machado,ax,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈpɛ̃int̠ʃi,ˈpẽtɨ,ˈpɛ̃.in.t̠ʃi,ˈpẽ.tɨ,pente,comb,7,4,3,2,3,Source,1,Source
+Fa d’Ambo,utaˈdol,ũtɐˈdoɾ,u.ta.ˈdol,ũ.tɐ.ˈdoɾ,untador,sieve,6,7,3,3,-1,Target,0,Equal
+Fa d’Ambo,ˈpa:tu,ˈpɾatu,ˈpa:.tu,ˈpɾa.tu,prato,plate,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈpɛ:gu,ˈpɾɛgu,ˈpɛ:.gu,ˈpɾɛ.gu,prego,nail,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈloda,ˈʀɔdɐ,ˈlo.da,ˈʀɔ.dɐ,roda,wheel,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈt̠ʃinu,ˈsinu,ˈt̠ʃi.nu,ˈsi.nu,sino,bell,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,suˈpɛ,ɨʃˈpɐʎu,su.ˈpɛ,ɨʃ.ˈpɐ.ʎu,espelho,mirror,4,6,2,3,-2,Target,-1,Target
+Fa d’Ambo,kuˈbierta,kuˈbɛɾtɐ,ku.ˈbi.er.ta,ku.ˈbɛɾ.tɐ,cuberta,cover,8,7,4,3,1,Source,1,Source
+Fa d’Ambo,kasoˈlola,kɐsɐˈɾɔlɐ,ka.so.ˈlo.la,kɐ.sɐ.ˈɾɔ.lɐ,caçarola,pan,8,8,4,4,0,Equal,0,Equal
+Fa d’Ambo,ˈvela,ˈvɛlɐ,ˈve.la,ˈvɛ.lɐ,vela,candle,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈbiʃi,vɨʃˈtidu,ˈbi.ʃi,vɨʃ.ˈti.du,vestido,dress,4,7,2,3,-3,Target,-1,Target
+Fa d’Ambo,ˈbɔta,ˈbɔta,ˈbɔ.ta,ˈbɔ.ta,bota,boot,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,xaˈmĩza,kɐˈmizɐ,xa.ˈmĩ.za,kɐ.ˈmi.zɐ,camisa,shirt,7,6,3,3,1,Source,0,Equal
+Fa d’Ambo,xa:ˈsɐ̃,kaɫˈsɐ̃w̃,xa:.ˈsɐ̃,kaɫ.ˈsɐ̃w̃,calção,short trousers,6,7,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈmɛja,ˈmɐjɐ,ˈmɛ.ja,ˈmɐj.ɐ,meia,sock,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈsɛja,ˈsajɐ,ˈsɛ.ja,ˈsaj.ɐ,saia,skirt,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈsɛda,ˈsedɐ,ˈsɛ.da,ˈse.dɐ,seda,silk,4,4,2,2,0,Equal,0,Equal
+Fa d’Ambo,teˈʃidu,tɨˈsidu,te.ˈʃi.du,tɨ.ˈsi.du,tecido,fabric,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈiʎe,ˈiʎɐ,ˈi.ʎe,ˈi.ʎɐ,Ilha do Príncipe,Príncipe,3,3,2,2,0,Equal,0,Equal
+Fa d’Ambo,ˈpilĩʃipi,ˈpɾĩsɨpɨ,ˈpi.lĩ.ʃi.pi,ˈpɾĩ.sɨ.pɨ,Príncipe,prince,9,7,4,3,2,Source,1,Source
+Fa d’Ambo,ˈd̠ʒielu,diˈɲɐjɾu,ˈd̠ʒi.e.lu,di.ˈɲɐj.ɾu,dinheiro,money,5,7,3,3,-2,Target,0,Equal
+Fa d’Ambo,faˈvolu,fɐˈvoɾ,fa.ˈvo.lu,fɐ.ˈvoɾ,favor,favor,6,5,3,2,1,Source,1,Source
+Fa d’Ambo,fo:ˈtuna,fuɾˈtunɐ,fo:.ˈtu.na,fuɾ.ˈtu.nɐ,fortuna,luck,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,xaˈmĩu,kɐˈmiɲu,xa.ˈmĩ.u,kɐ.ˈmi.ɲu,caminho,path,6,6,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈxata,ˈkaɾtɐ,ˈxa.ta,ˈkaɾ.tɐ,carta,letter,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,xazaˈmẽtu,kɐzɐˈmẽtu,xa.za.ˈmẽ.tu,kɐ.zɐ.ˈmẽ.tu,casamento,marriage,9,9,4,4,0,Equal,0,Equal
+Fa d’Ambo,liˈsɐ̃,liˈsɐ̃w̃,li.ˈsɐ̃,li.ˈsɐ̃w̃,lição,﻿lesson,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈmɔt̠ʃi,ˈmɔɾtɨ,ˈmɔ.t̠ʃi,ˈmɔɾ.tɨ,morte,death,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,paˈlavala,pɐˈlavɾɐ,pa.ˈla.va.la,pɐ.ˈla.vɾɐ,palavra,word,8,7,4,3,1,Source,1,Source
+Fa d’Ambo,pɐ̃ˈxada,pɐ̃ˈkadɐ,pɐ̃.ˈxa.da,pɐ̃.ˈka.dɐ,pancada,blow,7,7,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈpɔtɔ,ˈpɔɾtɐ,ˈpɔ.tɔ,ˈpɔɾ.tɐ,porta,door,4,5,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈlɛ:tu,ˈʀɛʃtu,ˈlɛ:.tu,ˈʀɛʃ.tu,resto,leftovers,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,saˈbɐ̃,sɐˈbɐ̃w̃,sa.ˈbɐ̃,sɐ.ˈbɐ̃w̃,sabão,soap,5,6,2,2,-1,Target,0,Equal
+Fa d’Ambo,ˈt̠ʃĩta,ˈtĩtɐ,ˈt̠ʃĩ.ta,ˈtĩ.tɐ,tinta,ink,5,5,2,2,0,Equal,0,Equal
+Fa d’Ambo,tɔ:ˈmɛ̃tu,tuɾˈmẽtu,tɔ:.ˈmɛ̃.tu,tuɾ.ˈmẽ.tu,tormento,"noise, confusion",8,8,3,3,0,Equal,0,Equal
+Fa d’Ambo,ˈmbo,moˈfu,ˈmbo,mo.ˈfu,mofo,mold,3,4,1,2,-1,Target,-1,Target
+Fa d’Ambo,ve:ˈdad̠ʒi,vɨɾˈdadɨ,ve:.ˈda.d̠ʒi,vɨɾ.ˈda.dɨ,verdade,truth,7,7,3,3,0,Equal,0,Equal
