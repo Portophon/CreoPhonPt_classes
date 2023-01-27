@@ -1,0 +1,272 @@
+Language,SourceWord,TargetWord,SourceWordSyl,TargetWordSyl,SourceSyllable,TargetSyllable,SourceWordSyl,TargetWordSyl,PositionSource,PositionTarget,Process,TargetOrthography,Translation,Reference,Notes
+Casamancese,bo,vuˈse,bo,vu.ˈse,bo,vu,1,2,1,1,,você,"thou, you",Biagui2012[129],
+Casamancese,bo,vuˈse,bo,vu.ˈse,-,ˈse,1,2,-,2,apocope,você,"thou, you",Biagui2012[129],
+Casamancese,jel,ˈeɫɨ,jel,ˈe.ɫɨ,jel,ˈe,1,2,1,1,prothesis,ele,he,Biagui2012[129],
+Casamancese,jel,ˈeɫɨ,jel,ˈe.ɫɨ,,ɫɨ,1,2,-,2,apocope,ele,he,Biagui2012[129],
+Casamancese,nos,ˈnɔʃ,nos,ˈnɔʃ,nos,ˈnɔʃ,1,1,1,1,,nós,we,Biagui2012[129],
+Casamancese,bos,vuˈseʃ,bos,vu.ˈseʃ,bos,vu,1,2,1,1,,vocês,"ye, you",Biagui2012[129],
+Casamancese,bos,vuˈseʃ,bos,vu.ˈseʃ,-,ˈseʃ,1,2,-,2,apocope,vocês,"ye, you",Biagui2012[129],
+Casamancese,ˈjelus,ˈeɫɨʃ,ˈje.lus,ˈe.ɫɨʃ,ˈje,ˈe,2,2,1,1,prothesis,eles,they,Biagui2012[129],
+Casamancese,ˈjelus,ˈeɫɨʃ,ˈje.lus,ˈe.ɫɨʃ,lus,ɫɨʃ,2,2,2,2,,eles,they,Biagui2012[129],
+Casamancese,li,ɐˈki,li,ɐ.ˈki,li,ɐ,1,2,1,1,aphaeresis,aqui,here,Biagui2012[258],
+Casamancese,li,ɐˈki,li,ɐ.ˈki,-,ˈki,1,2,-,2,aphaeresis,aqui,here,Biagui2012[258],
+Casamancese,la,ˈɫa,la,ˈɫa,la,ˈɫa,1,1,1,1,,lá,there,Biagui2012[258],
+Casamancese,ki,kɐ̃j,ki,kɐ̃j,ki,kɐ̃j,1,1,1,1,,quem,who,Biagui2012[29],
+Casamancese,ku'ma,ˈkomu,ku.'ma,ˈko.mu,ku,ˈko,2,2,1,1,,como,how,Biagui2012[287],
+Casamancese,ku'ma,ˈkomu,ku.'ma,ˈko.mu,ˈma,mu,2,2,2,2,Dissimilation?,como,how,Biagui2012[287],
+Casamancese,ˈtudu,ˈtudu,ˈtu.du,ˈtu.du,ˈtu,ˈtu,2,2,1,1,,tudo,all,Biagui2012[151],
+Casamancese,ˈtudu,ˈtudu,ˈtu.du,ˈtu.du,du,du,2,2,2,2,,tudo,all,Biagui2012[151],
+Casamancese,mboˈkadu,buˈkadu,mbo.ˈka.du,bu.ˈka.du,mbo,bu,3,3,1,1,prothesis,"bocado, pouco",few,Biagui2012[117],
+Casamancese,mboˈkadu,buˈkadu,mbo.ˈka.du,bu.ˈka.du,ˈka,ˈka,3,3,2,2,,"bocado, pouco",few,Biagui2012[117],
+Casamancese,mboˈkadu,buˈkadu,mbo.ˈka.du,bu.ˈka.du,du,du,3,3,3,3,,"bocado, pouco",few,Biagui2012[117],
+Casamancese,ˈwutur,ˈotɾu,ˈwu.tur,ˈo.tɾu,ˈwu,ˈo,2,2,1,1,prothesis,outro,other,Biagui2012[151],
+Casamancese,ˈwutur,ˈotɾu,ˈwu.tur,ˈo.tɾu,tur,tɾu,2,2,2,2,,outro,other,Biagui2012[151],
+Casamancese,unˈsoɲ,ˈũ,un.ˈsoɲ,ˈũ,ˈũ,un,2,1,1,1,,um,one,Biagui2012[239],
+Casamancese,unˈsoɲ,ˈũ,un.ˈsoɲ,ˈũ,-,ˈsoɲ,2,1,-,2,prothesis,um,one,Biagui2012[239],
+Casamancese,dos,ˈdojʃ,dos,ˈdojʃ,dos,ˈdojʃ,1,1,1,1,,dois,two,Biagui2012[239],
+Casamancese,tres,ˈtɾeʃ,tres,ˈtɾeʃ,tres,ˈtɾeʃ,1,1,1,1,,três,three,Biagui2012[239],
+Casamancese,ˈkwatur,ˈkwatɾu,ˈkwa.tur,ˈkwa.tɾu,ˈkwa,ˈkwa,2,2,1,1,,quatro,four,Biagui2012[239],
+Casamancese,ˈkwatur,ˈkwatɾu,ˈkwa.tur,ˈkwa.tɾu,tur,tru,2,2,2,2,,quatro,four,Biagui2012[239],
+Casamancese,ˈsiɲku,ˈsĩku,ˈsi.ɲku,ˈsĩ.ku,ˈsi,ˈsĩ,2,2,1,1,,cinco,five,Biagui2012[239],
+Casamancese,ˈsiɲku,ˈsĩku,ˈsi.ɲku,ˈsĩ.ku,ɲku,ku,2,2,2,2,prothesis,cinco,five,Biagui2012[239],
+Casamancese,gaˈrandi,ˈgɾɐ̃dɨ,ga.ˈra.ndi,ˈgɾɐ̃.dɨ,ga,ˈgɾɐ̃,3,2,1,1,,grande,big,Biagui2012[344],
+Casamancese,gaˈrandi,ˈgɾɐ̃dɨ,ga.ˈra.ndi,ˈgɾɐ̃.dɨ,ˈra,-,3,2,2,-,methatesis,grande,big,Biagui2012[344],
+Casamancese,gaˈrandi,ˈgɾɐ̃dɨ,ga.ˈra.ndi,ˈgɾɐ̃.dɨ,ndi,dɨ,3,2,3,3,,grande,big,Biagui2012[344],
+Casamancese,kumˈpridu,kõˈpɾidu,kum.ˈpri.du,kõ.ˈpɾi.du,kum,kõ,3,3,1,1,,"comprido, longo",long,Biagui2012[349],
+Casamancese,kumˈpridu,kõˈpɾidu,kum.ˈpri.du,kõ.ˈpɾi.du,ˈpri,ˈpɾi,3,3,2,2,,"comprido, longo",long,Biagui2012[349],
+Casamancese,kumˈpridu,kõˈpɾidu,kum.ˈpri.du,kõ.ˈpɾi.du,du,du,3,3,3,3,,"comprido, longo",long,Biagui2012[349],
+Casamancese,ˈlargu,ˈɫaɾgu,ˈlar.gu,ˈɫaɾ.gu,ˈlar,ˈɫaɾ,2,2,1,1,,"largo, amplo",wide,Biagui2012[353],
+Casamancese,ˈlargu,ˈɫaɾgu,ˈlar.gu,ˈɫaɾ.gu,gu,gu,2,2,2,2,,"largo, amplo",wide,Biagui2012[353],
+Casamancese,ˈgros,ˈgɾosu,ˈgros,ˈgɾo.su,ˈgros,ˈgɾo,1,2,1,1,,"grosso, espesso",thick,Biagui2012[40],
+Casamancese,ˈgros,ˈgɾosu,ˈgros,ˈgɾo.su,-,su,1,2,-,2,apocope,"grosso, espesso",thick,Biagui2012[40],
+Casamancese,piˈsadu,pɨˈzadu,pi.ˈsa.du,pɨ.ˈza.du,pi,pɨ,3,3,1,1,,pesado,heavy,Biagui2012[339],
+Casamancese,piˈsadu,pɨˈzadu,pi.ˈsa.du,pɨ.ˈza.du,ˈsa,ˈza,3,3,2,2,,pesado,heavy,Biagui2012[339],
+Casamancese,piˈsadu,pɨˈzadu,pi.ˈsa.du,pɨ.ˈza.du,du,du,3,3,3,3,,pesado,heavy,Biagui2012[339],
+Casamancese,pikiˈninu,pɨˈkenu,pi.ki.ˈni.nu,pɨ.ˈke.nu,pi,pɨ,4,3,1,1,,pequeno,small,Biagui2012[345],
+Casamancese,pikiˈninu,pɨˈkenu,pi.ki.ˈni.nu,pɨ.ˈke.nu,ki,ˈke,4,3,2,2,,pequeno,small,Biagui2012[345],
+Casamancese,pikiˈninu,pɨˈkenu,pi.ki.ˈni.nu,pɨ.ˈke.nu,ˈni,-,4,3,3,-,epenthesis,pequeno,small,Biagui2012[345],
+Casamancese,pikiˈninu,pɨˈkenu,pi.ki.ˈni.nu,pɨ.ˈke.nu,nu,nu,4,3,4,3,,pequeno,small,Biagui2012[345],
+Casamancese,ˈkurtu,ˈkuɾtu,ˈkur.tu,ˈkuɾ.tu,ˈkuɾ,ˈkuɾ,2,2,1,1,,curto,short,Biagui2012[207],
+Casamancese,ˈkurtu,ˈkuɾtu,ˈkur.tu,ˈkuɾ.tu,tu,tu,2,2,2,2,,curto,short,Biagui2012[207],
+Casamancese,ˈmágur,ˈmagɾu,ˈmá.gur,ˈma.gɾu,ˈmá,ˈma,2,2,1,1,,magro,thin,Biagui2012[349],
+Casamancese,ˈmágur,ˈmagɾu,ˈmá.gur,ˈma.gɾu,gur,gɾu,2,2,2,2,,magro,thin,Biagui2012[349],
+Casamancese,miˈɲɟer,muˈʎeɾ,mi.ˈɲɟer,mu.ˈʎeɾ,mi,mu,2,2,1,1,,mulher,woman,Biagui2012[83],
+Casamancese,miˈɲɟer,muˈʎeɾ,mi.ˈɲɟer,mu.ˈʎeɾ,ˈɲɟer,ˈʎeɾ,2,2,2,2,,mulher,woman,Biagui2012[83],
+Casamancese,ˈwomi,ˈomɐ̃j,ˈwo.mi,ˈo.mɐ̃j,ˈwo,ˈo,2,2,1,1,prothesis,homem,man,Biagui2012[20],
+Casamancese,ˈwomi,ˈomɐ̃j,ˈwo.mi,ˈo.mɐ̃j,mi,mɐ̃j,2,2,2,2,,homem,man,Biagui2012[20],
+Casamancese,maj,ˈmɐ̃j,maj,ˈmɐ̃j,maj,ˈmɐ̃j,1,1,1,1,,mãe,mother,Biagui2012[83],
+Casamancese,paˈpɛ,ˈpaj,pa.ˈpɛ,ˈpaj,pa,ˈpaj,2,1,1,1,,pai,father,Biagui2012[83],
+Casamancese,paˈpɛ,ˈpaj,pa.ˈpɛ,ˈpaj,ˈpɛ,-,2,1,-,2,proparalepsis,pai,father,Biagui2012[83],
+Casamancese,pis,ˈpɐjʃɨ,pis,ˈpɐj.ʃɨ,pis,ˈpɐj,1,2,1,1,,peixe,fish,Biagui2012[134],
+Casamancese,pis,ˈpɐjʃɨ,pis,ˈpɐj.ʃɨ,-,ʃɨ,1,2,-,2,apocope,peixe,fish,Biagui2012[134],
+Casamancese,ˈpastur,ˈpasɐɾu,ˈpas.tur,ˈpa.sɐ.ɾu,ˈpas,ˈpa,2,3,1,1,methatesis,pássaro,bird,Biagui2012[28],
+Casamancese,ˈpastur,ˈpasɐɾu,ˈpas.tur,ˈpa.sɐ.ɾu,-,sɐ,2,3,-,2,,pássaro,bird,Biagui2012[28],
+Casamancese,ˈpastur,ˈpasɐru,ˈpas.tur,ˈpa.sɐ.ɾu,tur,ɾu,2,3,3,3,,pássaro,bird,Biagui2012[28],
+Casamancese,kaˈcor,kɐˈʃoʁu,ka.ˈcor,kɐ.ˈʃo.ʁu,ka,kɐ,2,3,1,1,,"cachorro, cão",dog,Biagui2012[33],
+Casamancese,kaˈcor,kɐˈʃoʁu,ka.ˈcor,kɐ.ˈʃo.ʁu,ˈcor,ˈʃo,2,3,2,2,methatesis,"cachorro, cão",dog,Biagui2012[33],
+Casamancese,kaˈcor,kɐˈʃoʁu,ka.ˈcor,kɐ.ˈʃo.ʁu,-,ʁu,2,3,-,3,,"cachorro, cão",dog,Biagui2012[33],
+Casamancese,ˈkobɾa,ˈkobɾɐ,ˈko.bɾa,ˈko.bɾɐ,ˈko,ˈko,2,2,1,1,,"cobra, serpente",snake,Biagui2012[165],
+Casamancese,ˈkobɾa,ˈkobɾɐ,ˈko.bɾa,ˈko.bɾɐ,bɾa,bɾɐ,2,2,2,2,,"cobra, serpente",snake,Biagui2012[165],
+Casamancese,ˈfruta,ˈfɾutɐ,ˈfru.ta,ˈfɾu.tɐ,ˈfru,ˈfɾu,2,2,1,1,,fruta,fruit,Biagui2012[23],
+Casamancese,ˈfruta,ˈfɾutɐ,ˈfru.ta,ˈfɾu.tɐ,ta,tɐ,2,2,2,2,,fruta,fruit,Biagui2012[23],
+Casamancese,gaˈrã,ˈgɾɐ̃w,ga.ˈrã,ˈgɾɐ̃w,ga,ˈgɾɐ̃w,2,1,1,1,,"grão, semente",seed,Biagui2012[88],
+Casamancese,gaˈrã,ˈgɾɐ̃w,ga.ˈrã,ˈgɾɐ̃w,ˈrã,-,2,1,2,-,methatesis,"grão, semente",seed,Biagui2012[88],
+Casamancese,ˈflor,ˈfɫoɾ,ˈflor,ˈfɫoɾ,ˈflor,ˈfɫoɾ,1,1,1,1,,flor,flower,Biagui2012[40],
+Casamancese,ˈkorda,ˈkoɾdɐ,ˈkor.da,ˈkoɾ.dɐ,ˈkor,ˈkoɾ,2,2,1,1,,corda,rope,Biagui2012[20],
+Casamancese,ˈkorda,ˈkoɾdɐ,ˈkor.da,ˈkoɾ.dɐ,da,dɐ,2,2,2,2,,corda,rope,Biagui2012[20],
+Casamancese,ˈkarna,ˈkaɾnɨ,ˈkar.na,ˈkaɾ.nɨ,ˈkar,ˈkaɾ,2,2,1,1,,carne,meat,Biagui2012[107],
+Casamancese,ˈkarna,ˈkaɾnɨ,ˈkar.na,ˈkaɾ.nɨ,na,nɨ,2,2,2,2,,carne,meat,Biagui2012[107],
+Casamancese,ˈcifur,ˈʃifɾɨ,ˈci.fur,ˈʃi.fɾɨ,ˈci,ˈʃi,2,2,1,1,,"chifre, corno",horn,Biagui2012[54],
+Casamancese,ˈcifur,ˈʃifɾɨ,ˈci.fur,ˈʃi.fɾɨ,fur,fɾɨ,2,2,2,2,,"chifre, corno",horn,Biagui2012[54],
+Casamancese,ˈrabu,ˈʁabu,ˈrabu,ˈʁa.bu,ˈra,ˈʁa,1,2,1,1,,"rabo, cauda",tail,Biagui2012[315],
+Casamancese,ˈrabu,ˈʁabu,ˈrabu,ˈʁa.bu,bu,bu,1,2,2,2,,"rabo, cauda",tail,Biagui2012[315],
+Casamancese,kaˈbelu,kɐˈbeɫu,ka.ˈbe.lu,kɐ.ˈbe.ɫu,ka,kɐ,3,3,1,1,,"cabelo, pêlo",hair,Biagui2012[33],
+Casamancese,kaˈbelu,kɐˈbeɫu,ka.ˈbe.lu,kɐ.ˈbe.ɫu,ˈbe,ˈbe,3,3,2,2,,"cabelo, pêlo",hair,Biagui2012[33],
+Casamancese,kaˈbelu,kɐˈbeɫu,ka.ˈbe.lu,kɐ.ˈbe.ɫu,lu,ɫu,3,3,3,3,,"cabelo, pêlo",hair,Biagui2012[33],
+Casamancese,woˈreɟa,oˈɾɐʎɐ,wo.ˈre.ɟa,o.ˈɾɐ.ʎɐ,wo,o,3,3,1,1,prothesis,orelha,ear,Biagui2012[106],
+Casamancese,woˈreɟa,oˈɾɐʎɐ,wo.ˈre.ɟa,o.ˈɾɐ.ʎɐ,ˈre,ˈɾɐ,3,3,2,2,,orelha,ear,Biagui2012[106],
+Casamancese,woˈreɟa,oˈɾɐʎɐ,wo.ˈre.ɟa,o.ˈɾɐ.ʎɐ,ɟa,ʎɐ,3,3,3,3,,orelha,ear,Biagui2012[106],
+Casamancese,naˈris,nɐˈɾiʃ,na.ˈris,nɐ.ˈɾiʃ,na,nɐ,2,2,1,1,,nariz,nose,Biagui2012[16],
+Casamancese,naˈris,nɐˈɾiʃ,na.ˈris,nɐ.ˈɾiʃ,ˈris,ˈɾiʃ,2,2,2,2,,nariz,nose,Biagui2012[16],
+Casamancese,ˈboka,ˈbokɐ,ˈbo.ka,ˈbo.kɐ,ˈbo,ˈbo,2,2,1,1,,boca,mouth,Biagui2012[16],
+Casamancese,ˈboka,ˈbokɐ,ˈbo.ka,ˈbo.kɐ,ka,kɐ,2,2,2,2,,boca,mouth,Biagui2012[16],
+Casamancese,ˈdinti,ˈdẽtɨ,ˈdi.nti,ˈdẽ.tɨ,ˈdi,ˈdẽ,2,2,1,1,,dente,tooth,Biagui2012[32],
+Casamancese,ˈdinti,ˈdẽtɨ,ˈdi.nti,ˈdẽ.tɨ,nti,tɨ,2,2,2,2,,dente,tooth,Biagui2012[32],
+Casamancese,liɲgu,ˈɫĩgwɐ,li.ɲgu,ˈɫĩ.gwɐ,li,ˈɫĩ,2,2,1,1,,língua,tongue,Biagui2012[181],
+Casamancese,liɲgu,ˈɫĩgwɐ,li.ɲgu,ˈɫĩ.gwɐ,ɲgu,gwɐ,2,2,2,2,,língua,tongue,Biagui2012[181],
+Casamancese,ˈɲuɲa,ˈuɲɐ,ˈɲu.ɲa,ˈu.ɲɐ,ˈɲu,ˈu,2,2,1,1,prothesis,unha,fingernail,Biagui2012[62],
+Casamancese,ˈɲuɲa,ˈuɲɐ,ˈɲu.ɲa,ˈu.ɲɐ,ɲa,ɲɐ,2,2,2,2,,unha,fingernail,Biagui2012[62],
+Casamancese,ˈãsa,ˈazɐ,ˈã.sa,ˈa.zɐ,ˈã,ˈa,2,2,1,1,,asa,wing,Biagui2012[45],
+Casamancese,ˈãsa,ˈazɐ,ˈã.sa,ˈa.zɐ,sa,zɐ,2,2,2,2,,asa,wing,Biagui2012[45],
+Casamancese,baˈriga,baˈʁigɐ,ba.ˈri.ga,ba.ˈʁi.gɐ,ba,ba,3,3,1,1,,"barriga, ventre",belly,Biagui2012[20],
+Casamancese,baˈriga,baˈʁigɐ,ba.ˈri.ga,ba.ˈʁi.gɐ,ˈri,ˈʁi,3,3,2,2,,"barriga, ventre",belly,Biagui2012[20],
+Casamancese,baˈriga,baˈʁigɐ,ba.ˈri.ga,ba.ˈʁi.gɐ,ga,gɐ,3,3,3,3,,"barriga, ventre",belly,Biagui2012[20],
+Casamancese,ˈkosta,ˈkoʃtɐʃ,ˈkos.ta,ˈkoʃ.tɐʃ,ˈkos,ˈkoʃ,2,2,1,1,,"costas, dorso",back,Biagui2012[32],
+Casamancese,ˈkosta,ˈkoʃtɐʃ,ˈkos.ta,ˈkoʃ.tɐʃ,ta,tɐʃ,2,2,2,2,apocope,"costas, dorso",back,Biagui2012[32],
+Casamancese,ˈpitu,ˈpɐjtu,ˈpi.tu,ˈpɐj.tu,ˈpi,ˈpɐj,2,2,1,1,syncope,"peito, seio",breast,Biagui2012[33],
+Casamancese,ˈpitu,ˈpɐjtu,ˈpi.tu,ˈpɐj.tu,tu,tu,2,2,2,2,,"peito, seio",breast,Biagui2012[33],
+Casamancese,korˈsõ,kuɾɐˈsɐ̃w,kor.ˈsõ,ku.ɾɐ.ˈsɐ̃w,kor,ku,2,3,1,1,methatesis,coração,heart,Biagui2012[22],
+Casamancese,korˈsõ,kuɾɐˈsɐ̃w,kor.ˈsõ,ku.ɾɐ.ˈsɐ̃w,-,ɾɐ,2,3,-,2,,coração,heart,Biagui2012[22],
+Casamancese,korˈsõ,kuɾɐˈsɐ̃w,kor.ˈsõ,ku.ɾɐ.ˈsɐ̃w,ˈsõ,ˈsɐ̃w,2,3,3,3,,coração,heart,Biagui2012[22],
+Casamancese,beˈbe,bɨˈbeɾ,be.ˈbe,bɨ.ˈbeɾ,be,bɨ,2,2,1,1,,beber,drink,Biagui2012[99],
+Casamancese,beˈbe,bɨˈbeɾ,be.ˈbe,bɨ.ˈbeɾ,ˈbe,ˈbeɾ,2,2,2,2,apocope,beber,drink,Biagui2012[99],
+Casamancese,kuˈme,kuˈmeɾ,ku.ˈme,ku.ˈmeɾ,ku,ku,2,2,1,1,,comer,eat,Biagui2012[99],
+Casamancese,kuˈme,kuˈmeɾ,ku.ˈme,ku.ˈmeɾ,ˈme,meɾ,2,2,2,2,apocope,comer,eat,Biagui2012[99],
+Casamancese,cuˈpa,ʃuˈpaɾ,cu.ˈpa,ʃu.ˈpaɾ,cu,ʃu,2,2,1,1,,"chupar, sugar",suck,Biagui2012[156],
+Casamancese,cuˈpa,ʃuˈpaɾ,cu.ˈpa,ʃu.ˈpaɾ,ˈpa,ˈpaɾ,2,2,2,2,apocope,"chupar, sugar",suck,Biagui2012[156],
+Casamancese,suˈpra,suˈpɾaɾ,su.ˈpra,su.ˈpɾaɾ,su,su,2,2,1,1,,soprar,blow,Biagui2012[44],
+Casamancese,suˈpra,suˈpɾaɾ,su.ˈpra,su.ˈpɾaɾ,ˈpra,ˈpɾaɾ,2,2,2,2,apocope,soprar,blow,Biagui2012[44],
+Casamancese,seˈbe,sɐˈbeɾ,se.ˈbe,sɐ.ˈbeɾ,se,sɐ,2,2,1,1,,saber,know,Biagui2012[186],
+Casamancese,seˈbe,sɐˈbeɾ,se.ˈbe,sɐ.ˈbeɾ,ˈbe,ˈbeɾ,2,2,2,2,apocope,saber,know,Biagui2012[186],
+Casamancese,durˈmi,duɾˈmiɾ,dur.ˈmi,duɾ.ˈmiɾ,dur,duɾ,2,2,1,1,,dormir,sleep,Biagui2012[196],
+Casamancese,durˈmi,duɾˈmiɾ,dur.ˈmi,duɾ.ˈmiɾ,ˈmi,ˈmiɾ,2,2,2,2,apocope,dormir,sleep,Biagui2012[196],
+Casamancese,moˈre,muˈʁeɾ,mo.ˈre,mu.ˈʁeɾ,mo,mu,2,2,1,1,,morrer,die,Biagui2012[166],
+Casamancese,moˈre,muˈʁeɾ,mo.ˈre,mu.ˈʁeɾ,ˈre,ˈʁeɾ,2,2,2,2,apocope,morrer,die,Biagui2012[166],
+Casamancese,korˈta,kuɾˈtaɾ,kor.ˈta,kuɾ.ˈtaɾ,kor,kuɾ,2,2,1,1,,cortar,cut,Biagui2012[12],
+Casamancese,korˈta,kuɾˈtaɾ,kor.ˈta,kuɾ.ˈtaɾ,ˈta,ˈtaɾ,2,2,2,2,apocope,cortar,cut,Biagui2012[12],
+Casamancese,koˈsa,kuˈsaɾ,ko.ˈsa,ku.ˈsaɾ,ko,ku,2,2,1,1,,coçar,scratch,Biagui2012[106],
+Casamancese,koˈsa,kuˈsaɾ,ko.ˈsa,ku.ˈsaɾ,ˈsa,ˈsaɾ,2,2,2,2,apocope,coçar,scratch,Biagui2012[106],
+Casamancese,koˈba,kɐˈvaɾ,ko.ˈba,kɐ.ˈvaɾ,ko,kɐ,2,2,1,1,,cavar,dig,Biagui2012[13],
+Casamancese,koˈba,kɐˈvaɾ,ko.ˈba,kɐ.ˈvaɾ,ˈba,ˈvaɾ,2,2,2,2,apocope,cavar,dig,Biagui2012[13],
+Casamancese,jeˈnda,ɐ̃ˈdaɾ,je.ˈnda,ɐ̃.ˈdaɾ,je,ɐ̃,2,2,1,1,,"andar, caminhar",walk,Biagui2012[13],
+Casamancese,jeˈnda,ɐ̃ˈdaɾ,je.ˈnda,ɐ̃.ˈdaɾ,ˈnda,ˈdaɾ,2,2,2,2,apocope,"andar, caminhar",walk,Biagui2012[13],
+Casamancese,beŋ,vɐ̃j,beŋ,vɐ̃j,beŋ,vɐ̃j,1,1,1,1,,vem,come,Biagui2012[158],
+Casamancese,foj,mẽˈtiɾ,foj,mẽ.ˈtiɾ,,,1,2,,,,mentir,lie,Biagui2012[157],Not portuguese origin
+Casamancese,siˈnta,sẽˈtaɾ,si.ˈnta,sẽ.ˈtaɾ,si,sẽ,2,2,1,1,,sentar,sit,Biagui2012[202],
+Casamancese,siˈnta,sẽˈtaɾ,si.ˈnta,sẽ.ˈtaɾ,ˈnta,ˈtaɾ,2,2,2,2,methatesis / apocope,sentar,sit,Biagui2012[202],
+Casamancese,labaˈnta,ɫɨvɐ̃ˈtaɾ,la.ba.ˈnta,ɫɨ.vɐ̃.ˈtaɾ,la,ɫɨ,3,3,1,1,,levantar,stand,Biagui2012[202],
+Casamancese,labaˈnta,ɫɨvɐ̃ˈtaɾ,la.ba.ˈnta,ɫɨ.vɐ̃.ˈtaɾ,ba,vɐ̃,3,3,2,2,,levantar,stand,Biagui2012[202],
+Casamancese,labaˈnta,ɫɨvɐ̃ˈtaɾ,la.ba.ˈnta,ɫɨ.vɐ̃.ˈtaɾ,ˈnta,ˈtaɾ,3,3,3,3,methatesis / apocope,levantar,stand,Biagui2012[202],
+Casamancese,kaj,kɐˈiɾ,kaj,kɐ.ˈiɾ,kaj,kɐ,1,2,1,1,,cair,fall,Biagui2012[157],
+Casamancese,kaj,kɐˈiɾ,kaj,kɐ.ˈiɾ,-,ˈiɾ,1,2,-,2,apocope,cair,fall,Biagui2012[157],
+Casamancese,ˈda,ˈdaɾ,ˈda,ˈdaɾ,ˈda,ˈdaɾ,1,1,1,1,apocope,"dar, entregar",give,Biagui2012[77],
+Casamancese,mperˈta,ɐpɨɾˈtaɾ,mper.ˈta,ɐ.pɨɾ.ˈtaɾ,-,ɐ,2,3,-,1,aphaeresis,"apertar, comprimir",squeeze,Biagui2012[59],
+Casamancese,mperˈta,ɐpɨɾˈtaɾ,mper.ˈta,ɐ.pɨɾ.ˈtaɾ,mper,pɨɾ,2,3,2,2,prothesis,"apertar, comprimir",squeeze,Biagui2012[59],
+Casamancese,mperˈta,ɐpɨɾˈtaɾ,mper.ˈta,ɐ.pɨɾ.ˈtaɾ,ˈta,ˈtaɾ,2,3,3,3,apocope,"apertar, comprimir",squeeze,Biagui2012[59],
+Casamancese,ferˈga,ʃfɾɨˈgaɾ,fer.ˈga,ʃ.fɾɨ.ˈgaɾ,-,ʃ,2,3,1,1,aphaeresis,"esfregar, friccionar",rub,Biagui2012[33],
+Casamancese,ferˈga,ʃfɾɨˈgaɾ,fer.ˈga,ʃ.fɾɨ.ˈgaɾ,fer,fɾɨ,2,3,2,2,,"esfregar, friccionar",rub,Biagui2012[33],
+Casamancese,ferˈga,ʃfɾɨˈgaɾ,fer.ˈga,ʃ.fɾɨ.ˈgaɾ,ˈga,ˈgaɾ,2,3,3,3,apocope,"esfregar, friccionar",rub,Biagui2012[33],
+Casamancese,laˈba,ɫɐˈvaɾ,la.ˈba,ɫɐ.ˈvaɾ,la,ɫɐ,2,2,1,1,,lavar,wash,Biagui2012[96],
+Casamancese,laˈba,ɫɐˈvaɾ,la.ˈba,ɫɐ.ˈvaɾ,ˈba,ˈvaɾ,2,2,2,2,apocope,lavar,wash,Biagui2012[96],
+Casamancese,piˈŋca,ẽpuˈʁaɾ,pi.ˈŋca,ẽ.pu.ˈʁaɾ,,,2,3,,,,empurrar,push,Biagui2012[28],Not portuguese origin
+Casamancese,koˈse,kuˈzeɾ,ko.ˈse,ku.ˈzeɾ,ko,ku,2,2,1,1,,"coser, costurar",sew,Biagui2012[193],
+Casamancese,koˈse,kuˈzeɾ,ko.ˈse,ku.ˈzeɾ,ˈse,ˈzeɾ,2,2,2,2,apocope,"coser, costurar",sew,Biagui2012[193],
+Casamancese,faˈla,fɐˈɫaɾ,fa.ˈla,fɐ.ˈɫaɾ,fa,fɐ,2,2,1,1,,"falar, dizer",say,Biagui2012[23],
+Casamancese,faˈla,fɐˈɫaɾ,fa.ˈla,fɐ.ˈɫaɾ,ˈla,ˈɫaɾ,2,2,2,2,apocope,"falar, dizer",say,Biagui2012[23],
+Casamancese,kaˈnta,kɐ̃ˈtaɾ,ka.ˈnta,kɐ̃.ˈtaɾ,ka,kɐ̃,2,2,1,1,,cantar,sing,Biagui2012[100],
+Casamancese,kaˈnta,kɐ̃ˈtaɾ,ka.ˈnta,kɐ̃.ˈtaɾ,ˈnta,ˈtaɾ,2,2,2,2,apocope,cantar,sing,Biagui2012[100],
+Casamancese,ɟuˈga,ʒuˈgaɾ,ɟu.ˈga,ʒu.ˈgaɾ,ɟu,ʒu,2,2,1,1,,"jogar, brincar, tocar",play,Biagui2012[111],
+Casamancese,ɟuˈga,ʒuˈgaɾ,ɟu.ˈga,ʒu.ˈgaɾ,ˈga,ˈgaɾ,2,2,2,2,apocope,"jogar, brincar, tocar",play,Biagui2012[111],
+Casamancese,boˈja,bojˈaɾ,bo.ˈja,boj.ˈaɾ,bo,boj,2,2,1,1,,"boiar, flutuar",float,Biagui2012[75],
+Casamancese,boˈja,bojˈaɾ,bo.ˈja,boj.ˈaɾ,ˈja,ˈaɾ,2,2,2,2,,"boiar, flutuar",float,Biagui2012[75],
+Casamancese,ˈluŋa,ˈɫuɐ,ˈlu.ŋa,ˈɫu.ɐ,ˈlu,ˈɫu,2,2,1,1,,lua,moon,Biagui2012[34],
+Casamancese,ˈluŋa,ˈɫuɐ,ˈlu.ŋa,ˈɫu.ɐ,ŋa,ɐ,2,2,2,2,,lua,moon,Biagui2012[34],
+Casamancese,jagu,ˈagwɐ,ja.gu,ˈa.gwɐ,ja,ˈa,2,2,1,1,,água,water,Biagui2012[24],
+Casamancese,jagu,ˈagwɐ,ja.gu,ˈa.gwɐ,gu,gwɐ,2,2,2,2,,água,water,Biagui2012[24],
+Casamancese,laˈguwa,ɫɐˈgoɐ,la.ˈgu.wa,ɫɐ.ˈgo.ɐ,la,ɫɐ,3,3,1,1,,lagoa,lagoon,Biagui2012[30],
+Casamancese,laˈguwa,ɫɐˈgoɐ,la.ˈgu.wa,ɫɐ.ˈgo.ɐ,ˈgu,ˈgo,3,3,2,2,,lagoa,lagoon,Biagui2012[30],
+Casamancese,laˈguwa,ɫɐˈgoɐ,la.ˈgu.wa,ɫɐ.ˈgo.ɐ,wa,ɐ,3,3,3,3,,lagoa,lagoon,Biagui2012[30],
+Casamancese,ˈnubis,ˈnuvɐ̃jʃ,ˈnu.bis,ˈnu.vɐ̃jʃ,ˈnu,ˈnu,2,2,1,1,,nuvens,clouds,Biagui2012[38],
+Casamancese,ˈnubis,ˈnuvɐ̃jʃ,ˈnu.bis,ˈnu.vɐ̃jʃ,bis,vɐ̃jʃ,2,2,2,2,,nuvens,clouds,Biagui2012[38],
+Casamancese,ˈfugu,ˈfogu,ˈfu.gu,ˈfo.gu,ˈfu,ˈfo,2,2,1,1,,fogo,fire,Biagui2012[106],
+Casamancese,ˈfugu,ˈfogu,ˈfu.gu,ˈfo.gu,gu,gu,2,2,2,2,,fogo,fire,Biagui2012[106],
+Casamancese,ˈsĩsa,ˈsĩzɐʃ,ˈsĩ.sa,ˈsĩ.zɐʃ,ˈsĩ,ˈsĩ,2,2,1,1,,cinzas,ashes,Biagui2012[22],
+Casamancese,ˈsĩsa,ˈsĩzɐʃ,ˈsĩ.sa,ˈsĩ.zɐʃ,sa,zɐʃ,2,2,2,2,,cinzas,ashes,Biagui2012[22],
+Casamancese,ˈstrada,ʃˈtɾadɐ,ˈs.tra.da,ʃ.ˈtɾa.dɐ,ˈs,ʃ,3,3,1,1,,"estrada, rua",street,Biagui2012[45],
+Casamancese,ˈstrada,ʃˈtɾadɐ,ˈs.tra.da,ʃ.ˈtɾa.dɐ,tra,ˈtɾa,3,3,2,2,,"estrada, rua",street,Biagui2012[45],
+Casamancese,ˈstrada,ʃˈtɾadɐ,ˈs.tra.da,ʃ.ˈtɾa.dɐ,da,dɐ,3,3,3,3,,"estrada, rua",street,Biagui2012[45],
+Casamancese,burˈmeɟu,vɨɾˈmɐʎu,bur.ˈme.ɟu,vɨɾ.ˈmɐ.ʎu,bur,vɨɾ,3,3,1,1,,vermelho,red,Biagui2012[103],
+Casamancese,burˈmeɟu,vɨɾˈmɐʎu,bur.ˈme.ɟu,vɨɾ.ˈmɐ.ʎu,ˈme,ˈmɐ,3,3,2,2,,vermelho,red,Biagui2012[103],
+Casamancese,burˈmeɟu,vɨɾˈmɐʎu,bur.ˈme.ɟu,vɨɾ.ˈmɐ.ʎu,ɟu,ʎu,3,3,3,3,,vermelho,red,Biagui2012[103],
+Casamancese,ˈberdu,ˈveɾdɨ,ˈber.du,ˈveɾ.dɨ,ˈber,ˈveɾ,2,2,1,1,,verde,green,Biagui2012[335],
+Casamancese,ˈberdu,ˈveɾdɨ,ˈber.du,ˈveɾ.dɨ,du,dɨ,2,2,2,2,,verde,green,Biagui2012[335],
+Casamancese,ˈbraŋku,ˈbɾɐ̃ku,ˈbra.ŋku,ˈbɾɐ̃.ku,ˈbra,ˈbɾɐ̃,2,2,1,1,,branco,white,Biagui2012[103],
+Casamancese,ˈbraŋku,ˈbɾɐ̃ku,ˈbra.ŋku,ˈbɾɐ̃.ku,ŋku,ku,2,2,2,2,,branco,white,Biagui2012[103],
+Casamancese,ˈpretu,ˈpɾetu,ˈpre.tu,ˈpɾe.tu,ˈpre,ˈpre,2,2,1,1,,preto,black,Biagui2012[39],
+Casamancese,ˈpretu,ˈpɾetu,ˈpre.tu,ˈpɾe.tu,tu,tu,2,2,2,2,,preto,black,Biagui2012[39],
+Casamancese,ˈcinti,ˈmoɾnu,ˈci.nti,ˈmoɾ.nu,,,2,2,,,,morno,warm,Biagui2012[54],Not portuguese origin
+Casamancese,jiˈŋci,ẽˈʃidu,ji.ˈŋci,ẽ.ˈʃi.du,ji,ẽ,2,3,1,1,,enchido,"full, filled",Biagui2012[29],
+Casamancese,jiˈŋci,ẽˈʃidu,ji.ˈŋci,ẽ.ˈʃi.du,ˈŋci,ˈʃi,2,3,2,2,,enchido,"full, filled",Biagui2012[29],
+Casamancese,jiˈŋci,ẽˈʃidu,ji.ˈŋci,ẽ.ˈʃi.du,-,du,2,3,-,3,,enchido,"full, filled",Biagui2012[29],
+Casamancese,ˈnobu,ˈnovu,ˈno.bu,ˈno.vu,ˈno,ˈno,2,2,1,1,,novo,new,Biagui2012[104],
+Casamancese,ˈnobu,ˈnovu,ˈno.bu,ˈno.vu,bu,vu,2,2,2,2,,novo,new,Biagui2012[104],
+Casamancese,ˈbeɟu,ˈvɐʎu,ˈbe.ɟu,ˈvɐ.ʎu,ˈbe,ˈvɐ,2,2,1,1,,velho,old,Biagui2012[124],
+Casamancese,ˈbeɟu,ˈvɐʎu,ˈbe.ɟu,ˈvɐ.ʎu,ɟu,ʎu,2,2,2,2,,velho,old,Biagui2012[124],
+Casamancese,ˈbõ,bõ,ˈbõ,bõ,ˈbõ,bõ,1,1,1,1,,bom,good,Biagui2012[77],
+Casamancese,ˈlisu,ˈɫizu,ˈli.su,ˈɫi.zu,ˈli,ˈɫi,2,2,1,1,,"liso, suave",smooth,Biagui2012[338],
+Casamancese,ˈlisu,ˈɫizu,ˈli.su,ˈɫi.zu,su,zu,2,2,2,2,,"liso, suave",smooth,Biagui2012[338],
+Casamancese,mo'ɟa,muˈʎaɾ,mo.'ɟa,mu.ˈʎaɾ,mo,mu,2,2,1,1,,molhar,wet,Biagui2012[261],
+Casamancese,mo'ɟa,muˈʎaɾ,mo.'ɟa,mu.ˈʎaɾ,ɟa,ˈʎaɾ,2,2,2,2,,molhar,wet,Biagui2012[261],
+Casamancese,seku,ˈseku,ˈse.ku,ˈse.ku,ˈse,ˈse,3,2,1,2,,seco,dry,Biagui2012[261],
+Casamancese,seku,ˈseku,ˈse.ku,ˈse.ku,ku,ku,3,2,1,2,,seco,dry,Biagui2012[261],
+Casamancese,ˈpertu,ˈpeɾtu,ˈper.tu,ˈpeɾ.tu,ˈper,ˈper,2,2,1,2,,perto,near,Biagui2012[339],
+Casamancese,ˈpertu,ˈpeɾtu,ˈper.tu,ˈpeɾ.tu,tu,tu,2,2,1,2,,perto,near,Biagui2012[339],
+Casamancese,ˈloŋɟi,ˈɫõʒɨ,ˈlo.ŋɟi,ˈɫõ.ʒɨ,ˈlo,ˈɫõ,2,2,1,2,,longe,far,Biagui2012[338],
+Casamancese,ˈloŋɟi,ˈɫõʒɨ,ˈlo.ŋɟi,ˈɫõ.ʒɨ,ŋɟi,ʒɨ,2,2,1,2,,longe,far,Biagui2012[338],
+Casamancese,siˈkerdu,ʃˈkeɾdɐ,si.ˈker.du,ʃ.ˈkeɾ.dɐ,si,ʃ,3,3,1,1,,esquerda,left,Biagui2012[236],
+Casamancese,siˈkerdu,ʃˈkeɾdɐ,si.ˈker.du,ʃ.ˈkeɾ.dɐ,ˈker,ˈkeɾ,3,3,2,2,,esquerda,left,Biagui2012[236],
+Casamancese,siˈkerdu,ʃˈkeɾdɐ,si.ˈker.du,ʃ.ˈkeɾ.dɐ,du,dɐ,3,3,3,3,,esquerda,left,Biagui2012[236],
+Casamancese,i,i,i,i,i,i,1,1,1,1,,e,and,Biagui2012[272],
+Casamancese,si,sɨ,si,sɨ,si,sɨ,1,1,1,1,,se,if,Biagui2012[276],
+Casamancese,paˈbija,puɾkɨ,pa.ˈbi.ja,puɾ.kɨ,,,3,2,,,,porque,because,Biagui2012[272],Not portuguese origin
+Casamancese,wo'ɟa,oˈʎaɾ,wo.'ɟa,o.ˈʎaɾ,o,wo,2,2,1,1,,ver,look,Biagui2012[24],
+Casamancese,wo'ɟa,oˈʎaɾ,wo.'ɟa,o.ˈʎaɾ,ˈʎaɾ,ɟa,2,2,2,2,,ver,look,Biagui2012[24],
+Casamancese,ˈnomi,ˈnomɨ,ˈno.mi,ˈno.mɨ,ˈno,ˈno,2,2,1,1,,nome,name,Biagui2012[20],
+Casamancese,ˈnomi,ˈnomɨ,ˈno.mi,ˈno.mɨ,mi,mɨ,2,2,2,2,,nome,name,Biagui2012[20],
+Casamancese,ˈpaɟa,ˈpaʎɐ,ˈpa.ɟa,ˈpa.ʎɐ,ˈpa,ˈpa,2,2,1,1,,palha,straw,Biagui2012[31],"Basic, but not Swadesh items"
+Casamancese,ˈpaɟa,ˈpaʎɐ,ˈpa.ɟa,ˈpa.ʎɐ,ɟa,ʎɐ,2,2,2,2,,palha,straw,Biagui2012[31],"Basic, but not Swadesh items"
+Casamancese,ˈaɲɟu,ˈɐ̃ʒu,ˈa.ɲɟu,ˈɐ̃.ʒu,ˈa,ˈɐ̃,2,2,1,1,,anjo,angel,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,po,ˈpaw,po,ˈpaw,po,ˈpaw,1,1,1,1,,pau,stick,Biagui2012[317],"Basic, but not Swadesh items"
+Casamancese,ˈaɲɟu,ˈɐ̃ʒu,ˈa.ɲɟu,ˈɐ̃.ʒu,ɲɟu,ʒu,2,2,2,2,,anjo,angel,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈɫaɾgumɐ,ˈɫagɾimɐ,ˈɫaɾ.gu.mɐ,ˈɫa.gɾi.mɐ,ˈɫaɾ,ˈɫa,3,3,1,1,methatesis,lágrima,teardrop,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈɫaɾgumɐ,ˈɫagɾimɐ,ˈɫaɾ.gu.mɐ,ˈɫa.gɾi.mɐ,gu,gɾi,3,3,2,2,,lágrima,teardrop,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈɫaɾgumɐ,ˈɫagɾimɐ,ˈɫaɾ.gu.mɐ,ˈɫa.gɾi.mɐ,mɐ,mɐ,3,3,3,3,,lágrima,teardrop,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈmakina,ˈmakinɐ,ˈma.ki.na,ˈma.ki.nɐ,ˈma,ˈma,3,3,1,1,,máquina,machine,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈmakina,ˈmakinɐ,ˈma.ki.na,ˈma.ki.nɐ,ki,ki,3,3,2,2,,máquina,machine,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈmakina,ˈmakinɐ,ˈma.ki.na,ˈma.ki.nɐ,na,nɐ,3,3,3,3,,máquina,machine,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈlama,ˈɫɐmɐ,ˈla.ma,ˈɫɐ.mɐ,ˈla,ˈɫɐ,2,2,1,1,,lama,mud,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈlama,ˈɫɐmɐ,ˈla.ma,ˈɫɐ.mɐ,ma,mɐ,2,2,2,2,,lama,mud,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈfɛru,ˈfeʁu,ˈfɛ.ru,ˈfe.ʁu,ˈfɛ,ˈfe,2,2,1,1,,ferro,iron,Biagui2012[21],"Basic, but not Swadesh items"
+Casamancese,ˈfɛru,ˈfeʁu,ˈfɛ.ru,ˈfe.ʁu,ru,ʁu,2,2,2,2,,ferro,iron,Biagui2012[21],"Basic, but not Swadesh items"
+Casamancese,ˈmala,ˈmaɫɐ,ˈma.la,ˈma.ɫɐ,ˈma,ˈma,2,2,1,1,,mala,suitcase,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,ˈmala,ˈmaɫɐ,ˈma.la,ˈma.ɫɐ,la,ɫɐ,2,2,2,2,,mala,suitcase,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,ˈsuɲu,ˈsoɲu,ˈsu.ɲu,ˈso.ɲu,ˈsu,ˈso,2,2,1,1,,sonho,dream,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,ˈsuɲu,ˈsoɲu,ˈsu.ɲu,ˈso.ɲu,ɲu,ɲu,2,2,2,2,,sonho,dream,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,liˈmpa,ɫĩˈpaɾ,li.ˈmpa,ɫĩ.ˈpaɾ,li,ɫĩ,2,2,1,1,,limpar,clean,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,liˈmpa,ɫĩˈpaɾ,li.ˈmpa,ɫĩ.ˈpaɾ,ˈmpa,ˈpaɾ,2,2,2,2,opocope,limpar,clean,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,lãˈsol,ɫẽˈsɔɫ,lã.ˈsol,ɫẽ.ˈsɔɫ,lã,ɫẽ,2,2,1,1,,lençol,sheet,Biagui2012[21],"Basic, but not Swadesh items"
+Casamancese,lãˈsol,ɫẽˈsɔɫ,lã.ˈsol,ɫẽ.ˈsɔɫ,ˈsol,ˈsɔɫ,2,2,2,2,,lençol,sheet,Biagui2012[21],"Basic, but not Swadesh items"
+Casamancese,saŋ,ˈsɐ̃w,saŋ,ˈsɐ̃w,saŋ,ˈsɐ̃w,1,1,1,1,,são (saudável),healthy,Biagui2012[158],"Basic, but not Swadesh items"
+Casamancese,firˈmiɲga,fõˈɾigɐ,fir.ˈmi.ɲga,fõ.ˈɾi.gɐ,fir,fõ,3,3,1,1,methatesis,formiga,ant,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,firˈmiɲga,fõˈɾigɐ,fir.ˈmi.ɲga,fõ.ˈɾi.gɐ,ˈmi,ˈɾi,3,3,2,2,,formiga,ant,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,firˈmiɲga,fõˈɾigɐ,fir.ˈmi.ɲga,fõ.ˈɾi.gɐ,ɲga,gɐ,3,3,3,3,epenthesis,formiga,ant,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,murˈsegu,muɾˈsegu,mur.ˈse.gu,muɾ.ˈse.gu,mur,mur,3,3,1,1,,morcego,bat,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,murˈsegu,muɾˈsegu,mur.ˈse.gu,muɾ.ˈse.gu,ˈse,ˈse,3,3,2,2,,morcego,bat,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,murˈsegu,muɾˈsegu,mur.ˈse.gu,muɾ.ˈse.gu,gu,gu,3,3,3,3,,morcego,bat,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,ˈkurpu,ˈkoɾpu,ˈkur.pu,ˈkoɾ.pu,ˈkur,ˈkoɾ,2,2,1,1,,corpo,"body, corps",Biagui2012[25],"Basic, but not Swadesh items"
+Casamancese,ˈkurpu,ˈkoɾpu,ˈkur.pu,ˈkoɾ.pu,pu,pu,2,2,2,2,,corpo,"body, corps",Biagui2012[25],"Basic, but not Swadesh items"
+Casamancese,jerˈmõ,iɾˈmɐ̃w,jer.ˈmõ,iɾ.ˈmɐ̃w,jer,iɾ,2,2,1,1,prothesis,irmão,brother,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,jerˈmõ,iɾˈmɐ̃w,jer.ˈmõ,iɾ.ˈmɐ̃w,ˈmõ,ˈmɐ̃w,2,2,2,2,,irmão,brother,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,ˈkasa,ˈkazɐ,ˈka.sa,ˈka.zɐ,ˈka,ˈka,2,2,1,1,,casa,house,Biagui2012[26],"Basic, but not Swadesh items"
+Casamancese,ˈkasa,ˈkazɐ,ˈka.sa,ˈka.zɐ,sa,zɐ,2,2,2,2,,casa,house,Biagui2012[26],"Basic, but not Swadesh items"
+Casamancese,ˈkama,ˈkɐmɐ,ˈka.ma,ˈkɐ.mɐ,ˈka,ˈkɐ,2,2,1,1,,cama,bed,Biagui2012[27],"Basic, but not Swadesh items"
+Casamancese,ˈkama,ˈkɐmɐ,ˈka.ma,ˈkɐ.mɐ,ma,mɐ,2,2,2,2,,cama,bed,Biagui2012[27],"Basic, but not Swadesh items"
+Casamancese,kaˈdera,kɐˈdɐjɾɐ,ka.ˈde.ra,kɐ.ˈdɐj.ɾɐ,ka,kɐ,3,3,1,1,,cadeira,chair,Biagui2012[27],"Basic, but not Swadesh items"
+Casamancese,kaˈdera,kɐˈdɐjɾɐ,ka.ˈde.ra,kɐ.ˈdɐj.ɾɐ,ˈde,ˈdɐj,3,3,2,2,syncope,cadeira,chair,Biagui2012[27],"Basic, but not Swadesh items"
+Casamancese,kaˈdera,kɐˈdɐjɾɐ,ka.ˈde.ra,kɐ.ˈdɐj.ɾɐ,ra,ɾɐ,3,3,3,3,,cadeira,chair,Biagui2012[27],"Basic, but not Swadesh items"
+Casamancese,diˈɲeru,diˈɲɐjɾu,di.ˈɲe.ru,di.ˈɲɐj.ɾu,di,di,3,3,1,1,,dinheiro,money,Biagui2012[29],"Basic, but not Swadesh items"
+Casamancese,diˈɲeru,diˈɲɐjɾu,di.ˈɲe.ru,di.ˈɲɐj.ɾu,ˈɲe,ˈɲɐj,3,3,2,2,syncope,dinheiro,money,Biagui2012[29],"Basic, but not Swadesh items"
+Casamancese,diˈɲeru,diˈɲɐjɾu,di.ˈɲe.ru,di.ˈɲɐj.ɾu,ru,ɾu,3,3,3,3,,dinheiro,money,Biagui2012[29],"Basic, but not Swadesh items"
+Casamancese,aˈmigu,ɐˈmigu,a.ˈmi.gu,ɐ.ˈmi.gu,a,ɐ,3,3,1,1,,amigo,friend,Biagui2012[34],"Basic, but not Swadesh items"
+Casamancese,aˈmigu,ɐˈmigu,a.ˈmi.gu,ɐ.ˈmi.gu,ˈmi,ˈmi,3,3,2,2,,amigo,friend,Biagui2012[34],"Basic, but not Swadesh items"
+Casamancese,aˈmigu,ɐˈmigu,a.ˈmi.gu,ɐ.ˈmi.gu,gu,gu,3,3,3,3,,amigo,friend,Biagui2012[34],"Basic, but not Swadesh items"
+Casamancese,ˈmaŋgu,ˈmɐ̃gɐ,ˈma.ŋgu,ˈmɐ̃.gɐ,ˈma,ˈmɐ̃,2,2,1,1,,manga,mango,Biagui2012[34],"Basic, but not Swadesh items"
+Casamancese,ˈmaŋgu,ˈmɐ̃gɐ,ˈma.ŋgu,ˈmɐ̃.gɐ,ŋgu,gɐ,2,2,2,2,methatesis,manga,mango,Biagui2012[34],"Basic, but not Swadesh items"
+Casamancese,ˈfala,ˈfaɫɐ,ˈfa.la,ˈfa.ɫɐ,ˈfa,ˈfa,2,2,1,1,,fala,speech,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈfala,ˈfaɫɐ,ˈfa.la,ˈfa.ɫɐ,la,ɫɐ,2,2,2,2,,fala,speech,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈkonta,kuˈɫaɾ,ˈko.nta,ku.ˈɫaɾ,ˈko,ku,2,2,1,1,,colar ,necklace ,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈkonta,kuˈɫaɾ,ˈko.nta,ku.ˈɫaɾ,nta,ˈɫaɾ,2,2,2,2,apocope,colar ,necklace ,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,koˈnta,kõˈtaɾ,ko.ˈnta,kõ.ˈtaɾ,ko,kõ,2,2,1,1,,contar,tell,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,koˈnta,kõˈtaɾ,ko.ˈnta,kõ.ˈtaɾ,ˈnta,ˈtaɾ,2,2,2,2,apocope,contar,tell,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈkoba,ˈkovɐ,ˈko.ba,ˈko.vɐ,ˈko,ˈko,2,2,1,1,,cova,"pit, hole",Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈkoba,ˈkovɐ,ˈko.ba,ˈko.vɐ,ba,vɐ,2,2,2,2,,cova,"pit, hole",Biagui2012[13],"Basic, but not Swadesh items"

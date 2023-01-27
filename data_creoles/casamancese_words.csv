@@ -1,0 +1,133 @@
+Language,SourceWord,TargetWord,SourceWordSyl,TargetWordSyl,SourceSyllable,TargetSyllable,SourceWordSyl,TargetWordSyl,SourceWordLength,TargetWordLength,SourceWordSylLength,TargetWordSylLength,WordDiff,WordBigger,SyllDiff,SylNumBigger,PositionSource,PositionTarget,SimplePositionSource,SimplePositionTarget,Process,TargetOrthography,Translation,Reference,Notes
+Casamancese,bo,vuˈse,bo,vu.ˈse,bo,vu,1,2,2,4,1,2,-2,Target,-1,Target,1,1,Medial,Medial,,você,"thou, you",Biagui2012[129],
+Casamancese,jel,ˈeɫɨ,jel,ˈe.ɫɨ,jel,ˈe,1,2,3,3,1,2,0,Equal,-1,Target,1,1,Medial,Medial,prothesis,ele,he,Biagui2012[129],
+Casamancese,nos,ˈnɔʃ,nos,ˈnɔʃ,nos,ˈnɔʃ,1,1,3,3,1,1,0,Equal,0,Equal,1,1,Medial,Medial,,nós,we,Biagui2012[129],
+Casamancese,bos,vuˈseʃ,bos,vu.ˈseʃ,bos,vu,1,2,3,5,1,2,-2,Target,-1,Target,1,1,Medial,Medial,,vocês,"ye, you",Biagui2012[129],
+Casamancese,ˈjelus,ˈeɫɨʃ,ˈje.lus,ˈe.ɫɨʃ,ˈje,ˈe,2,2,5,4,2,2,1,Source,0,Equal,1,1,Medial,Medial,prothesis,eles,they,Biagui2012[129],
+Casamancese,li,ɐˈki,li,ɐ.ˈki,li,ɐ,1,2,2,3,1,2,-1,Target,-1,Target,1,1,Medial,Medial,aphaeresis,aqui,here,Biagui2012[258],
+Casamancese,la,ˈɫa,la,ˈɫa,la,ˈɫa,1,1,2,2,1,1,0,Equal,0,Equal,1,1,Medial,Medial,,lá,there,Biagui2012[258],
+Casamancese,ki,kɐ̃j,ki,kɐ̃j,ki,kɐ̃j,1,1,2,4,1,1,-2,Target,0,Equal,1,1,Medial,Medial,,quem,who,Biagui2012[29],
+Casamancese,ku'ma,ˈkomu,ku.'ma,ˈko.mu,ku,ˈko,2,2,5,4,2,2,1,Source,0,Equal,1,1,Medial,Medial,,como,how,Biagui2012[287],
+Casamancese,ˈtudu,ˈtudu,ˈtu.du,ˈtu.du,ˈtu,ˈtu,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,tudo,all,Biagui2012[151],
+Casamancese,mboˈkadu,buˈkadu,mbo.ˈka.du,bu.ˈka.du,mbo,bu,3,3,6,6,3,3,0,Equal,0,Equal,1,1,Medial,Medial,prothesis,"bocado, pouco",few,Biagui2012[117],
+Casamancese,ˈwutur,ˈotɾu,ˈwu.tur,ˈo.tɾu,ˈwu,ˈo,2,2,5,4,2,2,1,Source,0,Equal,1,1,Medial,Medial,prothesis,outro,other,Biagui2012[151],
+Casamancese,unˈsoɲ,ˈũ,un.ˈsoɲ,ˈũ,ˈũ,un,2,1,5,2,2,1,3,Source,1,Source,1,1,Medial,Medial,,um,one,Biagui2012[239],
+Casamancese,dos,ˈdojʃ,dos,ˈdojʃ,dos,ˈdojʃ,1,1,3,4,1,1,-1,Target,0,Equal,1,1,Medial,Medial,,dois,two,Biagui2012[239],
+Casamancese,tres,ˈtɾeʃ,tres,ˈtɾeʃ,tres,ˈtɾeʃ,1,1,4,4,1,1,0,Equal,0,Equal,1,1,Medial,Medial,,três,three,Biagui2012[239],
+Casamancese,ˈkwatur,ˈkwatɾu,ˈkwa.tur,ˈkwa.tɾu,ˈkwa,ˈkwa,2,2,6,6,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,quatro,four,Biagui2012[239],
+Casamancese,ˈsiɲku,ˈsĩku,ˈsi.ɲku,ˈsĩ.ku,ˈsi,ˈsĩ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,cinco,five,Biagui2012[239],
+Casamancese,gaˈrandi,ˈgɾɐ̃dɨ,ga.ˈra.ndi,ˈgɾɐ̃.dɨ,ga,ˈgɾɐ̃,3,2,7,6,3,2,1,Source,1,Source,1,1,Medial,Medial,,grande,big,Biagui2012[344],
+Casamancese,kumˈpridu,kõˈpɾidu,kum.ˈpri.du,kõ.ˈpɾi.du,kum,kõ,3,3,8,8,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,"comprido, longo",long,Biagui2012[349],
+Casamancese,ˈlargu,ˈɫaɾgu,ˈlar.gu,ˈɫaɾ.gu,ˈlar,ˈɫaɾ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,"largo, amplo",wide,Biagui2012[353],
+Casamancese,ˈgros,ˈgɾosu,ˈgros,ˈgɾo.su,ˈgros,ˈgɾo,1,2,4,5,1,2,-1,Target,-1,Target,1,1,Medial,Medial,,"grosso, espesso",thick,Biagui2012[40],
+Casamancese,piˈsadu,pɨˈzadu,pi.ˈsa.du,pɨ.ˈza.du,pi,pɨ,3,3,6,6,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,pesado,heavy,Biagui2012[339],
+Casamancese,pikiˈninu,pɨˈkenu,pi.ki.ˈni.nu,pɨ.ˈke.nu,pi,pɨ,4,3,8,6,4,3,2,Source,1,Source,1,1,Medial,Medial,,pequeno,small,Biagui2012[345],
+Casamancese,ˈkurtu,ˈkuɾtu,ˈkur.tu,ˈkuɾ.tu,ˈkuɾ,ˈkuɾ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,curto,short,Biagui2012[207],
+Casamancese,ˈmágur,ˈmagɾu,ˈmá.gur,ˈma.gɾu,ˈmá,ˈma,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,magro,thin,Biagui2012[349],
+Casamancese,miˈɲɟer,muˈʎeɾ,mi.ˈɲɟer,mu.ˈʎeɾ,mi,mu,2,2,6,5,2,2,1,Source,0,Equal,1,1,Medial,Medial,,mulher,woman,Biagui2012[83],
+Casamancese,ˈwomi,ˈomɐ̃j,ˈwo.mi,ˈo.mɐ̃j,ˈwo,ˈo,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,prothesis,homem,man,Biagui2012[20],
+Casamancese,maj,ˈmɐ̃j,maj,ˈmɐ̃j,maj,ˈmɐ̃j,1,1,3,4,1,1,-1,Target,0,Equal,1,1,Medial,Medial,,mãe,mother,Biagui2012[83],
+Casamancese,paˈpɛ,ˈpaj,pa.ˈpɛ,ˈpaj,pa,ˈpaj,2,1,4,3,2,1,1,Source,1,Source,1,1,Medial,Medial,,pai,father,Biagui2012[83],
+Casamancese,pis,ˈpɐjʃɨ,pis,ˈpɐj.ʃɨ,pis,ˈpɐj,1,2,3,5,1,2,-2,Target,-1,Target,1,1,Medial,Medial,,peixe,fish,Biagui2012[134],
+Casamancese,ˈpastur,ˈpasɐɾu,ˈpas.tur,ˈpa.sɐ.ɾu,ˈpas,ˈpa,2,3,6,6,2,3,0,Equal,-1,Target,1,1,Medial,Medial,methatesis,pássaro,bird,Biagui2012[28],
+Casamancese,kaˈcor,kɐˈʃoʁu,ka.ˈcor,kɐ.ˈʃo.ʁu,ka,kɐ,2,3,5,6,2,3,-1,Target,-1,Target,1,1,Medial,Medial,,"cachorro, cão",dog,Biagui2012[33],
+Casamancese,ˈkobɾa,ˈkobɾɐ,ˈko.bɾa,ˈko.bɾɐ,ˈko,ˈko,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,"cobra, serpente",snake,Biagui2012[165],
+Casamancese,ˈfruta,ˈfɾutɐ,ˈfru.ta,ˈfɾu.tɐ,ˈfru,ˈfɾu,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,fruta,fruit,Biagui2012[23],
+Casamancese,gaˈrã,ˈgɾɐ̃w,ga.ˈrã,ˈgɾɐ̃w,ga,ˈgɾɐ̃w,2,1,4,5,2,1,-1,Target,1,Source,1,1,Medial,Medial,,"grão, semente",seed,Biagui2012[88],
+Casamancese,ˈflor,ˈfɫoɾ,ˈflor,ˈfɫoɾ,ˈflor,ˈfɫoɾ,1,1,4,4,1,1,0,Equal,0,Equal,1,1,Medial,Medial,,flor,flower,Biagui2012[40],
+Casamancese,ˈkorda,ˈkoɾdɐ,ˈkor.da,ˈkoɾ.dɐ,ˈkor,ˈkoɾ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,corda,rope,Biagui2012[20],
+Casamancese,ˈkarna,ˈkaɾnɨ,ˈkar.na,ˈkaɾ.nɨ,ˈkar,ˈkaɾ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,carne,meat,Biagui2012[107],
+Casamancese,ˈcifur,ˈʃifɾɨ,ˈci.fur,ˈʃi.fɾɨ,ˈci,ˈʃi,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,"chifre, corno",horn,Biagui2012[54],
+Casamancese,ˈrabu,ˈʁabu,ˈrabu,ˈʁa.bu,ˈra,ˈʁa,1,2,4,4,1,2,0,Equal,-1,Target,1,1,Medial,Medial,,"rabo, cauda",tail,Biagui2012[315],
+Casamancese,kaˈbelu,kɐˈbeɫu,ka.ˈbe.lu,kɐ.ˈbe.ɫu,ka,kɐ,3,3,6,6,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,"cabelo, pêlo",hair,Biagui2012[33],
+Casamancese,woˈreɟa,oˈɾɐʎɐ,wo.ˈre.ɟa,o.ˈɾɐ.ʎɐ,wo,o,3,3,6,5,3,3,1,Source,0,Equal,1,1,Medial,Medial,prothesis,orelha,ear,Biagui2012[106],
+Casamancese,naˈris,nɐˈɾiʃ,na.ˈris,nɐ.ˈɾiʃ,na,nɐ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,nariz,nose,Biagui2012[16],
+Casamancese,ˈboka,ˈbokɐ,ˈbo.ka,ˈbo.kɐ,ˈbo,ˈbo,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,boca,mouth,Biagui2012[16],
+Casamancese,ˈdinti,ˈdẽtɨ,ˈdi.nti,ˈdẽ.tɨ,ˈdi,ˈdẽ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,dente,tooth,Biagui2012[32],
+Casamancese,liɲgu,ˈɫĩgwɐ,li.ɲgu,ˈɫĩ.gwɐ,li,ˈɫĩ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,língua,tongue,Biagui2012[181],
+Casamancese,ˈɲuɲa,ˈuɲɐ,ˈɲu.ɲa,ˈu.ɲɐ,ˈɲu,ˈu,2,2,4,3,2,2,1,Source,0,Equal,1,1,Medial,Medial,prothesis,unha,fingernail,Biagui2012[62],
+Casamancese,ˈãsa,ˈazɐ,ˈã.sa,ˈa.zɐ,ˈã,ˈa,2,2,3,3,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,asa,wing,Biagui2012[45],
+Casamancese,baˈriga,baˈʁigɐ,ba.ˈri.ga,ba.ˈʁi.gɐ,ba,ba,3,3,6,6,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,"barriga, ventre",belly,Biagui2012[20],
+Casamancese,ˈkosta,ˈkoʃtɐʃ,ˈkos.ta,ˈkoʃ.tɐʃ,ˈkos,ˈkoʃ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,"costas, dorso",back,Biagui2012[32],
+Casamancese,ˈpitu,ˈpɐjtu,ˈpi.tu,ˈpɐj.tu,ˈpi,ˈpɐj,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,syncope,"peito, seio",breast,Biagui2012[33],
+Casamancese,korˈsõ,kuɾɐˈsɐ̃w,kor.ˈsõ,ku.ɾɐ.ˈsɐ̃w,kor,ku,2,3,5,8,2,3,-3,Target,-1,Target,1,1,Medial,Medial,methatesis,coração,heart,Biagui2012[22],
+Casamancese,beˈbe,bɨˈbeɾ,be.ˈbe,bɨ.ˈbeɾ,be,bɨ,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,beber,drink,Biagui2012[99],
+Casamancese,kuˈme,kuˈmeɾ,ku.ˈme,ku.ˈmeɾ,ku,ku,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,comer,eat,Biagui2012[99],
+Casamancese,cuˈpa,ʃuˈpaɾ,cu.ˈpa,ʃu.ˈpaɾ,cu,ʃu,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,"chupar, sugar",suck,Biagui2012[156],
+Casamancese,suˈpra,suˈpɾaɾ,su.ˈpra,su.ˈpɾaɾ,su,su,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,soprar,blow,Biagui2012[44],
+Casamancese,seˈbe,sɐˈbeɾ,se.ˈbe,sɐ.ˈbeɾ,se,sɐ,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,saber,know,Biagui2012[186],
+Casamancese,durˈmi,duɾˈmiɾ,dur.ˈmi,duɾ.ˈmiɾ,dur,duɾ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,dormir,sleep,Biagui2012[196],
+Casamancese,moˈre,muˈʁeɾ,mo.ˈre,mu.ˈʁeɾ,mo,mu,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,morrer,die,Biagui2012[166],
+Casamancese,korˈta,kuɾˈtaɾ,kor.ˈta,kuɾ.ˈtaɾ,kor,kuɾ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,cortar,cut,Biagui2012[12],
+Casamancese,koˈsa,kuˈsaɾ,ko.ˈsa,ku.ˈsaɾ,ko,ku,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,coçar,scratch,Biagui2012[106],
+Casamancese,koˈba,kɐˈvaɾ,ko.ˈba,kɐ.ˈvaɾ,ko,kɐ,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,cavar,dig,Biagui2012[13],
+Casamancese,jeˈnda,ɐ̃ˈdaɾ,je.ˈnda,ɐ̃.ˈdaɾ,je,ɐ̃,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,"andar, caminhar",walk,Biagui2012[13],
+Casamancese,beŋ,vɐ̃j,beŋ,vɐ̃j,beŋ,vɐ̃j,1,1,3,4,1,1,-1,Target,0,Equal,1,1,Medial,Medial,,vem,come,Biagui2012[158],
+Casamancese,foj,mẽˈtiɾ,foj,mẽ.ˈtiɾ,,,,,3,6,1,2,-3,Target,-1,Target,,,,Final,,mentir,lie,Biagui2012[157],Not portuguese origin
+Casamancese,siˈnta,sẽˈtaɾ,si.ˈnta,sẽ.ˈtaɾ,si,sẽ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,sentar,sit,Biagui2012[202],
+Casamancese,labaˈnta,ɫɨvɐ̃ˈtaɾ,la.ba.ˈnta,ɫɨ.vɐ̃.ˈtaɾ,la,ɫɨ,3,3,7,8,3,3,-1,Target,0,Equal,1,1,Medial,Medial,,levantar,stand,Biagui2012[202],
+Casamancese,kaj,kɐˈiɾ,kaj,kɐ.ˈiɾ,kaj,kɐ,1,2,3,4,1,2,-1,Target,-1,Target,1,1,Medial,Medial,,cair,fall,Biagui2012[157],
+Casamancese,ˈda,ˈdaɾ,ˈda,ˈdaɾ,ˈda,ˈdaɾ,1,1,2,3,1,1,-1,Target,0,Equal,1,1,Medial,Medial,apocope,"dar, entregar",give,Biagui2012[77],
+Casamancese,mperˈta,ɐpɨɾˈtaɾ,mper.ˈta,ɐ.pɨɾ.ˈtaɾ,-,ɐ,2,3,5,7,2,3,-2,Target,-1,Target,-,1,-,Medial,aphaeresis,"apertar, comprimir",squeeze,Biagui2012[59],
+Casamancese,ferˈga,ʃfɾɨˈgaɾ,fer.ˈga,ʃ.fɾɨ.ˈgaɾ,-,ʃ,2,3,5,7,2,3,-2,Target,-1,Target,1,1,Medial,Medial,aphaeresis,"esfregar, friccionar",rub,Biagui2012[33],
+Casamancese,laˈba,ɫɐˈvaɾ,la.ˈba,ɫɐ.ˈvaɾ,la,ɫɐ,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,lavar,wash,Biagui2012[96],
+Casamancese,piˈŋca,ẽpuˈʁaɾ,pi.ˈŋca,ẽ.pu.ˈʁaɾ,,,,,5,7,2,3,-2,Target,-1,Target,,,,Final,,empurrar,push,Biagui2012[28],Not portuguese origin
+Casamancese,koˈse,kuˈzeɾ,ko.ˈse,ku.ˈzeɾ,ko,ku,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,"coser, costurar",sew,Biagui2012[193],
+Casamancese,faˈla,fɐˈɫaɾ,fa.ˈla,fɐ.ˈɫaɾ,fa,fɐ,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,"falar, dizer",say,Biagui2012[23],
+Casamancese,kaˈnta,kɐ̃ˈtaɾ,ka.ˈnta,kɐ̃.ˈtaɾ,ka,kɐ̃,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,cantar,sing,Biagui2012[100],
+Casamancese,ɟuˈga,ʒuˈgaɾ,ɟu.ˈga,ʒu.ˈgaɾ,ɟu,ʒu,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,"jogar, brincar, tocar",play,Biagui2012[111],
+Casamancese,boˈja,bojˈaɾ,bo.ˈja,boj.ˈaɾ,bo,boj,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,"boiar, flutuar",float,Biagui2012[75],
+Casamancese,ˈluŋa,ˈɫuɐ,ˈlu.ŋa,ˈɫu.ɐ,ˈlu,ˈɫu,2,2,4,3,2,2,1,Source,0,Equal,1,1,Medial,Medial,,lua,moon,Biagui2012[34],
+Casamancese,jagu,ˈagwɐ,ja.gu,ˈa.gwɐ,ja,ˈa,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,água,water,Biagui2012[24],
+Casamancese,laˈguwa,ɫɐˈgoɐ,la.ˈgu.wa,ɫɐ.ˈgo.ɐ,la,ɫɐ,3,3,6,5,3,3,1,Source,0,Equal,1,1,Medial,Medial,,lagoa,lagoon,Biagui2012[30],
+Casamancese,ˈnubis,ˈnuvɐ̃jʃ,ˈnu.bis,ˈnu.vɐ̃jʃ,ˈnu,ˈnu,2,2,5,7,2,2,-2,Target,0,Equal,1,1,Medial,Medial,,nuvens,clouds,Biagui2012[38],
+Casamancese,ˈfugu,ˈfogu,ˈfu.gu,ˈfo.gu,ˈfu,ˈfo,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,fogo,fire,Biagui2012[106],
+Casamancese,ˈsĩsa,ˈsĩzɐʃ,ˈsĩ.sa,ˈsĩ.zɐʃ,ˈsĩ,ˈsĩ,2,2,4,6,2,2,-2,Target,0,Equal,1,1,Medial,Medial,,cinzas,ashes,Biagui2012[22],
+Casamancese,ˈstrada,ʃˈtɾadɐ,ˈs.tra.da,ʃ.ˈtɾa.dɐ,ˈs,ʃ,3,3,6,6,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,"estrada, rua",street,Biagui2012[45],
+Casamancese,burˈmeɟu,vɨɾˈmɐʎu,bur.ˈme.ɟu,vɨɾ.ˈmɐ.ʎu,bur,vɨɾ,3,3,7,7,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,vermelho,red,Biagui2012[103],
+Casamancese,ˈberdu,ˈveɾdɨ,ˈber.du,ˈveɾ.dɨ,ˈber,ˈveɾ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,verde,green,Biagui2012[335],
+Casamancese,ˈbraŋku,ˈbɾɐ̃ku,ˈbra.ŋku,ˈbɾɐ̃.ku,ˈbra,ˈbɾɐ̃,2,2,6,6,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,branco,white,Biagui2012[103],
+Casamancese,ˈpretu,ˈpɾetu,ˈpre.tu,ˈpɾe.tu,ˈpre,ˈpre,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,preto,black,Biagui2012[39],
+Casamancese,ˈcinti,ˈmoɾnu,ˈci.nti,ˈmoɾ.nu,,,,,5,5,2,2,0,Equal,0,Equal,,,,Final,,morno,warm,Biagui2012[54],Not portuguese origin
+Casamancese,jiˈŋci,ẽˈʃidu,ji.ˈŋci,ẽ.ˈʃi.du,ji,ẽ,2,3,5,6,2,3,-1,Target,-1,Target,1,1,Medial,Medial,,enchido,"full, filled",Biagui2012[29],
+Casamancese,ˈnobu,ˈnovu,ˈno.bu,ˈno.vu,ˈno,ˈno,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,novo,new,Biagui2012[104],
+Casamancese,ˈbeɟu,ˈvɐʎu,ˈbe.ɟu,ˈvɐ.ʎu,ˈbe,ˈvɐ,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,velho,old,Biagui2012[124],
+Casamancese,ˈbõ,bõ,ˈbõ,bõ,ˈbõ,bõ,1,1,2,3,1,1,-1,Target,0,Equal,1,1,Medial,Medial,,bom,good,Biagui2012[77],
+Casamancese,ˈlisu,ˈɫizu,ˈli.su,ˈɫi.zu,ˈli,ˈɫi,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,"liso, suave",smooth,Biagui2012[338],
+Casamancese,mo'ɟa,muˈʎaɾ,mo.'ɟa,mu.ˈʎaɾ,mo,mu,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,molhar,wet,Biagui2012[261],
+Casamancese,seku,ˈseku,ˈse.ku,ˈse.ku,ˈse,ˈse,2,2,4,4,3,2,0,Equal,1,Source,1,2,Medial,Medial,,seco,dry,Biagui2012[261],
+Casamancese,ˈpertu,ˈpeɾtu,ˈper.tu,ˈpeɾ.tu,ˈper,ˈper,2,2,5,5,2,2,0,Equal,0,Equal,1,2,Medial,Medial,,perto,near,Biagui2012[339],
+Casamancese,ˈloŋɟi,ˈɫõʒɨ,ˈlo.ŋɟi,ˈɫõ.ʒɨ,ˈlo,ˈɫõ,2,2,5,5,2,2,0,Equal,0,Equal,1,2,Medial,Medial,,longe,far,Biagui2012[338],
+Casamancese,siˈkerdu,ʃˈkeɾdɐ,si.ˈker.du,ʃ.ˈkeɾ.dɐ,si,ʃ,3,3,7,6,3,3,1,Source,0,Equal,1,1,Medial,Medial,,esquerda,left,Biagui2012[236],
+Casamancese,i,i,i,i,i,i,1,1,1,1,1,1,0,Equal,0,Equal,1,1,Medial,Medial,,e,and,Biagui2012[272],
+Casamancese,si,sɨ,si,sɨ,si,sɨ,1,1,2,2,1,1,0,Equal,0,Equal,1,1,Medial,Medial,,se,if,Biagui2012[276],
+Casamancese,paˈbija,puɾkɨ,pa.ˈbi.ja,puɾ.kɨ,,,,,6,5,3,2,1,Source,1,Source,,,,Final,,porque,because,Biagui2012[272],Not portuguese origin
+Casamancese,wo'ɟa,oˈʎaɾ,wo.'ɟa,o.ˈʎaɾ,o,wo,2,2,5,4,2,2,1,Source,0,Equal,1,1,Medial,Medial,,ver,look,Biagui2012[24],
+Casamancese,ˈnomi,ˈnomɨ,ˈno.mi,ˈno.mɨ,ˈno,ˈno,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,nome,name,Biagui2012[20],
+Casamancese,ˈpaɟa,ˈpaʎɐ,ˈpa.ɟa,ˈpa.ʎɐ,ˈpa,ˈpa,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,palha,straw,Biagui2012[31],"Basic, but not Swadesh items"
+Casamancese,ˈaɲɟu,ˈɐ̃ʒu,ˈa.ɲɟu,ˈɐ̃.ʒu,ˈa,ˈɐ̃,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,anjo,angel,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,po,ˈpaw,po,ˈpaw,po,ˈpaw,1,1,2,3,1,1,-1,Target,0,Equal,1,1,Medial,Medial,,pau,stick,Biagui2012[317],"Basic, but not Swadesh items"
+Casamancese,ˈaɲɟu,ˈɐ̃ʒu,ˈa.ɲɟu,ˈɐ̃.ʒu,ɲɟu,ʒu,2,2,4,4,2,2,0,Equal,0,Equal,2,2,Medial,Medial,,anjo,angel,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈɫaɾgumɐ,ˈɫagɾimɐ,ˈɫaɾ.gu.mɐ,ˈɫa.gɾi.mɐ,ˈɫaɾ,ˈɫa,3,3,7,7,3,3,0,Equal,0,Equal,1,1,Medial,Medial,methatesis,lágrima,teardrop,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈmakina,ˈmakinɐ,ˈma.ki.na,ˈma.ki.nɐ,ˈma,ˈma,3,3,6,6,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,máquina,machine,Biagui2012[12],"Basic, but not Swadesh items"
+Casamancese,ˈlama,ˈɫɐmɐ,ˈla.ma,ˈɫɐ.mɐ,ˈla,ˈɫɐ,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,lama,mud,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈfɛru,ˈfeʁu,ˈfɛ.ru,ˈfe.ʁu,ˈfɛ,ˈfe,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,ferro,iron,Biagui2012[21],"Basic, but not Swadesh items"
+Casamancese,ˈmala,ˈmaɫɐ,ˈma.la,ˈma.ɫɐ,ˈma,ˈma,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,mala,suitcase,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,ˈsuɲu,ˈsoɲu,ˈsu.ɲu,ˈso.ɲu,ˈsu,ˈso,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,sonho,dream,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,liˈmpa,ɫĩˈpaɾ,li.ˈmpa,ɫĩ.ˈpaɾ,li,ɫĩ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,limpar,clean,Biagui2012[19],"Basic, but not Swadesh items"
+Casamancese,lãˈsol,ɫẽˈsɔɫ,lã.ˈsol,ɫẽ.ˈsɔɫ,lã,ɫẽ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,lençol,sheet,Biagui2012[21],"Basic, but not Swadesh items"
+Casamancese,saŋ,ˈsɐ̃w,saŋ,ˈsɐ̃w,saŋ,ˈsɐ̃w,1,1,3,4,1,1,-1,Target,0,Equal,1,1,Medial,Medial,,são (saudável),healthy,Biagui2012[158],"Basic, but not Swadesh items"
+Casamancese,firˈmiɲga,fõˈɾigɐ,fir.ˈmi.ɲga,fõ.ˈɾi.gɐ,fir,fõ,3,3,8,7,3,3,1,Source,0,Equal,1,1,Medial,Medial,methatesis,formiga,ant,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,murˈsegu,muɾˈsegu,mur.ˈse.gu,muɾ.ˈse.gu,mur,mur,3,3,7,7,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,morcego,bat,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,ˈkurpu,ˈkoɾpu,ˈkur.pu,ˈkoɾ.pu,ˈkur,ˈkoɾ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,corpo,"body, corps",Biagui2012[25],"Basic, but not Swadesh items"
+Casamancese,jerˈmõ,iɾˈmɐ̃w,jer.ˈmõ,iɾ.ˈmɐ̃w,jer,iɾ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,prothesis,irmão,brother,Biagui2012[24],"Basic, but not Swadesh items"
+Casamancese,ˈkasa,ˈkazɐ,ˈka.sa,ˈka.zɐ,ˈka,ˈka,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,casa,house,Biagui2012[26],"Basic, but not Swadesh items"
+Casamancese,ˈkama,ˈkɐmɐ,ˈka.ma,ˈkɐ.mɐ,ˈka,ˈkɐ,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,cama,bed,Biagui2012[27],"Basic, but not Swadesh items"
+Casamancese,kaˈdera,kɐˈdɐjɾɐ,ka.ˈde.ra,kɐ.ˈdɐj.ɾɐ,ka,kɐ,3,3,6,7,3,3,-1,Target,0,Equal,1,1,Medial,Medial,,cadeira,chair,Biagui2012[27],"Basic, but not Swadesh items"
+Casamancese,diˈɲeru,diˈɲɐjɾu,di.ˈɲe.ru,di.ˈɲɐj.ɾu,di,di,3,3,6,7,3,3,-1,Target,0,Equal,1,1,Medial,Medial,,dinheiro,money,Biagui2012[29],"Basic, but not Swadesh items"
+Casamancese,aˈmigu,ɐˈmigu,a.ˈmi.gu,ɐ.ˈmi.gu,a,ɐ,3,3,5,5,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,amigo,friend,Biagui2012[34],"Basic, but not Swadesh items"
+Casamancese,ˈmaŋgu,ˈmɐ̃gɐ,ˈma.ŋgu,ˈmɐ̃.gɐ,ˈma,ˈmɐ̃,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,manga,mango,Biagui2012[34],"Basic, but not Swadesh items"
+Casamancese,ˈfala,ˈfaɫɐ,ˈfa.la,ˈfa.ɫɐ,ˈfa,ˈfa,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Initial,Initial,,fala,speech,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈkonta,kuˈɫaɾ,ˈko.nta,ku.ˈɫaɾ,ˈko,ku,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Initial,Initial,,colar ,necklace ,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,koˈnta,kõˈtaɾ,ko.ˈnta,kõ.ˈtaɾ,ko,kõ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Initial,Initial,,contar,tell,Biagui2012[13],"Basic, but not Swadesh items"
+Casamancese,ˈkoba,ˈkovɐ,ˈko.ba,ˈko.vɐ,ˈko,ˈko,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Initial,Initial,,cova,"pit, hole",Biagui2012[13],"Basic, but not Swadesh items"
