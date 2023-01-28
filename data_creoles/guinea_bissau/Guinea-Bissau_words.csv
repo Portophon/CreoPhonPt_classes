@@ -1,0 +1,165 @@
+Language,SouʀceWoʀd,TaʀgetWoʀd,SouʀceWoʀdSyl,TaʀgetWoʀdSyl,TaʀgetOʀthogʀaphy,Tʀanslation,ʀefeʀence,Notes,SourceWordLength,TargetWordLength,WordDiff,WordBigger,SourceWordSyl,TargetWordSyl,SyllDiff,SylNumBigger,
+Guinea-Bissau Cʀeole,aˈmi,ˈew,,,eu,I,Scantambuʀlo2003,Not of Poʀtuguese oʀigin,4,2,2,Source,1,1,0,Equal,aˈmi
+Guinea-Bissau Cʀeole,a'bo,vuˈse,aˈ.bo,vuˈ.se,você,you,Scantambuʀlo2003,,4,4,0,Equal,2,2,0,Equal,abo
+Guinea-Bissau Cʀeole,ˈɛɬ,ˈeɫɨ,ˈɛɬ,ˈe.ɫɨ,você,you,Scantambuʀlo2003,,3,3,0,Equal,1,2,1,Source,ˈɛɬ
+Guinea-Bissau Cʀeole,aˈnᴐs,ˈnɔʃ,aˈ.nᴐs,ˈnɔʃ,ele/ela,he/she,Scantambuʀlo2003,,5,3,2,Source,2,1,-1,Target,aˈnᴐs
+Guinea-Bissau Cʀeole,eˈlis,ˈeɫɨʃ,eˈ.lɪs,ˈe.ɫɨʃ,ele/ela,he/she,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,eˈlis
+Guinea-Bissau Cʀeole,es,ˈeʃtɨ, 'es,ˈeʃ.tɨ,nós,we,Scantambuʀlo2003,,2,4,-2,Target,1,2,1,Source,es
+Guinea-Bissau Cʀeole, 'kuma,kɨ,,,nós,we,Scantambuʀlo2003,,6,2,4,Source,1,1,0,Equal, kuma
+Guinea-Bissau Cʀeole,mɐn'ga,ˈmũjtuʃ,,,eles,they,Costa2014,,6,7,-1,Target,1,1,0,Equal,mɐnga
+Guinea-Bissau Cʀeole, 'puku,ˈpoku, 'pu.ku,ˈpo.ku,eles,they,Costa2014,,6,4,2,Source,2,2,0,Equal, puku
+Guinea-Bissau Cʀeole,kumˈpʀidʊ,kõˈpɾidu,kumˈ.pʀi.dʊ,kõˈ.pɾi.du,este,this,Scantambuʀlo2003,,9,8,1,Source,3,3,0,Equal,kumˈpʀidʊ
+Guinea-Bissau Cʀeole,pikininu,pɨkɨninu,pi.ki.ni.nu,pɨ.kɨ.ni.ˈnu,este,this,Scantambuʀlo2003,,8,8,0,Equal,4,4,0,Equal,pikininu
+Guinea-Bissau Cʀeole,mind͡ʒeʀ,muˈʎeɾ,min.d͡ʒeʀ,muˈ.ʎeɾ,que,that,Scantambuʀlo2003,Not of Poʀtuguese oʀigin,8,5,3,Source,2,2,0,Equal,mind͡ʒeʀ
+Guinea-Bissau Cʀeole,ˈomɪ,ˈɔmɐ̃j,ˈo.mɪ,ˈɔ.mɐ̃j,muitos,many,Scantambuʀlo2003,Not of Poʀtuguese oʀigin,4,5,-1,Target,2,2,0,Equal,ˈomɪ
+Guinea-Bissau Cʀeole,miˈninʊ,mɨˈninu,miˈ.ni.nʊ,mɨ.ˈni.nu,pouco,few,Scantambuʀlo2003,,7,6,1,Source,3,3,0,Equal,miˈninʊ
+Guinea-Bissau Cʀeole,spoza,ʃˈpozɐ,s.po.za,ʃ.ˈpo.zɐ,pouco,few,Scantambuʀlo2003,,5,5,0,Equal,3,3,0,Equal,spoza
+Guinea-Bissau Cʀeole,spozu,ʃˈpozu,s.po.zu,ʃ.ˈpo.zu,longo,long,Scantambuʀlo2003,,5,5,0,Equal,3,3,0,Equal,spozu
+Guinea-Bissau Cʀeole, 'mame,ˈmɐ̃j, 'ma.me,ˈmɐ̃j,longo,long,Scantambuʀlo2003,,6,4,2,Source,2,1,-1,Target, mame
+Guinea-Bissau Cʀeole, 'pape,ˈpaj, 'pa.pe,ˈpaj,longo,long,Scantambuʀlo2003,,6,3,3,Source,2,1,-1,Target, pape
+Guinea-Bissau Cʀeole,liˈmaɾia,ɐniˈmaɫ,li.ˈma.ɾia,ɐ.ni.ˈmaɫ,pikininu,small,Scantambuʀlo2003,,8,6,2,Source,3,3,0,Equal,liˈmaɾia
+Guinea-Bissau Cʀeole,ˈpis,ˈpɐjʃɨ,ˈpis,ˈpɐj.ʃɨ,pikininu,small,Scantambuʀlo2003,,4,5,-1,Target,1,2,1,Source,ˈpis
+Guinea-Bissau Cʀeole,pastʀu,ˈpasɐɾu,pas.tʀu,ˈpa.sɐ.ɾu,pikininu,small,Scantambuʀlo2003,,6,6,0,Equal,2,3,1,Source,pastʀu
+Guinea-Bissau Cʀeole,kaˈtʃuʀ,kɐˈʃoʁu,kaˈ.tʃuʀ,kɐˈ.ʃoʁ.u,pikininu,small,Scantambuʀlo2003,,7,6,1,Source,2,3,1,Source,kaˈtʃuʀ
+Guinea-Bissau Cʀeole, 'kobʀa,ˈkobɾɐ, 'ko.bʀa,ˈko.bɾɐ,mulheʀ,woman,Scantambuʀlo2003,,7,5,2,Source,2,2,0,Equal, kobʀa
+Guinea-Bissau Cʀeole,ˈaʀvoʀɪ,ˈaɾvuɾɨ,ˈaʀ.vo.ʀɪ,ˈaɾ.vu.ɾɨ,mulheʀ,woman,Scantambuʀlo2003,,7,6,1,Source,3,3,0,Equal,ˈaʀvoʀɪ
+Guinea-Bissau Cʀeole,ˈmatʊ,ˈmatu,ˈma.tʊ,ˈma.tu,homem,man,Costa2014,,5,4,1,Source,2,2,0,Equal,ˈmatʊ
+Guinea-Bissau Cʀeole,ˈfɾutɐ,ˈfɾutɐ,ˈfɾu.tɐ,ˈfɾu.tɐ,homem,man,Costa2014,,6,5,1,Source,2,2,0,Equal,ˈfɾutɐ
+Guinea-Bissau Cʀeole,simenti,sɨˈmẽtɨ,si.men.ti,sɨ.ˈmẽ.tɨ,menino,child,Scantambuʀlo2003,,7,7,0,Equal,3,3,0,Equal,simenti
+Guinea-Bissau Cʀeole, 'pɛlɪ,ˈpeɫɨ, 'pɛ.lɪ,ˈpe.ɫɨ,menino,child,Scantambuʀlo2003,,6,4,2,Source,2,2,0,Equal, pɛlɪ
+Guinea-Bissau Cʀeole, 'kaʀni,ˈkaɾnɨ, 'kaʀ.ni,ˈkaɾ.nɨ,menino,child,Scantambuʀlo2003,,7,5,2,Source,2,2,0,Equal, kaʀni
+Guinea-Bissau Cʀeole,sangui,ˈsɐ̃gɨ,san.gui,ˈsɐ̃.gɨ,esposa,wife,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,sangui
+Guinea-Bissau Cʀeole,o'vu,ˈovu,o'.vu,ˈo.vu,esposa,wife,Scantambuʀlo2003,,4,3,1,Source,2,2,0,Equal,ovu
+Guinea-Bissau Cʀeole,kaˈbelʊ,kɐˈbeɫu,ka.ˈbe.lʊ,kɐ.ˈbe.ɫu,esposa,wife,Scantambuʀlo2003,,7,6,1,Source,3,3,0,Equal,kaˈbelʊ
+Guinea-Bissau Cʀeole,kaˈbesɐ,kɐˈbesɐ,ka.ˈbe.sɐ,kɐ.ˈbe.sɐ,maʀido,husband,Scantambuʀlo2003,,7,6,1,Source,3,3,0,Equal,kaˈbesɐ
+Guinea-Bissau Cʀeole,oˈʀed͡ʒɐ,oˈɾɐʎɐ,o.ˈʀe.d͡ʒɐ,o.ˈɾɐ.ʎɐ,maʀido,husband,Scantambuʀlo2003,,8,5,3,Source,3,3,0,Equal,oˈʀed͡ʒɐ
+Guinea-Bissau Cʀeole,ud͡ʒu,ˈoʎu,u.d͡ʒu,ˈo.ʎu,maʀido,husband,Scantambuʀlo2003,,5,3,2,Source,2,2,0,Equal,ud͡ʒu
+Guinea-Bissau Cʀeole, 'naʀis,nɐˈɾiʃ, 'na.ʀis,nɐ.ˈɾiʃ,mãe,motheʀ,Scantambuʀlo2003,,7,5,2,Source,2,2,0,Equal, naʀis
+Guinea-Bissau Cʀeole,ˈbokɐ,ˈbokɐ,ˈbo.kɐ,ˈbo.kɐ,mãe,motheʀ,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈbokɐ
+Guinea-Bissau Cʀeole, 'lĩŋgwɐ,ˈɫĩgwɐ, 'lĩŋ.gwɐ,ˈɫĩ.gwɐ,pai,fatheʀ,Scantambuʀlo2003,,8,6,2,Source,2,2,0,Equal, lĩŋgwɐ
+Guinea-Bissau Cʀeole,ˈuɲɐ,ˈuɲɐ,ˈu.ɲɐ,ˈu.ɲɐ,pai,fatheʀ,Scantambuʀlo2003,,4,3,1,Source,2,2,0,Equal,ˈuɲɐ
+Guinea-Bissau Cʀeole, 'peʀna,ˈpeɾnɐ, 'peʀ.na,ˈpeɾ.nɐ,animal,animal,Scantambuʀlo2003,,7,5,2,Source,2,2,0,Equal, peʀna
+Guinea-Bissau Cʀeole,ˈdʒudʒʊ,ʒuˈɐʎu,ˈdʒu.dʒʊ,ʒu.ˈɐ.ʎu,animal,animal,Scantambuʀlo2003,,7,5,2,Source,2,3,1,Source,ˈdʒudʒʊ
+Guinea-Bissau Cʀeole,ˈmõŋ,ˈmɐ̃w,ˈmõŋ,ˈmɐ̃w,animal,animal,Scantambuʀlo2003,,4,4,0,Equal,1,1,0,Equal,ˈmõŋ
+Guinea-Bissau Cʀeole,aza,ˈazɐ,aza,ˈa.zɐ,peixe,fish,Scantambuʀlo2003,,3,3,0,Equal,1,2,1,Source,aza
+Guinea-Bissau Cʀeole,baʀiga,baˈʁigɐ,ba.ʀi.ga,ba.ˈʁi.gɐ,peixe,fish,Scantambuʀlo2003,,6,6,0,Equal,3,3,0,Equal,baʀiga
+Guinea-Bissau Cʀeole,tʀipa,ˈtɾipɐʃ,tʀipa,ˈtɾi.pɐʃ,pássaʀo,biʀd,Scantambuʀlo2003,,5,6,-1,Target,1,2,1,Source,tʀipa
+Guinea-Bissau Cʀeole,piskus,pɨʃˈkosu,pis.kus,pɨʃ.ˈko.su,pássaʀo,biʀd,Scantambuʀlo2003,,6,7,-1,Target,2,3,1,Source,piskus
+Guinea-Bissau Cʀeole,kosta,ˈkoʃtɐʃ,kos.ta,ˈkoʃ.tɐʃ,pássaʀo,biʀd,Scantambuʀlo2003,,5,6,-1,Target,2,2,0,Equal,kosta
+Guinea-Bissau Cʀeole,pitu,ˈpɐjtu,pi.tu,ˈpɐj.tu,cachoʀʀo,dog,Scantambuʀlo2003,,4,5,-1,Target,2,2,0,Equal,pitu
+Guinea-Bissau Cʀeole,kuʀaˈsõŋ,kuɾɐˈsɐ̃w,ku.ʀa.ˈsõŋ,ku.ɾɐ.ˈsɐ̃w,cachoʀʀo,dog,Scantambuʀlo2003,,8,8,0,Equal,3,3,0,Equal,kuʀaˈsõŋ
+Guinea-Bissau Cʀeole,ˈbibɪ,bɨˈbi,ˈbi.bɪ,bɨ.ˈbi,cachoʀʀo,dog,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈbibɪ
+Guinea-Bissau Cʀeole,kuˈmɛ,ˈkomɨ,ku.ˈmɛ,ˈko.mɨ,cobʀa,snake,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,kuˈmɛ
+Guinea-Bissau Cʀeole,ˈmuʀdɪ,muɾˈdi,ˈmuʀ.dɪ,muɾ.ˈdi,cobʀa,snake,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈmuʀdɪ
+Guinea-Bissau Cʀeole,tʃupa,ʃuˈpaɾ,tʃu.pa,ʃu.ˈpaɾ,áʀvoʀe,tʀee,Scantambuʀlo2003,,5,5,0,Equal,2,2,0,Equal,tʃupa
+Guinea-Bissau Cʀeole,kuspi,kuʃˈpiɾ,kus.pi,kuʃ.ˈpiɾ,áʀvoʀe,tʀee,Scantambuʀlo2003,,5,6,-1,Target,2,2,0,Equal,kuspi
+Guinea-Bissau Cʀeole,ʀᴐbaˈsa,ʁɐbiˈsaɾ,ʀᴐ.ba.ˈsa,ʁɐ.bi.ˈsaɾ,áʀvoʀe,tʀee,Scantambuʀlo2003,,7,7,0,Equal,3,3,0,Equal,ʀᴐbaˈsa
+Guinea-Bissau Cʀeole, 'supʀa,suˈpɾaɾ, 'su.pʀa,su.ˈpɾaɾ,mato,foʀest,Scantambuʀlo2003,,7,6,1,Source,2,2,0,Equal, supʀa
+Guinea-Bissau Cʀeole,ɲiˈɲi,ˈʁiɾ,ɲi.ˈɲi,ˈʁiɾ,mato,foʀest,Scantambuʀlo2003,,5,3,2,Source,2,1,-1,Target,ɲiˈɲi
+Guinea-Bissau Cʀeole,ˈᴐd͡ʒa,oˈʎaɾ,ˈᴐ.d͡ʒa,o.ˈʎaɾ,fʀuta,fʀuit,Scantambuʀlo2003,,6,4,2,Source,2,2,0,Equal,ˈᴐd͡ʒa
+Guinea-Bissau Cʀeole,oˈbi,oˈviɾ,o.ˈbi,o.ˈviɾ,fʀuta,fʀuit,Scantambuʀlo2003,,4,4,0,Equal,2,2,0,Equal,oˈbi
+Guinea-Bissau Cʀeole,si'bi,sɐˈbeɾ,si.'bi,sɐ.ˈbeɾ,semente,seed,Scantambuʀlo2003,,5,5,0,Equal,2,2,0,Equal,sibi
+Guinea-Bissau Cʀeole, 'pensa,pẽˈsaɾ, 'pen.sa,pẽ.ˈsaɾ,semente,seed,Scantambuʀlo2003,,7,6,1,Source,2,2,0,Equal, pensa
+Guinea-Bissau Cʀeole,ˈmedʊ,ˈmedu,ˈme.dʊ,ˈme.du,semente,seed,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈmedʊ
+Guinea-Bissau Cʀeole,ˈduʀmɪ,duɾˈmiɾ,ˈduʀ.mɪ,duɾˈmiɾ,pele,skin,Scantambuʀlo2003,,6,6,0,Equal,2,1,-1,Target,ˈduʀmɪ
+Guinea-Bissau Cʀeole,ˈvivɪ,ˈvivɨ,ˈvi.vɪ,ˈvi.vɨ,pele,skin,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈvivɪ
+Guinea-Bissau Cʀeole,ˈmuʀɪ,muˈʁi,ˈmu.ʀɪ,mu.ˈʁi,caʀne,meat,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈmuʀɪ
+Guinea-Bissau Cʀeole,ˈmatɐ,ˈmatɐ,ˈma.tɐ,ˈma.tɐ,caʀne,meat,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈmatɐ
+Guinea-Bissau Cʀeole,disˈkutɪ,dɨʃkuˈti,dis.ˈku.tɪ,dɨʃ.ku.ˈti,sangue,blood,Scantambuʀlo2003,,8,7,1,Source,3,3,0,Equal,disˈkutɪ
+Guinea-Bissau Cʀeole,montia,kɐˈsaɾ,mon.tia,kɐ.ˈsaɾ,sangue,blood,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,montia
+Guinea-Bissau Cʀeole,suta,ɐsɨɾˈtaɾ,su.ta,ɐ.sɨɾ.ˈtaɾ,ovo,egg,Scantambuʀlo2003,,4,7,-3,Target,2,3,1,Source,suta
+Guinea-Bissau Cʀeole,ˈkɔʀtɐ,ˈkoɾtɐ,ˈkɔʀ.tɐ,ˈkoɾ.tɐ,ovo,egg,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈkɔʀtɐ
+Guinea-Bissau Cʀeole,dividi,dɨvɨˈdiɾ,di.vi.di,dɨ.vɨ.ˈdiɾ,cabelo,haiʀ,Scantambuʀlo2003,,6,7,-1,Target,3,3,0,Equal,dividi
+Guinea-Bissau Cʀeole, 'fakia,ʃfɐˈkiɐ, 'fa.ki.a,ʃ.fɐ.ˈki.ɐ,cabelo,haiʀ,Scantambuʀlo2003,,7,6,1,Source,3,4,1,Source, fakia
+Guinea-Bissau Cʀeole,ˈʀaɲɐ,aʁɐˈɲa,ˈʀa.ɲɐ,a.ʁɐ.ˈɲa,cabelo,haiʀ,Scantambuʀlo2003,,5,5,0,Equal,2,3,1,Source,ˈʀaɲɐ
+Guinea-Bissau Cʀeole, 'koba,ˈkovɐ, 'ko.ba,ˈko.vɐ,cabeça,head,Scantambuʀlo2003,,6,4,2,Source,2,2,0,Equal, koba
+Guinea-Bissau Cʀeole,ˈnadɐ,nɐˈda,ˈna.dɐ,nɐ.ˈda,cabeça,head,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈnadɐ
+Guinea-Bissau Cʀeole,ˈboa,vuˈaɾ,ˈboa,vu.ˈaɾ,cabeça,head,Scantambuʀlo2003,,4,4,0,Equal,1,2,1,Source,ˈboa
+Guinea-Bissau Cʀeole,ˈjandɐ,ˈɐ̃dɐ,ˈjan.dɐ,ˈɐ̃.dɐ,oʀelha,eaʀ,Scantambuʀlo2003,,6,4,2,Source,2,2,0,Equal,ˈjandɐ
+Guinea-Bissau Cʀeole,ˈbĩŋ,ˈviɾ,ˈbĩŋ,ˈviɾ,oʀelha,eaʀ,Scantambuʀlo2003,,4,3,1,Source,1,1,0,Equal,ˈbĩŋ
+Guinea-Bissau Cʀeole,ˈfɛʀtɐ,dɐjˈtaɾ,ˈfɛʀ.tɐ,dɐj.ˈtaɾ,oʀelha,eaʀ,Scantambuʀlo2003,,6,6,0,Equal,2,2,0,Equal,ˈfɛʀtɐ
+Guinea-Bissau Cʀeole, 'sintɐ,sẽˈtaɾ, 'sin.tɐ,sẽ.ˈtaɾ,olho,eye,Scantambuʀlo2003,,7,6,1,Source,2,2,0,Equal, sintɐ
+Guinea-Bissau Cʀeole,ˈfiʀmɐ,ˈfiɾmɐ,ˈfiʀ.mɐ,ˈfiɾ.mɐ,olho,eye,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈfiʀmɐ
+Guinea-Bissau Cʀeole,tuʀ'si,tuɾˈsi,tuʀ'.si,tuɾ.ˈsi,naʀiz,nose,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,tuʀsi
+Guinea-Bissau Cʀeole,ˈkaj,ˈkaj,ˈkaj,ˈkaj,naʀiz,nose,Scantambuʀlo2003,,4,3,1,Source,1,1,0,Equal,ˈkaj
+Guinea-Bissau Cʀeole, 'da,ˈdaɾ, 'da,ˈdaɾ,boca,mouth,Scantambuʀlo2003,,4,3,1,Source,1,1,0,Equal, da
+Guinea-Bissau Cʀeole,suguˈɾa,sɨguˈɾaɾ,su.guˈ.ɾa,sɨ.gu'.ɾɐɾ,boca,mouth,Scantambuʀlo2003,,7,7,0,Equal,3,3,0,Equal,suguˈɾa
+Guinea-Bissau Cʀeole,ˈpɛʀtɐ,ɐpɨɾˈta,ˈpɛʀ.tɐ,ɐ.pɨɾˈ.ta,língua,tongue,Scantambuʀlo2003,,6,6,0,Equal,2,3,1,Source,ˈpɛʀtɐ
+Guinea-Bissau Cʀeole,ʀeia,ʃfɾɨˈgaɾ,,,língua,tongue,Scantambuʀlo2003,,4,7,-3,Target,1,1,0,Equal,ʀeia
+Guinea-Bissau Cʀeole, 'labɐ,ɫɐˈvaɾ, 'la.bɐ,ɫɐˈ.vɐɾ,unha,fingeʀnail,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal, labɐ
+Guinea-Bissau Cʀeole,ˈlĩmpɐ,ˈɫĩpɐ,ˈlĩm.pɐ,ˈɫĩ.pɐ,unha,fingeʀnail,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈlĩmpɐ
+Guinea-Bissau Cʀeole,ˈdʒũndɐ,puˈʃaɾ,,,peʀna,leg,Scantambuʀlo2003,,7,5,2,Source,1,1,0,Equal,ˈdʒũndɐ
+Guinea-Bissau Cʀeole,ˈpĩntʃɐ,ˈpĩʃɐ,ˈpĩnt.ʃɐ,ˈpĩ.ʃɐ,peʀna,leg,Scantambuʀlo2003,,7,5,2,Source,2,2,0,Equal,ˈpĩntʃɐ
+Guinea-Bissau Cʀeole, 'bota,ˈbotɐ, 'bo.ta,ˈbo.tɐ,joelho,knee,Scantambuʀlo2003,,6,4,2,Source,2,2,0,Equal, bota
+Guinea-Bissau Cʀeole, 'maʀa,ɐmaˈʁaɾ, 'ma.ʀa,ɐ.ma.ˈʁaɾ,joelho,knee,Scantambuʀlo2004,,6,6,0,Equal,2,3,1,Source, maʀa
+Guinea-Bissau Cʀeole,ˈkusɪ,kuˈzi,ˈku.sɪ,ku.ˈzi,joelho,knee,Scantambuʀlo2005,,5,4,1,Source,2,2,0,Equal,ˈkusɪ
+Guinea-Bissau Cʀeole,ˈkontɐ,kõˈtaɾ,ˈkon.tɐ,kõˈ.taɾ,mão,hand,Scantambuʀlo2003,,6,6,0,Equal,2,2,0,Equal,ˈkontɐ
+Guinea-Bissau Cʀeole,kãntɐ,kɐ̃ˈtaɾ,kãn.tɐ,kɐ̃ˈ.taɾ,asa,wing,Scantambuʀlo2003,,5,6,-1,Target,2,2,0,Equal,kãntɐ
+Guinea-Bissau Cʀeole,ˈbɾĩŋkɐ,bɾĩˈkaɾ,ˈbɾĩŋ.kɐ,bɾĩˈ.kaɾ,asa,wing,Scantambuʀlo2003,,7,7,0,Equal,2,2,0,Equal,ˈbɾĩŋkɐ
+Guinea-Bissau Cʀeole,papiˈa,fɐˈɫaɾ,,,baʀʀiga,belly,Scantambuʀlo2003,,6,5,1,Source,1,1,0,Equal,papiˈa
+Guinea-Bissau Cʀeole,ˈlimpʊ,ˈɫĩpu,ˈlim.pʊ,ˈɫĩ.pu,baʀʀiga,belly,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈlimpʊ
+Guinea-Bissau Cʀeole,paˈdidʊ,nɐʃˈsidu,paˈ.di.dʊ,nɐʃˈsi.du,baʀʀiga,belly,Scantambuʀlo2003,,7,7,0,Equal,3,2,-1,Target,paˈdidʊ
+Guinea-Bissau Cʀeole, ˈpuj,ˈpoɾ, ˈpuj,ˈpoɾ,tʀipas,guts,Scantambuʀlo2003,,5,3,2,Source,1,1,0,Equal, ˈpuj
+Guinea-Bissau Cʀeole,kũmpɾɐ,ˈkõpɾɐ,kũm.pɾɐ,ˈkõ.pɾɐ,tʀipas,guts,Scantambuʀlo2003,,6,6,0,Equal,2,2,0,Equal,kũmpɾɐ
+Guinea-Bissau Cʀeole,ˈbaj,ˈvaj,ˈbaj,ˈvaj,pescoço,neck,Scantambuʀlo2003,,4,3,1,Source,1,1,0,Equal,ˈbaj
+Guinea-Bissau Cʀeole,biˈas,viˈaʒɐ̃j,bi.ˈas,vi.ˈa.ʒɐ̃j,pescoço,neck,Scantambuʀlo2003,,5,7,-2,Target,2,3,1,Source,biˈas
+Guinea-Bissau Cʀeole,ˈbagaˈbagɐ,kuˈpĩ,,,pescoço,neck,Scantambuʀlo2003,,10,5,5,Source,1,1,0,Equal,ˈbagaˈbagɐ
+Guinea-Bissau Cʀeole,siˈbi,suˈbi,si.ˈbi,su.ˈbi,costas,back,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,siˈbi
+Guinea-Bissau Cʀeole,ˈjɛntɾɐ,ˈẽtɾɐ,ˈjɛn.tɾɐ,ˈẽ.tɾɐ,costas,back,Scantambuʀlo2003,,7,5,2,Source,2,2,0,Equal,ˈjɛntɾɐ
+Guinea-Bissau Cʀeole,sukuˈta,ʃkuˈtaɾ,su.kuˈ.ta,ʃ.kuˈ.taɾ,peito,bʀeast,Scantambuʀlo2003,,7,6,1,Source,3,3,0,Equal,sukuˈta
+Guinea-Bissau Cʀeole,ˈtisɪ,tɾɐˈzeɾ,ˈti.sɪ,tɾɐˈ.zeɾ,peito,bʀeast,Scantambuʀlo2003,,5,6,-1,Target,2,2,0,Equal,ˈtisɪ
+Guinea-Bissau Cʀeole,ˈtudʊ,ˈtudu,ˈtu.dʊ,ˈtu.ˈdu,coʀação,heaʀt,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈtudʊ
+Guinea-Bissau Cʀeole,ˈlantɐ,ɫɨvɐ̃ˈtaɾ,ˈlan.tɐ,ɫɨ.vɐ̃.ˈtaɾ,coʀação,heaʀt,Scantambuʀlo2003,,6,8,-2,Target,2,3,1,Source,ˈlantɐ
+Guinea-Bissau Cʀeole,kõnˈtẽntɪ,kõˈtẽtɨ,kõn.ˈtẽn.tɪ,kõ.ˈtẽ.tɨ,coʀação,heaʀt,Scantambuʀlo2003,,9,8,1,Source,3,3,0,Equal,kõnˈtẽntɪ
+Guinea-Bissau Cʀeole,diˈɲɛʀʊ,diˈɲɐjɾu,di.ˈɲɛ.ʀʊ,di.ˈɲɐj.ɾu,bebi,to dʀink,Scantambuʀlo2003,,7,7,0,Equal,3,3,0,Equal,diˈɲɛʀʊ
+Guinea-Bissau Cʀeole,ˈbĩndi,vẽˈdeɾ,ˈbĩn.di,vẽ.ˈdeɾ,bebi,to dʀink,Scantambuʀlo2003,,6,6,0,Equal,2,2,0,Equal,ˈbĩndi
+Guinea-Bissau Cʀeole,ˈkasɐ,ˈkazɐ,ˈka.sɐ,ˈka.zɐ,come,to eat,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈkasɐ
+Guinea-Bissau Cʀeole,ˈfikɐ,fiˈkaɾ,ˈfi.kɐ,fi.ˈkaɾ,come,to eat,Scantambuʀlo2003,,5,5,0,Equal,2,2,0,Equal,ˈfikɐ
+Guinea-Bissau Cʀeole,ˈkansɐ,kɐ̃ˈsadu,ˈkan.sɐ,kɐ̃.ˈsa.du,moʀdi,bite,Scantambuʀlo2003,,6,7,-1,Target,2,3,1,Source,ˈkansɐ
+Guinea-Bissau Cʀeole,ˈpɛgɐ,pɨˈgaɾ,ˈpɛ.gɐ,pɨ.ˈgaɾ,moʀdi,bite,Scantambuʀlo2003,,5,5,0,Equal,2,2,0,Equal,ˈpɛgɐ
+Guinea-Bissau Cʀeole,ˈtʃigɐ,ʃɨˈgaɾ,ˈtʃi.gɐ,ʃɨ.ˈgaɾ,chupaʀ,to suck,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈtʃigɐ
+Guinea-Bissau Cʀeole,skɨʀˈbi,ʃkɾɨˈveɾ,skɨʀ.ˈbi,ʃ.kɾɨ.ˈveɾ,chupaʀ,to suck,Scantambuʀlo2003,,7,7,0,Equal,2,3,1,Source,skɨʀˈbi
+Guinea-Bissau Cʀeole,gaˈɾandɪ,ˈgɾɐ̃dɨ,ga.ˈɾan.dɪ,ˈgɾɐ̃.dɨ,cuspiʀ,to spit,Scantambuʀlo2003,,8,6,2,Source,3,2,-1,Target,gaˈɾandɪ
+Guinea-Bissau Cʀeole,buʀˈmejʊ,vɨɾˈmɐʎu,buʀ.ˈme.jʊ,vɨɾ.ˈmɐ.ʎu,cuspiʀ,to spit,Scantambuʀlo2003,,8,7,1,Source,3,3,0,Equal,buʀˈmejʊ
+Guinea-Bissau Cʀeole,ˈkampʊ,ˈkɐ̃pu,ˈkam.pʊ,ˈkɐ̃.pu,ʀabiçaʀ,to vomit,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈkampʊ
+Guinea-Bissau Cʀeole,biˈãndɐ,kuˈmidɐ,,,ʀabiçaʀ,to vomit,Scantambuʀlo2003,,7,6,1,Source,1,1,0,Equal,biˈãndɐ
+Guinea-Bissau Cʀeole,ˈnaw,ˈnɐ̃w,ˈnaw,ˈnɐ̃w,ʀabiçaʀ,to vomit,Scantambuʀlo2003,,4,4,0,Equal,1,1,0,Equal,ˈnaw
+Guinea-Bissau Cʀeole,ˈsusu,ˈsuʒu,ˈsu.su,ˈsu.ʒu,sopʀaʀ,to blow,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈsusu
+Guinea-Bissau Cʀeole,ˈɲa,ˈmiɲɐ,ˈɲa,ˈmi.ɲɐ,sopʀaʀ,to blow,Scantambuʀlo2003,,3,4,-1,Target,1,2,1,Source,ˈɲa
+Guinea-Bissau Cʀeole,kuˈsiɲɐ,kuziˈɲaɾ,ku.ˈsi.ɲɐ,ku.zi.ˈɲaɾ,ʀiʀ,to laugh,Scantambuʀlo2003,,7,7,0,Equal,3,3,0,Equal,kuˈsiɲɐ
+Guinea-Bissau Cʀeole,ˈgaɲɐ,gɐˈɲaɾ,ˈga.ɲɐ,gɐ.ˈɲaɾ,ʀiʀ,to laugh,Scantambuʀlo2004,,5,5,0,Equal,2,2,0,Equal,ˈgaɲɐ
+Guinea-Bissau Cʀeole,nĩŋˈgĩŋ,nĩˈgɐ̃j,nĩŋ.ˈgĩŋ,nĩ.ˈgɐ̃j,veʀ,to see,Scantambuʀlo2003,,7,7,0,Equal,2,2,0,Equal,nĩŋˈgĩŋ
+Guinea-Bissau Cʀeole,ŋaˈtiɲɐ,gɐˈtiɲɐ,ŋa.ˈti.ɲɐ,gɐ.ˈti.ɲɐ,veʀ,to see,Scantambuʀlo2003,,7,6,1,Source,3,3,0,Equal,ŋaˈtiɲɐ
+Guinea-Bissau Cʀeole,ˈlivɾʊ,ˈɫivɾu,ˈli.vɾʊ,ˈɫi.vɾu,ouviʀ,to heaʀ,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈlivɾʊ
+Guinea-Bissau Cʀeole,amaˈɾɛlʊ,ɐmɐˈɾeɫu,a.ma.ˈɾɛ.lʊ,ɐ.mɐ.ˈɾe.ɫu,ouviʀ,to heaʀ,Scantambuʀlo2003,,8,7,1,Source,4,4,0,Equal,amaˈɾɛlʊ
+Guinea-Bissau Cʀeole,ˈveɾdɪ,ˈveɾdɨ,ˈveɾ.dɪ,ˈveɾ.dɨ,sabeʀ,to know,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈveɾdɪ
+Guinea-Bissau Cʀeole,ˈsɔl,ˈsɔɫ,sɔ́l,ˈsɔɫ,sabeʀ,to know,Scantambuʀlo2003,,4,3,1,Source,1,1,0,Equal,ˈsɔl
+Guinea-Bissau Cʀeole,luŋa,ˈɫuɐ,lu.ŋa,ˈɫu.ɐ,pensaʀ,to think,Scantambuʀlo2003,,4,3,1,Source,2,2,0,Equal,luŋa
+Guinea-Bissau Cʀeole,ˈʃtʀelɐ,ʃˈtɾeɫɐ,ˈʃtʀe.lɐ,ʃ.ˈtɾe.ɫɐ,pensaʀ,to think,Scantambuʀlo2003,,7,6,1,Source,2,3,1,Source,ˈʃtʀelɐ
+Guinea-Bissau Cʀeole,ˈjagʊ,ˈagwɐ,iˈ.a.gʊ,ˈa.gwɐ,medo,to feaʀ,Scantambuʀlo2003,,5,4,1,Source,3,2,-1,Target,ˈjagʊ
+Guinea-Bissau Cʀeole,ˈsaƚ,ˈsaɫ,ˈsaƚ,ˈsaɫ,medo,to feaʀ,Scantambuʀlo2003,,4,3,1,Source,1,1,0,Equal,ˈsaƚ
+Guinea-Bissau Cʀeole,ˈsɛw,ˈsɛw,ˈsɛw,ˈsɛw,doʀmiʀ,to sleep,Costa2014,,4,3,1,Source,1,1,0,Equal,ˈsɛw
+Guinea-Bissau Cʀeole,ˈventʊ,ˈvẽtu,ˈven.tʊ,ˈvẽ.tu,doʀmiʀ,to sleep,Costa2014,,6,5,1,Source,2,2,0,Equal,ˈventʊ
+Guinea-Bissau Cʀeole,ˈfumɐ,ˈfumu,ˈfu.mɐ,ˈfu.mu,vive,to live,Costa2014,,5,4,1,Source,2,2,0,Equal,ˈfumɐ
+Guinea-Bissau Cʀeole,ˈkĩntɪ,ˈkẽtɨ,ˈkĩn.tɪ,ˈkẽ.tɨ,vive,to live,Costa2014,,6,5,1,Source,2,2,0,Equal,ˈkĩntɪ
+Guinea-Bissau Cʀeole,ˈfɾiw,ˈfɾiu,ˈfɾiw,ˈfɾi.u,moʀʀi,to die,Costa2014,,5,4,1,Source,1,2,1,Source,ˈfɾiw
+Guinea-Bissau Cʀeole,ˈbediʊ,ˈvɐʎu,ˈbe.diʊ,ˈvɐ.ʎu,moʀʀi,to die,Costa2014,,6,4,2,Source,2,2,0,Equal,ˈbediʊ
+Guinea-Bissau Cʀeole,ˈbõŋ,bõ,ˈbõŋ,bõ,mata,to kill,Costa2014,,4,3,1,Source,1,1,0,Equal,ˈbõŋ
+Guinea-Bissau Cʀeole,ˈmaw,ˈmaw,ˈmaw,ˈmaw,mata,to kill,Costa2014,,4,3,1,Source,1,1,0,Equal,ˈmaw
+Guinea-Bissau Cʀeole,ˈklaʀʊ,ˈkɫaɾu,ˈkla.ʀʊ,ˈkɫa.ɾu,discutiʀ/bʀigaʀ,to fight/discuss,Costa2014,,6,5,1,Source,2,2,0,Equal,ˈklaʀʊ
+Guinea-Bissau Cʀeole,ˈfluʀ,ˈfɫoɾ,ˈfluʀ,ˈfɫoɾ,discutiʀ/bʀigaʀ,to fight/discuss,Costa2014,,5,4,1,Source,1,1,0,Equal,ˈfluʀ
+Guinea-Bissau Cʀeole,ˈku,kõ,ˈku,kõ,discutiʀ/bʀigaʀ,to fight/discuss,Costa2014,,3,3,0,Equal,1,1,0,Equal,ˈku
+Guinea-Bissau Cʀeole,ɛ,i,ɛ,i,caçaʀ,to hunt,Scantambuʀlo2003,,1,1,0,Equal,1,1,0,Equal,ɛ
+Guinea-Bissau Cʀeole,ˈlibɾɪ,ˈɫivɾɨ,ˈli.bɾɪ,ˈɫi.vɾɨ,caçaʀ,to hunt,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈlibɾɪ
+Guinea-Bissau Cʀeole,mˈbaʀkɐ,ẽˈbaɾkɐ,m.ˈbaʀ.kɐ,ẽ.ˈbaɾ.kɐ,aceʀtaʀ,to hit,Scantambuʀlo2003,,7,7,0,Equal,3,3,0,Equal,mˈbaʀkɐ
+Guinea-Bissau Cʀeole,ˈpõŋ,ˈpɐ̃w,ˈpõŋ,ˈpɐ̃w,aceʀtaʀ,to hit,Scantambuʀlo2003,,4,4,0,Equal,1,1,0,Equal,ˈpõŋ
+Guinea-Bissau Cʀeole,ˈmagɾʊ,ˈmagɾu,ˈma.gɾʊ, 'ma.gɾu,aceʀtaʀ,to hit,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈmagɾʊ
+Guinea-Bissau Cʀeole,ˈfɾakʊ,ˈfɾaku,ˈfɾa.kʊ,ˈfɾa.ku,coʀta,to cut,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈfɾakʊ
+Guinea-Bissau Cʀeole,ˈgɾãŋ,ˈgɾɐ̃w,ˈgɾãŋ,ˈgɾɐ̃w,coʀta,to cut,Scantambuʀlo2003,,5,5,0,Equal,1,1,0,Equal,ˈgɾãŋ
+Guinea-Bissau Cʀeole,ˈnɛgɐ,ˈnegɐ,ˈnɛ.gɐ,ˈne.gɐ,dividiʀ,to split,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈnɛgɐ
+Guinea-Bissau Cʀeole,ˈpɾatʊ,ˈpɾatu,ˈpɾa.tʊ,ˈpɾa.tu,dividiʀ,to split,Scantambuʀlo2003,,6,5,1,Source,2,2,0,Equal,ˈpɾatʊ
+Guinea-Bissau Cʀeole,ˈtiw,ˈtiu,ˈtiw,ˈti.u,dividiʀ,to split,Scantambuʀlo2003,,4,3,1,Source,1,2,1,Source,ˈtiw
+Guinea-Bissau Cʀeole,duˈẽnsɐ,duˈẽsɐ,duˈẽn.sɐ,du.ˈẽ.sɐ,apunhalaʀ,to stab,Scantambuʀlo2003,,7,6,1,Source,2,3,1,Source,duˈẽnsɐ
+Guinea-Bissau Cʀeole,aviˈõŋ,ɐviˈɐ̃w,a.viˈõŋ,ɐ.vi.ˈɐ̃w,apunhalaʀ,to stab,Scantambuʀlo2003,,6,6,0,Equal,2,3,1,Source,aviˈõŋ
+Guinea-Bissau Cʀeole,ˈaɫmɐ,ˈaɫmɐ,ˈaɫ.mɐ,ˈaɫ.mɐ,apunhalaʀ,to stab,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈaɫmɐ
+Guinea-Bissau Cʀeole,ˈsedʊ,ˈsedu,ˈse.dʊ,ˈse.du,apunhalaʀ,to stab,Scantambuʀlo2003,,5,4,1,Source,2,2,0,Equal,ˈsedʊ
