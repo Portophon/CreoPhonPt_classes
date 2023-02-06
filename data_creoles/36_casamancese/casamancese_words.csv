@@ -1,12 +1,12 @@
 Language,SourceWord,TargetWord,SourceWordSyl,TargetWordSyl,SourceSyllable,TargetSyllable,SourceWordSyl,TargetWordSyl,SourceWordLength,TargetWordLength,SourceWordSylLength,TargetWordSylLength,WordDiff,WordBigger,SyllDiff,SylNumBigger,PositionSource,PositionTarget,SimplePositionSource,SimplePositionTarget,Process,TargetOrthography,Translation,Reference,Notes
-Casamancese,bo,vuˈse,bo,vu.ˈse,bo,vu,1,2,2,4,1,2,-2,Target,-1,Target,1,1,Medial,Medial,Qual é o processo de /v/ para /b/?,você,"thou, you",Biagui2012[129],
+Casamancese,bo,vuˈse,bo,vu.ˈse,bo,vu,1,2,2,4,1,2,-2,Target,-1,Target,1,1,Medial,Medial,,você,"thou, you",Biagui2012[129],
 Casamancese,jel,ˈeɫɨ,jel,ˈe.ɫɨ,jel,ˈe,1,2,3,3,1,2,0,Equal,-1,Target,1,1,Medial,Medial,prothesis,ele,he,Biagui2012[129],
 Casamancese,nos,ˈnɔʃ,nos,ˈnɔʃ,nos,ˈnɔʃ,1,1,3,3,1,1,0,Equal,0,Equal,1,1,Medial,Medial,,nós,we,Biagui2012[129],
-Casamancese,bos,vuˈseʃ,bos,vu.ˈseʃ,bos,vu,1,2,3,5,1,2,-2,Target,-1,Target,1,1,Medial,Medial,Qual é o processo de /v/ para /b/?,vocês,"ye, you",Biagui2012[129],
+Casamancese,bos,vuˈseʃ,bos,vu.ˈseʃ,bos,vu,1,2,3,5,1,2,-2,Target,-1,Target,1,1,Medial,Medial,,vocês,"ye, you",Biagui2012[129],
 Casamancese,ˈjelus,ˈeɫɨʃ,ˈje.lus,ˈe.ɫɨʃ,ˈje,ˈe,2,2,5,4,2,2,1,Source,0,Equal,1,1,Medial,Medial,prothesis,eles,they,Biagui2012[129],
 Casamancese,li,ɐˈki,li,ɐ.ˈki,li,ɐ,1,2,2,3,1,2,-1,Target,-1,Target,1,1,Medial,Medial,aphaeresis,aqui,here,Biagui2012[258],
 Casamancese,la,ˈɫa,la,ˈɫa,la,ˈɫa,1,1,2,2,1,1,0,Equal,0,Equal,1,1,Medial,Medial,,lá,there,Biagui2012[258],
-Casamancese,ki,kɐ̃j,ki,kɐ̃j,ki,kɐ̃j,1,1,2,4,1,1,-2,Target,0,Equal,1,1,Medial,Medial,Há processo? Qual?,quem,who,Biagui2012[29],
+Casamancese,ki,kɐ̃j,ki,kɐ̃j,ki,kɐ̃j,1,1,2,4,1,1,-2,Target,0,Equal,1,1,Medial,Medial,,quem,who,Biagui2012[29],
 Casamancese,ku'ma,ˈkomu,ku.'ma,ˈko.mu,ku,ˈko,2,2,5,4,2,2,1,Source,0,Equal,1,1,Medial,Medial,,como,how,Biagui2012[287],
 Casamancese,ˈtudu,ˈtudu,ˈtu.du,ˈtu.du,ˈtu,ˈtu,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,tudo,all,Biagui2012[151],
 Casamancese,mboˈkadu,buˈkadu,mbo.ˈka.du,bu.ˈka.du,mbo,bu,3,3,6,6,3,3,0,Equal,0,Equal,1,1,Medial,Medial,prothesis,"bocado, pouco",few,Biagui2012[117],
@@ -62,7 +62,7 @@ Casamancese,korˈta,kuɾˈtaɾ,kor.ˈta,kuɾ.ˈtaɾ,kor,kuɾ,2,2,5,6,2,2,-1,Targ
 Casamancese,koˈsa,kuˈsaɾ,ko.ˈsa,ku.ˈsaɾ,ko,ku,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,coçar,scratch,Biagui2012[106],
 Casamancese,koˈba,kɐˈvaɾ,ko.ˈba,kɐ.ˈvaɾ,ko,kɐ,2,2,4,5,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,cavar,dig,Biagui2012[13],
 Casamancese,jeˈnda,ɐ̃ˈdaɾ,je.ˈnda,ɐ̃.ˈdaɾ,je,ɐ̃,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,"andar, caminhar",walk,Biagui2012[13],
-Casamancese,beŋ,vɐ̃j,beŋ,vɐ̃j,beŋ,vɐ̃j,1,1,3,4,1,1,-1,Target,0,Equal,1,1,Medial,Medial,Qual é o processo de /v/ para /b/?,vem,come,Biagui2012[158],
+Casamancese,beŋ,vɐ̃j,beŋ,vɐ̃j,beŋ,vɐ̃j,1,1,3,4,1,1,-1,Target,0,Equal,1,1,Medial,Medial,,vem,come,Biagui2012[158],
 Casamancese,foj,mẽˈtiɾ,foj,mẽ.ˈtiɾ,,,,,3,6,1,2,-3,Target,-1,Target,,,,Final,,mentir,lie,Biagui2012[157],Not portuguese origin
 Casamancese,siˈnta,sẽˈtaɾ,si.ˈnta,sẽ.ˈtaɾ,si,sẽ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,sentar,sit,Biagui2012[202],
 Casamancese,labaˈnta,ɫɨvɐ̃ˈtaɾ,la.ba.ˈnta,ɫɨ.vɐ̃.ˈtaɾ,la,ɫɨ,3,3,7,8,3,3,-1,Target,0,Equal,1,1,Medial,Medial,,levantar,stand,Biagui2012[202],
@@ -116,7 +116,7 @@ Casamancese,ˈmala,ˈmaɫɐ,ˈma.la,ˈma.ɫɐ,ˈma,ˈma,2,2,4,4,2,2,0,Equal,0,Eq
 Casamancese,ˈsuɲu,ˈsoɲu,ˈsu.ɲu,ˈso.ɲu,ˈsu,ˈso,2,2,4,4,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,sonho,dream,Biagui2012[19],"Basic, but not Swadesh items"
 Casamancese,liˈmpa,ɫĩˈpaɾ,li.ˈmpa,ɫĩ.ˈpaɾ,li,ɫĩ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,limpar,clean,Biagui2012[19],"Basic, but not Swadesh items"
 Casamancese,lãˈsol,ɫẽˈsɔɫ,lã.ˈsol,ɫẽ.ˈsɔɫ,lã,ɫẽ,2,2,5,6,2,2,-1,Target,0,Equal,1,1,Medial,Medial,,lençol,sheet,Biagui2012[21],"Basic, but not Swadesh items"
-Casamancese,saŋ,ˈsɐ̃w,saŋ,ˈsɐ̃w,saŋ,ˈsɐ̃w,1,1,3,4,1,1,-1,Target,0,Equal,1,1,Medial,Medial,Há processo? Qual?,são (saudável),healthy,Biagui2012[158],"Basic, but not Swadesh items"
+Casamancese,saŋ,ˈsɐ̃w,saŋ,ˈsɐ̃w,saŋ,ˈsɐ̃w,1,1,3,4,1,1,-1,Target,0,Equal,1,1,Medial,Medial,,são (saudável),healthy,Biagui2012[158],"Basic, but not Swadesh items"
 Casamancese,firˈmiɲga,fõˈɾigɐ,fir.ˈmi.ɲga,fõ.ˈɾi.gɐ,fir,fõ,3,3,8,7,3,3,1,Source,0,Equal,1,1,Medial,Medial,methatesis,formiga,ant,Biagui2012[24],"Basic, but not Swadesh items"
 Casamancese,murˈsegu,muɾˈsegu,mur.ˈse.gu,muɾ.ˈse.gu,mur,mur,3,3,7,7,3,3,0,Equal,0,Equal,1,1,Medial,Medial,,morcego,bat,Biagui2012[24],"Basic, but not Swadesh items"
 Casamancese,ˈkurpu,ˈkoɾpu,ˈkur.pu,ˈkoɾ.pu,ˈkur,ˈkoɾ,2,2,5,5,2,2,0,Equal,0,Equal,1,1,Medial,Medial,,corpo,"body, corps",Biagui2012[25],"Basic, but not Swadesh items"
