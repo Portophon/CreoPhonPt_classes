@@ -1,2 +1,2 @@
 # CreoPhonPt
-Data collection to feed into CreoPhonPt and data management training
+Data collection to feed into CreoPhonPt and data analysis training
